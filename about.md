@@ -11,8 +11,3 @@ title: About
 
 ## (Semi)Official Bio
 Scott J Roberts works for GitHub and makes up his title every time he's asked, so we'll say he's the Director of Bad Guy Catching. He has worked for 900lbs security gorillas, government security giants & boutiques, and financial services security firms and done his best to track down bad guys at all these places. He's released and contributed to multiple tools for threat intelligence and malware analysis. Scott is also really good at speaking in the 3rd person.
-
-## Find Me Other Places:
-* [Twitter: @sroberts](http://www.twitter.com/sroberts)
-* Instagram
-* LinkedIn
