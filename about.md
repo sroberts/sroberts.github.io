@@ -3,22 +3,16 @@ layout: page
 title: About
 ---
 
-<p class="message">
+<!--<p class="message">
   Hey there! This page is included in Hyde as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+</p>-->
 
-[Hyde](http://mdo.github.io/hyde) is a [Jekyll](http://jekyllrb.com) theme, designed and built by [@mdo](https://twitter.com/mdo). It's an elegant, open source, and mobile first theme for quickly getting a static site up and running.
+![hey it's me!](https://0.gravatar.com/avatar/b8dfc1ccaac89ecc4cff77f83998789c?d=https%3A%2F%2Fidenticons.github.com%2Ff7ce934a42554260ad8225c18d2b61c1.png&r=x&s=440)
 
-## Setup
+## (Semi)Official Bio
+Scott J Roberts works for GitHub and makes up his title every time he's asked, so we'll say he's the Director of Bad Guy Catching. He has worked for 900lbs security gorillas, government security giants & boutiques, and financial services security firms and done his best to track down bad guys at all these places. He's released and contributed to multiple tools for threat intelligence and malware analysis. Scott is also really good at speaking in the 3rd person.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Fonts PT Sans (headings) and PT Serif (body), and are served by [Google Web Fonts](http://www.google.com/webfonts)
-* Coded with [Sublime Text 2](http://sublimetext.org), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/mdo/hyde/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+## Find Me Other Places:
+* [Twitter: @sroberts](http://www.twitter.com/sroberts)
+* Instagram
+* LinkedIn
