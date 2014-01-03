@@ -6,14 +6,14 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Hyde
-tagline:          'A Jekyll theme'
-description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://hyde.getpoole.com
+title:            sroberts
+tagline:          'see description'
+description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @<a href="www.github.com">github</a>'
+url:              http://www.togafoamparty.com
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'Scott J Roberts'
+  url:            https://twitter.com/sroberts
 
 paginate:         5
 
@@ -21,4 +21,10 @@ paginate:         5
 version:          2.0.0
 
 github:
-  repo:           https://github.com/poole/hyde
+  main:           https://github.com/sroberts/
+
+twitter:
+  main:           https://www.twitter.com/sroberts
+
+linkedin:
+  main:           http://www.linkedin.com/in/scottroberts
