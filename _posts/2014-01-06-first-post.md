@@ -4,6 +4,7 @@ So after a lot of harassment by the likes of Ben Balter and some other GitHubber
 I'm hoping to share:
 * Some developing ideas
 * Projects I've been working on
+* Improve my writing
 * Things I've been learning/trying to learn
 * And responding in longer form to a few other folks on the Internet
 
