@@ -9,7 +9,7 @@ A lot of the work I've been doing has been a combination of Ruby/Python and [com
 
 > cat foo.txt | grep \"foo\" | sort | uniq
 
-I've learned a lot about composing commands and the beauty of the Unix philosophy, it's been great. But I hit a lot of issues with some tools that intially spit out "ugly", overly terse JSON:
+I've learned a lot about composing commands and the beauty of the Unix philosophy, it's been great. But I hit a lot of issues with some tools that initially spit out "ugly", overly terse JSON:
 
 ```json
 [{"foo": "foo", "bar": [1, 2, 3], "baz": "baz"}]
