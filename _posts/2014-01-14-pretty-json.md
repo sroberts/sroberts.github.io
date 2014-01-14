@@ -17,7 +17,7 @@ I've learned a lot about composing commands and the [beauty of the Unix philosop
 
 [Valid](http://jsonlint.com)? Yes, but difficult to work with, especially on the command line with the simple ```grep``` commands I was using. I got close to writing a tool to use [Python](http://www.python.org) or [Ruby](https://www.ruby-lang.org/en/)'s built in conversion [until I found](http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json):
 
-> cat foo_ugly.json | python -tmjson.tool > foo_pretty.json
+> cat foo\_ugly.json | python -tmjson.tool > foo\_pretty.json
 
 Which spit out the far easier to read and work with:
 
