@@ -2,7 +2,7 @@
 layout: post
 title: The Importance of Mentoring
 ---
-I'm a big believer in mentoring. Classes are great, self learning is hugely important, but there are few things that help someone as much as grow than having someone a little bit farther down the road to give a little bit of guidance. I've been lucky enough throughout my life to have had many mentors in a number of aspects of my career and life. These people have been invaluable.
+I'm a big believer in mentoring. Classes are great, self learning is hugely important, but there are few things that help someone grow as having someone a little bit farther down the road to give a little bit of guidance. I've been lucky enough throughout my life to have had many mentors in a number of aspects of my career and life. These people have been invaluable.
 
 I'm not the only one. A few months ago [Coby Chapple](http://cobyism.com), one of GitHub's amazing designers, did a talk at a company event about the importance of mentoring, based on the [Distributed Mentoring movement](http://mentoring.is). Coby even put his code where his mouth is, adding a [page to his personal site](http://cobyism.com/mentoring/) stating his support of mentoring and offering to mentor those who put themselves out there and email him. Going a step further he even made it easy for others to follow his lead by forking his [mentoring repo](https://github.com/cobyism/mentoring) creating a mentoring page of your own.
 
