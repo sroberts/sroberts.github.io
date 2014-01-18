@@ -2,7 +2,7 @@
 layout: post
 title: My Favorite Open Source Security Tools
 ---
-So working at [GitHub](http://github.com) it's no surprise I believe in and use a lot of open source software. I think especially for security this makes sense, for a number of reasons:
+So working at [GitHub](http://github.com) it is no surprise I believe in and use a lot of open source software. I think especially for security this makes sense, for a number of reasons:
 
 * We need tools we can trust, so transparency is key
 * We need tools we can modify, since we often need things that don't exist
@@ -13,10 +13,10 @@ And the list goes on. I try to support these projects, with code, with feedback,
 ## [Google's Rapid Response](https://code.google.com/p/grr/)
 Ok, #realtalk: This is an open source version of [Mandiant](http://www.mandiant.com)/[FireEye](http://www.fireeye.com)'s MIR incident response platform. The idea is systems have an agent that reports to a server. The server can then set up jobs to look across an individual system, a group, or an entire population for a specific indicator of compromise, individual file, or many other forensic artifacts. 
 
-Given the expense of MIR or similar systems like Encase Enterprise it's truly astonishing the amount of effort the Google team working on GRR has put in, and it's a huge benefit to the community that they've released it. You can find more information on their [user mailing](https://groups.google.com/forum/#!forum/grr-users) list and [Google Code](https://code.google.com/p/grr/) site. As a side note I made a [fork on GitHub](https://github.com/grr-hackers/grr) to encourage even more open source collaboration. I'm really interested in talking to folks who want to work on this.
+Given the expense of MIR or similar systems like Encase Enterprise it's truly astonishing the amount of effort the Google team working on GRR has put in, and it's a huge benefit to the community that they've released it. You can find more information on their [user mailing list](https://groups.google.com/forum/#!forum/grr-users) and [Google Code](https://code.google.com/p/grr/) site. As a side note I made a [fork on GitHub](https://github.com/grr-hackers/grr) to encourage even more open source collaboration. I'm really interested in talking to folks who want to work on this.
 
 ## [AOL's Moloch](https://github.com/aol/moloch)
-So if GRR is an open source version of MIR the Moloch is an open source version of EMC/RSA/Netwitness's [Netwitness Investigator](http://www.emc.com/security/rsa-netwitness.htm) full content monitoring tool. Put together by the fine folks at AOL Moloch helps you capture and hunt in network traffic.
+So if GRR is an open source version of MIR then Moloch is an open source version of EMC/RSA/Netwitness's [Netwitness Investigator](http://www.emc.com/security/rsa-netwitness.htm) full content monitoring tool. Put together by the fine folks at AOL Moloch helps you capture and hunt in network traffic.
 
 ## [Etsy & Facebook's MIDAS](https://github.com/etsy/midas)
 Oh the fine folks from Etsy & Facebook gave us a gift. MIDAS, the Mac Intrusion Detection Analysis System, is a framework for building host level detection of compromises specifically for OSX. It allows building complex detection routines in Python, then provides the structure to run, store, and report on them. I've done a bit of work with this and see amazing potential long term. 
