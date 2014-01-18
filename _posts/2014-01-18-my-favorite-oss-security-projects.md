@@ -15,6 +15,8 @@ Ok, #realtalk: This is an open source version of [Mandiant](http://www.mandiant.
 Given the expense of MIR or similar systems like Encase Enterprise it's truely astonishing the amount of effort the Google team working on GRR has put in, and it's a huge benefit to the community that they've released it. You can find more information on their [user mailing](https://groups.google.com/forum/#!forum/grr-users) list and [Google Code](https://code.google.com/p/grr/) site. As a side note I made a [fork on GitHub](https://github.com/grr-hackers/grr) to encourage even more open source collaboration. I'm really intersted in talking to folks who want to work on this.
 
 ## [AOL's Moloch](https://github.com/aol/moloch)
+So if GIR is an open source version of MIR the Moloch is an open source version of EMC/RSA/Netwitness's [Netwitness Investigator](http://www.emc.com/security/rsa-netwitness.htm) full content monitoring tool. Put together by the fine folks at AOL Moloch helps you capture and hunt in network traffic.
+
 ## [FordropWeb](https://github.com/berggren/fordropweb) - Collaborative system forensics
 ## [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
 ## [PyIOC](https://github.com/jeffbryner/pyioc) - Python tools for IOC (Indicator of Compromise) handling
