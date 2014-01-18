@@ -17,9 +17,14 @@ Given the expense of MIR or similar systems like Encase Enterprise it's truely a
 ## [AOL's Moloch](https://github.com/aol/moloch)
 So if GIR is an open source version of MIR the Moloch is an open source version of EMC/RSA/Netwitness's [Netwitness Investigator](http://www.emc.com/security/rsa-netwitness.htm) full content monitoring tool. Put together by the fine folks at AOL Moloch helps you capture and hunt in network traffic.
 
-## [FordropWeb](https://github.com/berggren/fordropweb) - Collaborative system forensics
-## [OSX Auditor](https://github.com/jipegit/OSXAuditor) - OS X Auditor is a free Mac OS X computer forensics tool
-## [PyIOC](https://github.com/jeffbryner/pyioc) - Python tools for IOC (Indicator of Compromise) handling
-## [GitHub Swordfish](https://github.com/github/swordfish) - A password management app with support for sharing with groups. 
+## [FordropWeb](https://github.com/berggren/fordropweb)
+So this project hasn't gotten a lot of love lately, but it's hugely interesting to me. There aren't a lot of tools that try to make it easier to collaborate on forensic investigations, in fact most seem hell bent on the exact opposite. I'd love to see more work on this tool, and will be setting it up at home soon.
+
+## [OSX Auditor](https://github.com/jipegit/OSXAuditor)
+I'm an OSX user and work with a lot of OSX users. OSX security tools are few and far between, so OSX Auditor is a great tool. OSX Auditor checks in on your important system files, makes sure they stay unchanged, and alerts you to strange changes. I'm especially interested in this to do a "before and after" look at systems, such as if you had a laptop taken at customs. Fills a limited niche.
+
+## [PyIOC](https://github.com/jeffbryner/pyioc)
+Exchanging information about threats is a shockingly complex task. Mandiant (yeah, they're back) released an XML based format for sharing information with their [OpenIOC](http://www.openioc.org) indicator format. Now I hate XML, but PyIOC attempts ot make it easier to work with OpenIOC in a programtic way. Super useful for automatic generation of signatures/rules or other detection formats.
+
 ## [Buffer's Thug](https://github.com/buffer/thug) - Python low-interaction honey client
 ## [Cuckoo Sandbox](https://github.com/cuckoobox/cuckoo) - Cuckoo Sandbox main repository
