@@ -23,9 +23,6 @@ Oh the fine folks from Etsy & Facebook gave us a gift. MIDAS, the Mac Intrusion 
 ## [FordropWeb](https://github.com/berggren/fordropweb)
 So this project hasn't gotten a lot of love lately, but it's hugely interesting to me. There aren't a lot of tools that try to make it easier to collaborate on forensic investigations, in fact most seem hell bent on the exact opposite. I'd love to see more work on this tool, and will be setting it up at home soon.
 
-## [OSX Auditor](https://github.com/jipegit/OSXAuditor)
-At it's core OSX Auditor, like MIDAS, is a straight forward tool for OSX system analysis. OSX Auditor checks in on your important system files, makes sure they stay unchanged, and alerts you to strange changes. I'm especially interested in this to do a "before and after" look at systems, such as if you had a laptop taken at customs. Fills a limited niche.
-
 ## [PyIOC](https://github.com/jeffbryner/pyioc)
 Exchanging information about threats is a shockingly complex task. Mandiant (yeah, they're back) released an XML based format for sharing information with their [OpenIOC](http://www.openioc.org) indicator format. Now I hate XML, but PyIOC attempts ot make it easier to work with OpenIOC in a programtic way. Super useful for automatic generation of signatures/rules or other detection formats.
 
