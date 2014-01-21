@@ -59,8 +59,8 @@ module.exports = (robot) ->
 * Other's ideas...
 
 ## Resources
-* Hubot
-* Hubot VTR Scripts & Hubot VTR Rhodey
-* Chatops at github - jesse newland
-* programming butler: hubot scripts explained
-* code school: learn coffeescript
+* [Hubot](http://hubot.github.com) & [Hubot Source](https://github.com/github/hubot)
+* [Hubot VTR Scripts](https://github.com/sroberts/hubot-vtr-scripts) & [Hubot VTR Rhodey](https://github.com/sroberts/hubot-vtr-rhodey)
+* [Chatops @ GitHub](www.youtube.com/watch?v=NST3u-GjjFw) - [Jesse Newland](https://twitter.com/jnewland)
+* [Programming Butler: Hubot Scripts Explained](theprogrammingbutler.com/blog/archives/2011/10/28/hubot-scripts-explained/) - [Jon Hoyt](https://twitter.com/jonmagic)
+* [Code School: Learn Coffeescript](https://www.codeschool.com/courses/coffeescript)
