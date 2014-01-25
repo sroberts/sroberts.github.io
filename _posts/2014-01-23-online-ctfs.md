@@ -9,6 +9,4 @@ Even with all the benefits there is one tough part: you can't always spend a wee
 * Square/Matasano: [MicroCorruption](https://microcorruption.com)
 * Stripe: [Stripe-CTF](https://stripe-ctf.com/account)
 
-I took a quick look at MicroCorruption over lunch and it's unique take focused on embedded software security is fascinating. They've put together a great interface, putting hardware debugging & exploitation in a web browser. But I'm really excited to get into Stripe-CTF. I've already heard it's a great way to dig into a number of languages and software security topics.
-
-So if you're looking for a good learning exercise, specifically around security, these will likely be a great way to learn something new and gear up for the big kid CTFs this summer.
+I took a quick look at MicroCorruption over lunch and it's unique take focused on embedded software security is fascinating. They've put together a great interface, putting hardware debugging & exploitation in a web browser. I'm really excited to get into Stripe-CTF, which seems a little more language/programic centric rather than exploitation driven. I think I'll be starting on MicroCorruption this weekend, but either way they are two different topics to learn, both a great way to do it.
