@@ -6,7 +6,16 @@ title: Using Robots to Fight Bad Guys
 I've gone a few places and given a few talks about some of the work I've done to adapt Hubot and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR.
 
 ## How GitHub Uses Hubot: ChatOps
-http://tech.toptable.co.uk/blog/2013/11/22/beginning-a-journey-to-chatops-with-hubot/
+So DevOps in general and ChatOps specifically are massive topics unto themselves and I'm not sure I'm the right person to fully address them, so here's my short version of each:
+
+* **DevOps:** An integration of software development & systems operations to increase efficiency, consistancy, repeatability, and security.
+
+* **ChatOps:** Doing devops by building tools that integrate with the teams chat applications.
+
+### ChatOps & DevOps Links
+* [MountainWest RubyConf 2013 ChatOps at GitHub by Jesse Newland](http://www.youtube.com/watch?v=-LxavzqLHj8)
+* [toptable Tech Blog: Beginning a journey to chatops with Hubot](http://tech.toptable.co.uk/blog/2013/11/22/beginning-a-journey-to-chatops-with-hubot/)
+* [FoodFightShow: ChatOps at Github With Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)
 
 ## Making Hubot a DFIR Sidekick
 The idea is to make Hubot support security ops:
