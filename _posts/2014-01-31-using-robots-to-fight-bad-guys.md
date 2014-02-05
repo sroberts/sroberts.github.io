@@ -14,6 +14,14 @@ So [DevOps](http://en.wikipedia.org/wiki/DevOps) in general and ChatOps specific
 
 Both of these techniques take advantage of modern development tools for rapid tool creation and integration, tools like Puppet/Chef for automation, and a data driven approach where feelings, conventional wisdom, and "thats just the way we do it" is replaced with collaboration and metrics.
 
+<img src="./public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
+
+### Benefits of Chat
+* asyncronus - searchable, read back, push notifications
+* multi device - laptop, tablet, & phone
+* collaborative
+* a great interface to build tools around
+
 ### ChatOps & DevOps Links
 * [MountainWest RubyConf 2013 ChatOps at GitHub by Jesse Newland](http://www.youtube.com/watch?v=-LxavzqLHj8)
 * [toptable Tech Blog: Beginning a journey to chatops with Hubot](http://tech.toptable.co.uk/blog/2013/11/22/beginning-a-journey-to-chatops-with-hubot/)
