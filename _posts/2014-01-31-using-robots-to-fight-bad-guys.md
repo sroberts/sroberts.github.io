@@ -41,6 +41,8 @@ Setting up Hubot is a simple task that's best started by looking at the [Hubot d
 
 Once you've got a basic Hubot setup you'll want to [install the VTR scripts with these directions](https://github.com/sroberts/hubot-vtr-scripts/blob/master/README.md#setup). It should be pretty painless.
 
+## Using Hubot VTR
+
 ## Writing Hubot Scripts
 
 ```coffeescript
