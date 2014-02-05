@@ -10,6 +10,7 @@ http://tech.toptable.co.uk/blog/2013/11/22/beginning-a-journey-to-chatops-with-h
 
 ## Making Hubot a DFIR Sidekick
 The idea is to make Hubot support security ops:
+
 - open source intelligence
 - network forensics
 - system forensics (disk & memory)
