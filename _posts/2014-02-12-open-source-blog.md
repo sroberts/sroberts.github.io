@@ -22,16 +22,16 @@ Here's whats behind my blog:
   * Create pull request, commit post, merge pull request, have blog. Easy.
 * Vim:
   * I've been trying to force myself to use Vim for most things, this is no exception. Square's Maximum Awesome package makes it usable.
-* ASpell:
+* Aspell:
   * I've already mentioned how great Aspell is, but it's really a life saver for words I put in front of real people.
 * Pixelmator:
   * On the rare cases I post images and need them edited Pixelmator is the best combo of features & ease of use. 
 * Hub:
-  * It's great being able to do things like open a pull request without leaving the commandline. I also use ```hub browse``` to jump to the right place on the web more than I care to admit.
+  * It's great being able to do things like open a pull request without leaving the command line. I also use ```hub browse``` to jump to the right place on the web more than I care to admit.
 * GitHub Pages Gem:
-  * This gem keeps everything inline, making sure you always stay up to date on jekyll version, Pages compatibility, etc.
+  * This gem keeps everything inline, making sure you always stay up to date on Jekyll version, Pages compatibility, etc.
 
-That's the technology behind it. I also use the repositiory Issues to keep track of posts I'd like to write, notes, etc. 
+That's the technology behind it. I also use the repository Issues to keep track of posts I'd like to write, notes, etc. 
 
 ## Going Forward
 I welcome feedback and suggestions via the open issues. While I want to avoid discussions of content in there please feel free to comment on what I'm planning to write and changes I plan to make. Feel free to rip off content, just give credit where credit is due. And thanks to all those who built the tools, I couldn't do it without you.
