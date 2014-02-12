@@ -34,4 +34,4 @@ Here's whats behind my blog:
 That's the technology behind it. I also use the repository Issues to keep track of posts I'd like to write, notes, etc. 
 
 ## Going Forward
-I welcome feedback and suggestions via the open issues. While I want to avoid discussions of content in there please feel free to comment on what I'm planning to write and changes I plan to make. Feel free to rip off content, just give credit where credit is due. And thanks to all those who built the tools, I couldn't do it without you.
+I welcome feedback and suggestions via the open [issues](https://github.com/sroberts/sroberts.github.io/issues/). While I want to avoid discussions of content in there please feel free to comment on what I'm planning to write and changes I plan to make. Feel free to rip off content, just give credit where credit is due. And thanks to all those who built the tools, I couldn't do it without you.
