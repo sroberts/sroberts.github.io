@@ -43,6 +43,19 @@ Once you've got a basic Hubot setup you'll want to [install the VTR scripts with
 
 ## Using Hubot VTR
 
+| Script | Description | Using It |
+| ------ | ----------- | -------- |
+| Code Name Generator | Generates code names for being spooky | /codephrase |
+| Geolocate IP | Identify the physical location of an IP address ||
+| MyWOT | Look up the reputation of a website ||
+| Pipl | Look up OSINT on a users email address ||
+| Reputation Links | Generate links for Robtext, IP/URLVoid, etc ||
+| Reverse DNS | Get the urls associated with an IP address ||
+| Shodan | Search engine for server strings. | |
+| Short URL Expander | Take a shortened URL and find out where it redirects to. | |
+| VirusTotal | Hash, URLs, IP Addresses | |
+| Yara | Generates template for creating Yara rules. | |
+
 ## Writing Hubot Scripts
 
 ```coffeescript
