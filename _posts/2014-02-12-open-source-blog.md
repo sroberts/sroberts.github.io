@@ -9,27 +9,34 @@ Since I setup my blog a number of folks have asked me what I'm using, how it's s
 
 ## The Repository:
 
-* [sroberts.github.io](https://github.com/sroberts/sroberts.github.io) - There it is. The whole thing
+[sroberts.github.io](https://github.com/sroberts/sroberts.github.io) - There it is. The whole thing
 
 ## Quick Rundown
 Here's whats behind my blog:
 
-* Blog Package: [Jekyll](http://jekyllrb.com)
-  * The amazing open source blogging platform works as well for me as anyone else. I write Markdown all day, so it's an easy to way to write blog content as well.
-* Blog Theme: [Hyde](http://andhyde.com)
-  * Gotta love a literary turn of phrase, Hyde gave me a great look without forcing me into lengthy HTML/CSS customization. I trust the professionals.
-* Hosting: [GitHub Pages](http://pages.github.com)
-  * Create pull request, commit post, merge pull request, have blog. Easy.
-* Text Editor: [Vim](http://www.vim.org)
-  * I've been trying to force myself to use Vim for most things, this is no exception. Square's Maximum Awesome package makes it usable.
-* Spell Checking: [Aspell](http://aspell.net)
-  * I've already mentioned how great Aspell is, but it's really a life saver for words I put in front of real people.
-* Image Editor: [Pixelmator](http://www.pixelmator.com)
-  * On the rare cases I post images and need them edited Pixelmator is the best combo of features & ease of use. 
-* Bonus: [hub](http://hub.github.com)
-  * It's great being able to do things like open a pull request without leaving the command line. I also use ``hub browse`` to jump to the right place on the web more than I care to admit.
-* Bonus: [GitHub Pages Gem](https://github.com/github/pages-gem)
-  * This gem keeps everything inline, making sure you always stay up to date on Jekyll version, Pages compatibility, etc.
+### Blog Package: [Jekyll](http://jekyllrb.com)
+The amazing open source blogging platform works as well for me as anyone else. I write Markdown all day, so it's an easy to way to write blog content as well.
+
+### Blog Theme: [Hyde](http://andhyde.com)
+Gotta love a literary turn of phrase, Hyde gave me a great look without forcing me into lengthy HTML/CSS customization. I trust the professionals.
+
+### Hosting: [GitHub Pages](http://pages.github.com)
+Create pull request, commit post, merge pull request, have blog. Easy.
+
+### Text Editor: [Vim](http://www.vim.org)
+I've been trying to force myself to use Vim for most things, this is no exception. Square's Maximum Awesome package makes it usable.
+
+### Spell Checking: [Aspell](http://aspell.net)
+I've already mentioned how great Aspell is, but it's really a life saver for words I put in front of real people.
+
+### Image Editor: [Pixelmator](http://www.pixelmator.com)
+On the rare cases I post images and need them edited Pixelmator is the best combo of features & ease of use. 
+
+### Bonus: [hub](http://hub.github.com)
+It's great being able to do things like open a pull request without leaving the command line. I also use ``hub browse`` to jump to the right place on the web more than I care to admit.
+
+### Bonus: [GitHub Pages Gem](https://github.com/github/pages-gem)
+This gem keeps everything inline, making sure you always stay up to date on Jekyll version, Pages compatibility, etc.
 
 That's the technology behind it. I also use the repository Issues to keep track of posts I'd like to write, notes, etc. 
 
