@@ -5,7 +5,7 @@ title: OSX Airport Preferences Forensics
 
 While doing some work on [OSXAuditor](https://github.com/jipegit/OSXAuditor), one of my favorite OSX incident response tools. Unfortunately when I started working with it I hit a quick snag.
 
-When using the ```-a, --all``` (Analyze all (it is equal to -qsidbAkUe)) or ```-A, --airportprefs``` (Analyze Airport preferences) you hit a hard error, Python stacktrace and all:
+When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) you hit a hard error, Python stack trace and all:
 
 ![](./public/osxauditor-error.png)
 
@@ -15,12 +15,15 @@ This is all based on the line:
 PrintAndLog(u"SSID: " + RememberedNetwork["SSIDString"].decode("utf-8") + u" - BSSID: " + RememberedNetwork["CachedScanRecord"]["BSSID"] + u" - RSSI: " + str(RememberedNetwork["CachedScanRecord"]["RSSI"]) + u" - Last connected: " + str(RememberedNetwork["LastConnected"]) + u" - Security type: " + RememberedNetwork["SecurityType"] + u" - Geolocation: " + Geolocation, "INFO")
 ```
 
-Yuck right? This is all an attempt to parse ```com.apple.airport.preferenes.plist```. This is the file that tracks stores information about a users wireless usage. Most interesting, this plist includes information about every saved wireless network a user has accessed in the ```RememberedNetworks``` array.
+Yuck. Turns out this is all an attempt to parse ```com.apple.airport.preferenes.plist```. This is the file that tracks stores information about a users wireless usage. Most interesting, this plist includes information about every saved wireless network a user has accessed in the ```RememberedNetworks``` array.
+
 ![](./public/wireless-plist.png)
 
 The issue was clear pretty quickly (you likely already have a guess as a programmer). There was a change between OSX 10.8 and 10.9, including the removal of the ```BSSID``` & ```RSSI``` dictionary keys, which was clearly breaking that PrintAndLog statement.
 
-I submitted a [Pull Request](https://github.com/jipegit/OSXAuditor/pull/8) (you always submit a PR when you find broken code right?) to OSXAuditor to fix the parsing error, but I was struck by how limited the information about many of these crucial plists. Apple has a habit of not documenting things they don't intend for users such as private APIs, so the lack of official documentation isn't hard to believe. Even my go to guide,  Mac OS X and iOS Internals by Jonathan Levin didn't offer any help. Here's my limited attempt to document ```com.apple.airport.preferences.plist```.
+I submitted a [Pull Request](https://github.com/jipegit/OSXAuditor/pull/8) (you always submit a PR when you find broken code right?) to OSXAuditor to fix the parsing error, but I was struck by how limited the information about many of these crucial plists.
+
+Apple has a habit of not documenting things they don't intend for users such as private APIs, so the lack of official documentation isn't hard to believe. Even my go to guide,  Mac OS X and iOS Internals by Jonathan Levin didn't offer any help. Here's my limited attempt to document ```com.apple.airport.preferences.plist```.
 
 ### com.apple.airport.preferences.plist format in OSX 10.9
 
