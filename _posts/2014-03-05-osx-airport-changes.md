@@ -3,7 +3,7 @@ layout: post
 title: OSX Airport Preferences Forensics
 ---
 
-I've been a huge fan of [@jipe_](https://twitter.com/Jipe_)'s [OSXAuditor](https://github.com/jipegit/OSXAuditor). In the limited  field of [OS X](http://www.apple.com/osx/) incident response tools OSXAudtior is the best quick triage tool out there. Unfortunately when I started working with it I hit a quick snag.
+I've been a huge fan of [@jipe_](https://twitter.com/Jipe_)'s [OSXAuditor](https://github.com/jipegit/OSXAuditor). In the limited  field of [OS X](http://www.apple.com/osx/) incident response tools OSXAudtior is the best quick triage tool out there. Unfortunately recently when I started working with I hit a quick snag.
 
 ![](./public/osxauditor-error.png)
 
