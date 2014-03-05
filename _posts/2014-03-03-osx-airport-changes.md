@@ -23,30 +23,32 @@ I submitted a [Pull Request](https://github.com/jipegit/OSXAuditor/pull/8) (you 
 
 ### com.apple.airport.preferences.plist format in OSX 10.9
 
-```
-Root
-⌊ AirPortGlobalDebug (Number)
-⌊ AirPortUserLandDebug (Number)
-⌊ RememberedNetworks (Array)
-  ⌊ Item 0 (Dictionary)
-    ⌊ AutoLogin (Boolean) - ??
-    ⌊ Captive (Boolean) - ??
-    ⌊ Closed (Boolean) - I believe this indicates if the network is in use
-    ⌊ Disabled (Boolean) - ??
-    ⌊ LastConnected (Date) - Optional: Indicates the last time this AP was connected to
-    ⌊ Passpoint (Boolean) - ???
-    ⌊ PossiblyHiddenNetwork (Boolean) - Is this AP is broadcasting it's SSID?
-    ⌊ SPRoaming (Boolean) - ???
-    ⌊ SSID (Data) - [Service Set Identification](http://en.wikipedia.org/wiki/Service_set_(802.11_network))
-    ⌊ SSIDString (String) - The wireless network name, one of the most useful items
-    ⌊ SecurityType (String) - WPA or WPA2? WEP or open?
-    ⌊ SystemMode(Boolean) - ???
-    ⌊ TemporarilyDisabled (Boolean) - ???
-  ⌊ Item 1 (Dictionary)
-  ⌊ Item ... (Dictionary)
-  ⌊ Item n (Dictionary)  
-⌊ Version (Number)
-```
+At it's root this plist contains the following:
+
+| Key | Datatype | Use | Notes |
+| --- | -------- | --- | ----- |
+| AirPortGlobalDebug | Number | Is the AirPort being debugged by root | |
+| AirPortUserLandDebug | Number | Is the AirPort being debugged by a user | |
+| RememberedNetworks | Array | The list of previouslya accessed wireless access points | |
+| Version | Number | | |
+
+The ```RememberedNetworks``` array contains a number of dictionaries in the following format:
+
+| Key | Datatype | Use | Notes |
+| --- | -------- | --- | ----- |
+| AutoLogin | Boolean | ?? | |
+| Captive | Boolean | ?? | |
+| Closed | Boolean | I believe this indicates if the network is in use | |
+| Disabled | Boolean | ?? | |
+| LastConnected | Date | Optional: Indicates the last time this AP was connected to | |
+| Passpoint | Boolean | ??? | |
+| PossiblyHiddenNetwork | Boolean | Is this AP is broadcasting it's SSID? | |
+| SPRoaming | Boolean | ??? | |
+| SSID | Data | [Service Set Identification](http://en.wikipedia.org/wiki/Service_set_(802.11_network)) | |
+| SSIDString | String | The wireless network name, one of the most useful items | |
+| SecurityType | String | WPA or WPA2? WEP or open? | |
+| SystemMode | Boolean | ??? | |
+| TemporarilyDisabled | Boolean | ??? | |
 
 ### Going Further
 If you want to look into this more the best place to start is digging into the plist itself. Just go to a Terminal and run the following:
