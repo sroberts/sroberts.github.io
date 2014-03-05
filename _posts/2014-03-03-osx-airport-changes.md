@@ -7,7 +7,7 @@ While doing some work on [OSXAuditor](https://github.com/jipegit/OSXAuditor), on
 
 ![](./public/osxauditor-error.png)
 
-When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) you hit a hard error, Python stack trace and all:
+When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) options in ```OSXAuditory.py``` you hit a hard error, Python stack trace and all:
 
 This is all based on the line:
 
@@ -33,7 +33,7 @@ At it's root this plist contains the following:
 | --- | -------- | --- | ----- |
 | AirPortGlobalDebug | Number | Is the AirPort being debugged by root. | |
 | AirPortUserLandDebug | Number | Is the AirPort being debugged by a user. | |
-| RememberedNetworks | Array | The list of previously a  accessed wireless access points. | |
+| RememberedNetworks | Array | The list of previously a  accessed wireless access points. | See below for RememberedNetwork item format. |
 | Version | Number | | |
 
 The ```RememberedNetworks``` array contains a number of dictionaries in the following format:
@@ -53,6 +53,8 @@ The ```RememberedNetworks``` array contains a number of dictionaries in the foll
 | SecurityType | String | WPA or WPA2? WEP or open? | |
 | SystemMode | Boolean | ??? | |
 | TemporarilyDisabled | Boolean | ??? | |
+
+I have guesses on a few of the others, but no hard indications of their purpose.
 
 ### Going Further
 If you want to look into this more the best place to start is digging into the plist itself. Just go to a Terminal and run the following:
