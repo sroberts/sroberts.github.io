@@ -33,7 +33,7 @@ At it's root this plist contains the following:
 | --- | -------- | --- | ----- |
 | AirPortGlobalDebug | Number | Is the AirPort being debugged by root | |
 | AirPortUserLandDebug | Number | Is the AirPort being debugged by a user | |
-| RememberedNetworks | Array | The list of previouslya accessed wireless access points | |
+| RememberedNetworks | Array | The list of previously a  accessed wireless access points | |
 | Version | Number | | |
 
 The ```RememberedNetworks``` array contains a number of dictionaries in the following format:
