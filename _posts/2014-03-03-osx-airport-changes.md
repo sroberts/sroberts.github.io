@@ -5,9 +5,9 @@ title: OSX Airport Preferences Forensics
 
 While doing some work on [OSXAuditor](https://github.com/jipegit/OSXAuditor), one of my favorite OSX incident response tools. Unfortunately when I started working with it I hit a quick snag.
 
-When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) you hit a hard error, Python stack trace and all:
-
 ![](./public/osxauditor-error.png)
+
+When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) you hit a hard error, Python stack trace and all:
 
 This is all based on the line:
 
