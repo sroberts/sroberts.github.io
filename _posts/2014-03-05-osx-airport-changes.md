@@ -7,7 +7,7 @@ I've been a huge fan of [@jipe_](https://twitter.com/Jipe_)'s [OSXAuditor](https
 
 ![](./public/osxauditor-error.png)
 
-When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) options in ```OSXAuditory.py``` you hit a hard error, Python stack trace and all:
+When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) options in ```OSXAuditory.py``` you hit a hard error, Python stack trace and all.
 
 This is all based on the line:
 
