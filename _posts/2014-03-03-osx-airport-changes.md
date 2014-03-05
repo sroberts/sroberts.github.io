@@ -7,7 +7,7 @@ While doing some work on OSXAuditor, one of my favorite OSX incident response to
 
 When using the ```-a, --all``` (Analyze all (it is equal to -qsidbAkUe)) or ```-A, --airportprefs``` (Analyze Airport preferences) you hit a hard error, Python stacktrace and all:
 
-TODO: Add stack trace picture
+![](./public/osxauditor-error.png)
 
 This is all based on the line:
 
@@ -16,6 +16,7 @@ PrintAndLog(u"SSID: " + RememberedNetwork["SSIDString"].decode("utf-8") + u" - B
 ```
 
 Yuck right? This is all an attempt to parse ```com.apple.airport.preferenes.plist```. This is the file that tracks stores information about a users wireless usage. Most interesting, this plist includes information about every saved wireless network a user has accessed in the ```RememberedNetworks``` array.
+![](./public/wireless-plist.png)
 
 The issue was clear pretty quickly (you likely already have a guess as a programmer). There was a change between OSX 10.8 and 10.9, including the removal of the ```BSSID``` & ```RSSI``` dictionary keys, which was clearly breaking that PrintAndLog statement.
 
