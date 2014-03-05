@@ -3,7 +3,7 @@ layout: post
 title: OSX Airport Preferences Forensics
 ---
 
-While doing some work on [OSXAuditor](https://github.com/jipegit/OSXAuditor), one of my favorite [OS X](http://www.apple.com/osx/) incident response tools. Unfortunately when I started working with it I hit a quick snag.
+I've been a huge fan of [@jipe_](https://twitter.com/Jipe_)'s [OSXAuditor](https://github.com/jipegit/OSXAuditor). In the limited  field of [OS X](http://www.apple.com/osx/) incident response tools OSXAudtior is the best quick triage tool out there. Unfortunately when I started working with it I hit a quick snag.
 
 ![](./public/osxauditor-error.png)
 
@@ -15,7 +15,7 @@ This is all based on the line:
 PrintAndLog(u"SSID: " + RememberedNetwork["SSIDString"].decode("utf-8") + u" - BSSID: " + RememberedNetwork["CachedScanRecord"]["BSSID"] + u" - RSSI: " + str(RememberedNetwork["CachedScanRecord"]["RSSI"]) + u" - Last connected: " + str(RememberedNetwork["LastConnected"]) + u" - Security type: " + RememberedNetwork["SecurityType"] + u" - Geolocation: " + Geolocation, "INFO")
 ```
 
-Yuck. Turns out this is all an attempt to parse ```com.apple.airport.preferenes.plist```. This is the [plist](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man5/plist.5.html) file that tracks stores information about a users wireless usage. Most interesting, this plist includes information about every saved wireless network a user has accessed in the ```RememberedNetworks``` array.
+Yuck. Turns out this is attempting to parse ```com.apple.airport.preferenes.plist```. This is the [plist](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man5/plist.5.html) file that tracks stores information about a users wireless usage. Most interesting, this plist includes information about every saved wireless network a user has accessed in the ```RememberedNetworks``` array.
 
 ![](./public/wireless-plist.png)
 
