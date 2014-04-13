@@ -5,7 +5,7 @@ title: Installing Yara 2 on Ubuntu 14.04
 
 One of my projects this weekend is getting [Cuckoo Sandbox](http://cuckoosandbox.org/) stood up again. I hadn't done much more than beginning to install libraries and dependencies than it called for one of my favorite security tools: [Yara](http://plusvic.github.io/yara/).
 
-In the past I was a heavy Yara user, but I haven't really played with it much since the upgrade to 2.0. Version 2 includes some big improvements and Yara is a valuable tool alone as well as in conjunction with a tool like Cuckoo. That said, Ubuntu is pretty sparse out of the box and the included but hard to find instructions for installing Yara don't include much information about prerequsites.
+In the past I was a heavy Yara user, but I haven't really played with it much since the upgrade to 2.0. Version 2 includes some big improvements and Yara is a valuable tool alone as well as in conjunction with a tool like Cuckoo. That said, Ubuntu is pretty sparse out of the box and the included but hard to find instructions for installing Yara don't include much information about prerequisites.
 
 Here's the process I followed:
 
