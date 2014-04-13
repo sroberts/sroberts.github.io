@@ -65,4 +65,4 @@ Report bugs to: <vmalvarez@virustotal.com>
 
 ## For the Mac Users
 
-If, on the other hand, you're just looking to use Yara on your OSX client and you happen to be a [Homebrew](http://brew.sh/) user (and why wouldn't you be?) then you can just use ```brew install yara```. Handy.
+If, on the other hand, you're just looking to use Yara on your OSX client and you happen to be a [Homebrew](http://brew.sh/) user (and why wouldn't you be?) then you can just use ```brew install yara```.
