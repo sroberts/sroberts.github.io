@@ -1,37 +1,64 @@
------BEGIN PGP PUBLIC KEY BLOCK-----
+==================================================================
+https://keybase.io/sroberts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sroberts.github.io
+  * I am sroberts (https://keybase.io/sroberts) on keybase.
+  * I have a public key with fingerprint DA0E 4425 7D3F F8CE 2531  6E6E 9A6A 4A5D D142 1C45
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "da0e44257d3ff8ce25316e6e9a6a4a5dd1421c45",
+            "host": "keybase.io",
+            "key_id": "9A6A4A5DD1421C45",
+            "uid": "1e93c2a58f9168581d3ded7d34416100",
+            "username": "sroberts"
+        },
+        "service": {
+            "hostname": "sroberts.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397765112,
+    "expire_in": 157680000,
+    "prev": "c96813b4c9b947e139a74a1598b570b5ada11369bbbd24c0ba10bb9d25a77fb5",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
 Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
 
-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
-ci0=
-=d44L
------END PGP PUBLIC KEY BLOCK-----
+owFdkV1IFFEUx2fL/MTV8C0MdEgpMJm7Ox87i0VLm/hQtBCaFbncO3NXx7aZdWZ2
+XRGzoDQD6dvopSBapA8io1wJy4VyV90QhSjIsGJ9qCAyFJHNPmasXrovl3vO7/8/
+59xzLn8tkWv5tV6avNh9RbUkY8uI2OehLe0kUsQ20tlOHsGrl0+SG7EaUCVZJ52k
+CClM0zaGE+0+n0PANsYOWMxiHrKQhowoAtoGBJohK8gmRTMVhg2CGq6UFCNmPLyS
+aER5F+uiXYzbbfI7V/ngagJg3i7YIOPw8YB1MA4g2kUsGuVoGrCAokxQw6oMj2KD
+1lQFYVXXyI4K0oiGJAGbPZul/yMqGyW9KYj+tBFQFV0RFL+Rb9L1gOY09XpbwBS0
+YuT9a+VFkiwa4xuKEFY1SZFJJzBIQZdMb2DnOY5lALBVkDgckFTslUyC4VgHZRyz
+Dg4ZlgLPOoAd0QKPeJrDhg5yNAQM70AMRyEGihAAO8sjhEQbLVAIAgohXrQxkON8
+yPwcDbfICunkjTZhozmW1ChDPahisqPHUpxBWHKJzHVrzAUSuTmF/9Y6v5JNRI49
+edUZtpY2jFcvCUORjxMtl19ym7mxu4nU0J3Ra/0zU1O9C36ntW8RDgQeXKI+Tej1
+5zm/1b8r/93h2R1d48elrFRP9Nvt8qwJooHasDUeyi54Xrxcmzl8sKT5RFdWIhjX
+t80WCYVRMmPyese9mXDsa3x//E1ZYn7l1PTbC2rZ1aqF2Giq3PpeW4pSe4fyNglV
+h9Kna2LJ/luZ1cHSOHIn68/+dNemBx+2Tc/11VnT25/ORZiajYkbN1tL86L3q9Mj
+uwPpDBz27PnQ+6MuUtS6hXjxrMA1/Kinb/LxgZLUwueEZ/F7zciX14M5yTMnRzyW
+ZrlgrHNgdrr7Nw==
+=Wey+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sroberts
+
+==================================================================
