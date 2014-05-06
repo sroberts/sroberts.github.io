@@ -16,3 +16,6 @@ I also learned a lot, as I always do, giving the talk live for the first time. I
 I mentioned a lot of tools and concepts in this talk that need further exploration. Here they are:
 
 <script src="https://gist.github.com/sroberts/da4882b0b2ff4454834e.js"></script>
+
+## Presentation Design
+If you made it this far I also wanted to call attention that this was the first presentation I've fully built and gave using [Zach Holaman](http://zachholman.com/)'s [Speaking.io](http://speaking.io/) guide website. Working at GitHub with so many amazing designers I've become conscious of both the importance of design in presentation and the benefit of better preparation. I recommend it highly for new speakers to learn and seasoned speakers to level up.
