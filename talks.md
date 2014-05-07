@@ -9,6 +9,9 @@ title: Talks
 
 I've been lucky enough to be invited to talk some places. Here's the list...
 
+## 2014
+* [TechTalk Live](http://www.techtalklive.org): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
+
 ## 2013
 * [BayThreat](http://www.baythreat.org) 4: Using Robots to Fight Bad Guys ([Slides](https://speakerdeck.com/sroberts/using-robots-to-fight-bad-guys) & [Video](http://www.youtube.com/watch?v=PFvI0m_JkDE))
 * [BSidesDFW](http://www.securitybsides.com/w/page/60987881/BSidesDFW): Using Robots to Fight Bad Guys
