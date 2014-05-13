@@ -108,9 +108,7 @@ I currently run two separate Hubots with different adapters and environments:
 * **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto Heroku, a single dyno system, and has a Redis memory. We use Slack as our chat server, we <i class="fa fa-heart"></i> it, and their Hubot integration is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
 
 ## Things to Build
-* VTR Helper Library
-* ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15)
-* Other's ideas...
+Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15). There are endless possiblities, new modules, new integrations. My current goals revolve around Yara, including automating signature creations. That said make this what will help you, and pull requests are always welcome.
 
 ## Resources
 * [Hubot](http://hubot.github.com) & [Hubot Source](https://github.com/github/hubot)
