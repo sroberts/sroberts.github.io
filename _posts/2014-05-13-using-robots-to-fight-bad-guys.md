@@ -99,13 +99,11 @@ There are a few major parts of any Hubot script:
 
 These are the simpliest requirements, but of course there are many optional patterns as well. CoffeeScript tends to be fairly simple, so the best way to pick things up is usually just browsing through open source scripts.
 
-## Rhodey - VTR Rest Service
-
 ## My Setup
 I currently run two separate Hubots with different adapters and environments:
 
 * **Development:** On my laptop I have a Hubot running with the terminal adapter. Basically it just spawns a shell that acts as chat directly with Hubot. It's not easy to use, but it's fast for testing without having to redeploy, just restart the server. This system has no memory (Redis database), just a brain (Node.js server).
-* **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto Heroku, a single dyno system, and has a Redis memory. Currently we don't have a Rhodey server running. We use Slack as our chat server and their Hubot integration is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
+* **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto Heroku, a single dyno system, and has a Redis memory. We use Slack as our chat server, we <i class="fa fa-heart"></i> it, and their Hubot integration is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
 
 ## Things to Build
 * VTR Helper Library
