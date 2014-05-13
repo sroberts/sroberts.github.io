@@ -3,7 +3,7 @@ layout: post
 title: Using Robots to Fight Bad Guys
 ---
 
-At the end of last year I was invited few places (CentralPA Open Source, BSidesDFW, & BayThreat) and gave a talk about some of the work I've done to adapt Hubot, GitHub's friendly-ish chatbot, and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR. So this is my extended breakdown of ChatOps, Hubot, Hubot-VTR, Rhodey, and building modules in CoffeeScript.
+At the end of last year I was invited few places ([CentralPA Open Source](http://cposc.org/), [BSidesDFW](http://www.securitybsides.com/w/page/60987881/BSidesDFW), & [BayThreat](http://www.baythreat.org/)) and gave a talk about some of the work I've done to adapt [Hubot](https://hubot.github.com/), GitHub's friendly-ish chatbot, and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR. So this is my extended breakdown of [ChatOps](http://www.reddit.com/r/chatops/), Hubot, Hubot-VTR, and building modules in CoffeeScript.
 
 ## My Presentation
 <script async class="speakerdeck-embed" data-id="d8d4ee4026280131bf6a16acd67ce186" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
@@ -15,7 +15,7 @@ So [DevOps](http://en.wikipedia.org/wiki/DevOps) in general and ChatOps specific
 
 * **ChatOps:** Doing devops by building tools that integrate with the teams chat applications.
 
-Both of these techniques take advantage of modern development tools for rapid tool creation and integration, tools like Puppet/Chef for automation, and a data driven approach where feelings, conventional wisdom, and "that's just the way we do it" is replaced with collaboration and metrics.
+Both of these techniques take advantage of modern development tools for rapid tool creation and integration, tools like [Puppet](http://puppetlabs.com/)/[Chef](http://www.getchef.com/chef/) for automation, and a data driven approach where feelings, conventional wisdom, and "that's just the way we do it" is replaced with collaboration and metrics.
 
 <img src="./public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
 
