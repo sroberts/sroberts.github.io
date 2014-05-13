@@ -11,16 +11,16 @@ At the end of last year I was invited few places (CentralPA Open Source, BSidesD
 ## How GitHub Uses Hubot: ChatOps
 So [DevOps](http://en.wikipedia.org/wiki/DevOps) in general and ChatOps specifically are massive topics unto themselves and I'm not sure I'm the right person to fully address them, so here's my short version of each:
 
-* **DevOps:** An integration of software development & systems operations to increase efficiency, consistancy, repeatability, and security.
+* **DevOps:** An integration of software development & systems operations to increase efficiency, consistency, repeatability, and security.
 
 * **ChatOps:** Doing devops by building tools that integrate with the teams chat applications.
 
-Both of these techniques take advantage of modern development tools for rapid tool creation and integration, tools like Puppet/Chef for automation, and a data driven approach where feelings, conventional wisdom, and "thats just the way we do it" is replaced with collaboration and metrics.
+Both of these techniques take advantage of modern development tools for rapid tool creation and integration, tools like Puppet/Chef for automation, and a data driven approach where feelings, conventional wisdom, and "that's just the way we do it" is replaced with collaboration and metrics.
 
 <img src="./public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
 
 ### Benefits of Chat
-* asyncronus - searchable, read back, push notifications
+* asynchronous - searchable, read back, push notifications
 * multi device - laptop, tablet, & phone
 * collaborative
 * a great interface to build tools around
@@ -99,7 +99,7 @@ There are a few major parts of any Hubot script:
 * **The Respond or Hear Method:** Hubot can listen for anyone mentioning a specific phrase (```robot.hear```) addressed to anyone, or wait to be addressed directly (```robot.respond```). In either case this is followed with a regular expression detailing what statement to listen for. Anything in ```()``` is saved and can be used in the method body.  
 * **The Method Body:** This is where the bulk of the work happens. Call a 3rd party API, manipulate text, anything you can think of that you can do in CoffeeScript. In nearly every case the method body has one or more ```msg.send "Foo"``` statement, which has Hubot respond back to the chat.
 
-These are the simpliest requirements, but of course there are many optional patterns as well. CoffeeScript tends to be fairly simple, so the best way to pick things up is usually just browsing through open source scripts.
+These are the simplest requirements, but of course there are many optional patterns as well. CoffeeScript tends to be fairly simple, so the best way to pick things up is usually just browsing through open source scripts.
 
 ## My Setup
 I currently run two separate Hubots with different adapters and environments:
@@ -108,7 +108,7 @@ I currently run two separate Hubots with different adapters and environments:
 * **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto Heroku, a single dyno system, and has a Redis memory. We use Slack as our chat server, we <i class="fa fa-heart"></i> it, and their Hubot integration is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
 
 ## Things to Build
-Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15). There are endless possiblities, new modules, new integrations. My current goals revolve around Yara, including automating signature creations. That said make this what will help you, and pull requests are always welcome.
+Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15). There are endless possibilities, new modules, new integrations. My current goals revolve around Yara, including automating signature creations. That said make this what will help you, and pull requests are always welcome.
 
 ## Resources
 * [Hubot](http://hubot.github.com) & [Hubot Source](https://github.com/github/hubot)
