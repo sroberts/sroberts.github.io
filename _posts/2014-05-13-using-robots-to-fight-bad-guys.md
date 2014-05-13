@@ -60,6 +60,7 @@ Once you've got a basic Hubot setup you'll want to [install the VTR scripts with
 | Yara | Generates template for creating Yara rules. | yara-template |
 
 ## Writing Hubot Scripts
+Hubot scripts are written in CoffeeScript. CoffeeScript is basically a higher level language that compiles to JavaScript and is then interpreted by Node.js.
 
 ```coffeescript
 # Description:
@@ -89,6 +90,14 @@ module.exports = (robot) ->
         else
           msg.send "Error: Couldn't access #{api_url}."
 ```
+
+There are a few major parts of any Hubot script:
+
+* **Documentation:** This is actually quite important given that this documentation is passed along into chat when people ask for help.  It's important that this be descriptive and complete.
+* **The Respond or Hear Method:** Hubot can listen for anyone mentioning a specific phrase (```robot.hear```) addressed to anyone, or wait to be addressed directly (```robot.respond```). In either case this is followed with a regular expression detailing what statement to listen for. Anything in ```()``` is saved and can be used in the method body.  
+* **The Method Body:** This is where the bulk of the work happens. Call a 3rd party API, manipulate text, anything you can think of that you can do in CoffeeScript. In nearly every case the method body has one or more ```msg.send "Foo"``` statement, which has Hubot respond back to the chat.
+
+These are the simpliest requirements, but of course there are many optional patterns as well. CoffeeScript tends to be fairly simple, so the best way to pick things up is usually just browsing through open source scripts.
 
 ## Rhodey - VTR Rest Service
 
