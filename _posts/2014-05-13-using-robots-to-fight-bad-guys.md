@@ -59,6 +59,8 @@ Once you've got a basic Hubot setup you'll want to [install the VTR scripts with
 | VirusTotal | Hash, URLs, IP Addresses | virustotal hash abcd1234, virustotal ip 1.2.3.4, & virustotal ip example.com |
 | Yara | Generates template for creating Yara rules. | yara-template |
 
+These all require addressing Hubot directly, either by using the bots given name or an alias. So for me that would be ```hubot shodan openssh``` or ```! yara-template```. Both of those can be configured during setup.
+
 ## Writing Hubot Scripts
 Hubot scripts are written in CoffeeScript. CoffeeScript is basically a higher level language that compiles to JavaScript and is then interpreted by Node.js.
 
