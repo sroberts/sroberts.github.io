@@ -3,7 +3,10 @@ layout: post
 title: Using Robots to Fight Bad Guys
 ---
 
-I've gone a few places and given a few talks about some of the work I've done to adapt Hubot and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR.
+At the end of last year I was invited few places (CentralPA Open Source, BSidesDFW, & BayThreat) and gave a talk about some of the work I've done to adapt Hubot, GitHub's friendly-ish chatbot, and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR. So this is my extended breakdown of ChatOps, Hubot, Hubot-VTR, Rhodey, and building modules in CoffeeScript.
+
+## My Presentation
+<script async class="speakerdeck-embed" data-id="d8d4ee4026280131bf6a16acd67ce186" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## How GitHub Uses Hubot: ChatOps
 So [DevOps](http://en.wikipedia.org/wiki/DevOps) in general and ChatOps specifically are massive topics unto themselves and I'm not sure I'm the right person to fully address them, so here's my short version of each:
@@ -45,16 +48,16 @@ Once you've got a basic Hubot setup you'll want to [install the VTR scripts with
 
 | Script | Description | Using It |
 | ------ | ----------- | -------- |
-| Code Name Generator | Generates code names for being spooky | /codephrase |
-| Geolocate IP | Identify the physical location of an IP address ||
-| MyWOT | Look up the reputation of a website ||
-| Pipl | Look up OSINT on a users email address ||
-| Reputation Links | Generate links for Robtext, IP/URLVoid, etc ||
-| Reverse DNS | Get the urls associated with an IP address ||
-| Shodan | Search engine for server strings. | |
-| Short URL Expander | Take a shortened URL and find out where it redirects to. | |
-| VirusTotal | Hash, URLs, IP Addresses | |
-| Yara | Generates template for creating Yara rules. | |
+| Code Name Generator | Generates code names for being spooky | codename |
+| Geolocate IP | Identify the physical location of an IP address | geo 1.2.3.4 & geo 1.2.3.4 maxmind |
+| MyWOT | Look up the reputation of a website | mywot example.com |
+| Pipl | Look up OSINT on a users email address | pipl email example@example.com |
+| Reputation Links | Generate links for Robtext, IP/URLVoid, etc | reputation ip 1.2.3.4 & reputation url example.com |
+| Reverse DNS | Get the urls associated with an IP address | reverse dns example.com |
+| Shodan | Search engine for server strings. | shodan foo |
+| Short URL Expander | Take a shortened URL and find out where it redirects to. | expand url example.com |
+| VirusTotal | Hash, URLs, IP Addresses | virustotal hash abcd1234, virustotal ip 1.2.3.4, & virustotal ip example.com |
+| Yara | Generates template for creating Yara rules. | yara-template |
 
 ## Writing Hubot Scripts
 
