@@ -1,0 +1,64 @@
+==================================================================
+https://keybase.io/sroberts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://sroberts.github.io
+  * I am sroberts (https://keybase.io/sroberts) on keybase.
+  * I have a public key with fingerprint DA0E 4425 7D3F F8CE 2531  6E6E 9A6A 4A5D D142 1C45
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "da0e44257d3ff8ce25316e6e9a6a4a5dd1421c45",
+            "host": "keybase.io",
+            "key_id": "9A6A4A5DD1421C45",
+            "uid": "1e93c2a58f9168581d3ded7d34416100",
+            "username": "sroberts"
+        },
+        "service": {
+            "hostname": "sroberts.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1397765112,
+    "expire_in": 157680000,
+    "prev": "c96813b4c9b947e139a74a1598b570b5ada11369bbbd24c0ba10bb9d25a77fb5",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG/MacGPG2 v2.0.22 (Darwin)
+
+owFdkV1IFFEUx2fL/MTV8C0MdEgpMJm7Ox87i0VLm/hQtBCaFbncO3NXx7aZdWZ2
+XRGzoDQD6dvopSBapA8io1wJy4VyV90QhSjIsGJ9qCAyFJHNPmasXrovl3vO7/8/
+59xzLn8tkWv5tV6avNh9RbUkY8uI2OehLe0kUsQ20tlOHsGrl0+SG7EaUCVZJ52k
+CClM0zaGE+0+n0PANsYOWMxiHrKQhowoAtoGBJohK8gmRTMVhg2CGq6UFCNmPLyS
+aER5F+uiXYzbbfI7V/ngagJg3i7YIOPw8YB1MA4g2kUsGuVoGrCAokxQw6oMj2KD
+1lQFYVXXyI4K0oiGJAGbPZul/yMqGyW9KYj+tBFQFV0RFL+Rb9L1gOY09XpbwBS0
+YuT9a+VFkiwa4xuKEFY1SZFJJzBIQZdMb2DnOY5lALBVkDgckFTslUyC4VgHZRyz
+Dg4ZlgLPOoAd0QKPeJrDhg5yNAQM70AMRyEGihAAO8sjhEQbLVAIAgohXrQxkON8
+yPwcDbfICunkjTZhozmW1ChDPahisqPHUpxBWHKJzHVrzAUSuTmF/9Y6v5JNRI49
+edUZtpY2jFcvCUORjxMtl19ym7mxu4nU0J3Ra/0zU1O9C36ntW8RDgQeXKI+Tej1
+5zm/1b8r/93h2R1d48elrFRP9Nvt8qwJooHasDUeyi54Xrxcmzl8sKT5RFdWIhjX
+t80WCYVRMmPyese9mXDsa3x//E1ZYn7l1PTbC2rZ1aqF2Giq3PpeW4pSe4fyNglV
+h9Kna2LJ/luZ1cHSOHIn68/+dNemBx+2Tc/11VnT25/ORZiajYkbN1tL86L3q9Mj
+uwPpDBz27PnQ+6MuUtS6hXjxrMA1/Kinb/LxgZLUwueEZ/F7zciX14M5yTMnRzyW
+ZrlgrHNgdrr7Nw==
+=Wey+
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sroberts
+
+==================================================================

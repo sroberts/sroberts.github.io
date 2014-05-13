@@ -1,6 +1,8 @@
 # Dependencies
 markdown:         redcarpet
 pygments:         true
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
 
 # Permalinks
 permalink:        pretty
@@ -28,3 +30,6 @@ twitter:
 
 linkedin:
   main:           http://www.linkedin.com/in/scottroberts
+
+pgp:
+  main:           https://keybase.io/sroberts
