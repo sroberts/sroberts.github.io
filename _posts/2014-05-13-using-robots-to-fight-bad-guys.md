@@ -20,10 +20,10 @@ Both of these techniques take advantage of modern development tools for rapid to
 <img src="./public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
 
 ### Benefits of Chat
-* asynchronous - searchable, read back, push notifications
-* multi device - laptop, tablet, & phone
-* collaborative
-* a great interface to build tools around
+* **asynchronous:** searchable, read back, push notifications
+* **multi device:** laptop, tablet, & phone
+* **collaborative**
+* **flexbile interface:** an extensible and easy to use interface to build tools around
 
 ### ChatOps & DevOps Links
 * [MountainWest RubyConf 2013 ChatOps at GitHub by Jesse Newland](http://www.youtube.com/watch?v=-LxavzqLHj8)
