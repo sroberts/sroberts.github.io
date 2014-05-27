@@ -4,14 +4,8 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
-  <span class="post-date">{{ page.date | date_to_string }} | <i class="fa fa-clock-o"></i>
-  {% capture words %}
-    {{ page.content | number_of_words | minus: 250 }}
-  {% endcapture %}
-  {% unless words contains "-" %}
-    {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
-  {% endunless %}
-  </span>
+  <span class="post-date"><i class="fa fa-calendar"></i> {{ page.date | date_to_string }} | {% include ert.html %} | {% include edit.html %}</span>
+</span>
   {{ content }}
 </div>
 
