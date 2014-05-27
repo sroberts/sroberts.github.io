@@ -12,7 +12,14 @@ title: Home
       </a>
     </h1>
 
-    <span class="post-date">{{ post.date | date_to_string }}</span>
+    <span class="post-date">{{ post.date | date_to_string }} | <i class="fa fa-clock-o"></i>
+    {% capture words %}
+      {{ post.content | number_of_words | minus: 250 }}
+    {% endcapture %}
+    {% unless words contains "-" %}
+      {{ words | plus: 250 | divided_by: 180 | append: " minute read" }}
+    {% endunless %}
+    </span>
 
     {{ post.content }}
   </div>
@@ -35,4 +42,3 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
-
