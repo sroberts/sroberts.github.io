@@ -51,12 +51,14 @@ This was  a bit more extensive, as it was a longer trip, involved 2 cities (Renn
 
 #### My Bag for BreizhCamp
 
-- 6 tshirts (2 blank grey, 4 GitHub tshirts) (2 Unused + 4)
+- 6 tshirts (2 blank grey, 4 GitHub tshirts)
 - 2 collard Shirts
 - 1 pair of Jeans
-- 4 socks (1 unused + 2)
+- 4 socks
 - 2 pairs of shoes (One pair of loafers, one pair of Tom's)
 - 6 pairs of unmentionables
+
+I took considerably less for this trip and was considerably happier for it. While I try to make it to the gym it's so tough while travelling it rarely happens, and ditching that space and weight made everything much more comfortable travelling wise. I even had some spare room in my bag. Same thing with minimizing on shoes. Two pairs covered basically all my needs.
 
 ### Luggage
 For both of these two weeks I packed a single bag; a 2010 [North Face Surge I backpack](http://www.thenorthface.com/catalog/sc-gear/surge-ii-transit-backpack.html) (the model before this one). This was my primary travel bag.
