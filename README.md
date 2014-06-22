@@ -1,6 +1,6 @@
 # sroberts.github.io
 
-This is my attempt at a reasonable technical blog around security, programmign, and any other things I decide counts. 
+This is my attempt at a reasonable technical blog around security, programmign, and any other things I decide counts.
 
 ## Author
 

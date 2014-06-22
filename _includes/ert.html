@@ -1,0 +1,6 @@
+{% capture words %}
+  {{ page.content | number_of_words | minus: 250 }}
+{% endcapture %}
+{% unless words contains "-" %}
+  <span><i class="fa fa-clock-o"></i> {{ words | plus: 250 | divided_by: 180 | append: " min to read" }}</span>
+{% endunless %}
