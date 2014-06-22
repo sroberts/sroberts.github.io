@@ -86,3 +86,8 @@ Not clothing related but certainly relevant to packing for technical folks. For 
     - I've thought for awhile that moving to a more travel friendly bag. The Surge has been great, but it's divided up a bit more for a typical school day than travelling. The GoRuck is bigger, divided less awkwardly, and a bit more understated (even if it is a bit more [tacticool](http://www.urbandictionary.com/define.php?term=Tacticool) than I'd go for). The price is a lot to get over, so I still haven't pulled the trigger, but it seems like for a longer trip it would make a huge difference.
 - Get a [PlugBug](http://www.twelvesouth.com/product/plugbug)
     - Charging is one of the biggest annoyances, especially when travelling abroad. Especially if you avoid using random untrusted USB ports (which you should). The 12South PlugBug makes it easier to charge multiple devices off one outlet, especially if you only have one adapter.
+
+## Lessons
+- Less is undoubtably more. Less weight & volume is more comfort, more freedom, and just a more enjoyable trip. I'm learning to take a really critical eye.
+- Get things at the destination, it's easier than you think. Many hotel chains even have "rental" workout gear and many things are cheap enough it's not worth the cost to pack them.
+- Having a second "walk around" bag that's only enough to carry my MBA makes a huge difference. You don't want a full backpack just to go to a conference with a small laptop.
