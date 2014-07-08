@@ -17,7 +17,7 @@ So [DevOps](http://en.wikipedia.org/wiki/DevOps) in general and ChatOps specific
 
 Both of these techniques take advantage of modern development tools for rapid tool creation and integration, tools like [Puppet](http://puppetlabs.com/)/[Chef](http://www.getchef.com/chef/) for automation, and a data driven approach where feelings, conventional wisdom, and "that's just the way we do it" is replaced with collaboration and metrics.
 
-<img src="./public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
+<img src="/public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
 
 ### Benefits of Chat
 * **asynchronous:** searchable, read back, push notifications
