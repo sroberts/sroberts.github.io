@@ -19,7 +19,7 @@ $ aspell -c _posts/2014-01-20-commandline-spellchecking-with-aspell
 
 Brings up a straight forward text interface:
 
-<img src="./public/aspell.png" alt="aspell" style="width: 700px;"/>
+<img src="/public/aspell.png" alt="aspell" style="width: 700px;"/>
 
 The suggestions are usually spot on and it has most of the features you'd expect from a mature spell checker in an application like [Microsoft Word](http://office.microsoft.com/en-us/word/) or [Apple Pages](http://www.apple.com/mac/pages/), both of which I rarely touch anymore given the strong the combination of Vim, Aspell, and Markdown. If you're working on lots of text documents on the command-line I cannot recommend it enough.
 
