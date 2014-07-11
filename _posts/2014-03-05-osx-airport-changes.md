@@ -40,18 +40,18 @@ The ```RememberedNetworks``` array contains a number of dictionaries in the foll
 
 | Key | Datatype | Use | Notes |
 | --- | -------- | --- | ----- |
-| AutoLogin | Boolean | ?? | |
-| Captive | Boolean | ?? | |
+| AutoLogin | Boolean | Is the profile for this network configured to automatically connect and auth? | |
+| Captive | Boolean | Is there a captive portal for this AP? | |
 | Closed | Boolean | I believe this indicates if the network is in use. | |
 | Disabled | Boolean | ?? | |
 | LastConnected | Date | Indicates the last time this AP was connected to. | This seems to be an optional item. |
-| Passpoint | Boolean | ??? | |
+| Passpoint | Boolean | Did this AP support [Passpoint](http://www.wi-fi.org/discover-wi-fi/wi-fi-certified-passpoint)?  | |
 | PossiblyHiddenNetwork | Boolean | Is this AP is broadcasting it's SSID? | |
-| SPRoaming | Boolean | ??? | |
+| SPRoaming | Boolean | Does the AP allow authentication to a [roaming SP consortium](http://www.wi-fi.org/system/files/20121010_Passpoint_r1_DP.pdf "see 3.1.3 Roaming Consortium List ANQP and Beacon Frame Elements")? | |
 | SSID | Data | [Service Set Identification](http://en.wikipedia.org/wiki/Service_set_(802.11_network)) | |
 | SSIDString | String | The wireless network name, one of the most useful items. | |
 | SecurityType | String | WPA or WPA2? WEP or open? | |
-| SystemMode | Boolean | ??? | |
+| SystemMode | Boolean | [Supplicant mode](http://training.apple.com/pdf/WP_8021X_Authentication.pdf "see p.7 and p.19 first note") is System Mode? | |
 | TemporarilyDisabled | Boolean | ??? | |
 
 I have guesses on a few of the others, but no hard indications of their purpose.
