@@ -42,3 +42,26 @@ The whole idea for this post came out of my initial reaction to [PF Changs breac
 ## Room For Improvement: Target
 
 I hate to beat a dead horse, I really do, but this was a clear example of how not to do things.
+
+First of all, lets talk about the number of places you need to go to get Targets take on the breach (all based on Googling ```site:target.com breach```):
+
+- [response & resources related to Target's data breach](https://corporate.target.com/about/payment-card-issue.aspx)
+- [an update on our data breach and financial perforamnce](https://corporate.target.com/discover/article/an-update-on-our-data-breach-and-financial-perform)
+- [Target Confirms Unauthorized Access to Payment Card Data in U.S. Stores](http://pressroom.target.com/news/target-confirms-unauthorized-access-to-payment-card-data-in-u-s-stores)
+- [a message from CEO Gregg Steinhafel about Target's payment card issues](https://corporate.target.com/discover/article/Important-Notice-Unauthorized-access-to-payment-ca)
+- PDF [GreggLetter-ad-version04.pdf](https://corporate.target.com/_media/TargetCorp/global/PDF/GreggLetter-ad-version04.pdf)
+- [credit moitoring FAQ](https://corporate.target.com/about/payment-card-issue/credit-monitoring-FAQ.aspx)
+
+Now these results were in order (whatever that means based on Google's personalization) from only Page 1 of my search.
+
+| Characteristic | Score | Reasoning |
+| -------------- | ----- | --------- |
+| Clear | 2/10 | Ok... I can tell for sure they were breached. But which of the 6 seemingly relevent articles should I look at first. |
+| Timely | 4/10 | Target took the "Communicate early, communicate often" approach. This can work if you're right in your triage. They weren't. Numbers ballooned and they looked unaware and ill informed. |
+| Actionable | 4/10 | So it's clear they got breached. But they don't spell that out for consumers. Thankfully it was big enough banks took it into their own hands. |
+| Responsible | 7/10 | _"Our top priority is taking care of you and helping you feel confident about shopping at Target, and it is our responsibility to protect your information when you shop with us. We didn’t live up to that responsibility, and I am truly sorry."_ Depends where you look, but this item, from Target's CEO Gregg Steinhafel is contrite and responsible. |
+| Human | 5/10 | Depends where you look. There are great examples of Gregg Steinhafel being very human and putting a face on this, there are also plenty of very HR/Legal team statements. It's hit or miss. |
+| __Total__ | __22/50__ | Yikes. Far from ideal, but tough to judge given how many places there were to look. Certain bits could have scored very high, but there were too many places to go for information. |
+
+Low score aside it's clear Target did everything in their power to apease a very wide audience. Customer, share holders, regulators, the list goes on and on (PF Changs, it should be noted, is privately held, so they have a significantly less complicated audience). It would have been a massive effort to put everything necessary to all audiences on one page.
+
