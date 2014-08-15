@@ -28,6 +28,17 @@ Ok, this one is personal, but one of the :key: things I have learned is you can'
 
 ## Done Well: [PF Changs](http://www.pfchangs.com/security/)
 
+The whole idea for this post came out of my initial reaction to [PF Changs breach response page](http://www.pfchangs.com/security/). I'd heard about the breach, and while I haven't been to a PF Changs in a few years I felt it couldn't hurt to check and see if I might be involved. I ended up on a comprehensive page discussing their breach and how it impacted their customers.
+
+| Characteristic | Score | Reasoning |
+| -------------- | ----- | --------- |
+| Clear | 9/10 | Yes. Especially if you ignore the first big block of text and go to the FAQ style section at the bottom. A map would have made a huge difference. |
+| Timely | 9/10 | They lay out their timeline, which makes a big difference.  |
+| Actionable | 10/10 | They included the basics all the way to "what to do if you're really mad", and made it easy to figure out if you were involved. |
+| Responsible | 7/10 | _"We regret any inconvenience this security compromise may have caused our guests."_  Ok, a bit too "corp speaky" for my taste, but for a big company this is as close as you'll usually get. |
+| Human | 6/10 | This is the rarest one to find so they can't really be blamed.* |
+| __Total__ | __41/50__ | __Ok, it's a B-, but compare it to other incident responses and this one shines.__ |
+
 ## Room For Improvement: Target
 
 I hate to beat a dead horse, I really do, but this was a clear example of how not to do things.
