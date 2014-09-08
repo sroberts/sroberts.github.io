@@ -10,7 +10,8 @@ title: Talks
 I've been lucky enough to be invited to talk some places. Here's the list...
 
 ## 2014
-* UPCOMING! [ArchC0N](http://www.archc0n.org): A Basic Guide to Advanced Incident Response
+* Upcoming! [OpenDNS S4](http://labs.opendns.com/2014/09/03/s4-incident-responder-conference-september-18th-2014-san-francisco-ca/): Building Your Own DFIR Sidekick
+* Upcoming! [ArchC0N](http://www.archc0n.org): A Basic Guide to Advanced Incident Response
 * [TechTalk Live](http://www.techtalklive.org): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
 * Closed Conference: How GitHub Uses GitHub to Defend GitHub ([Slides](https://speakerdeck.com/sroberts/how-github-uses-github-to-defend-github))
 
