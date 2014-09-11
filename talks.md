@@ -10,6 +10,7 @@ title: Talks
 I've been lucky enough to be invited to talk some places. Here's the list...
 
 ## 2014
+* Upcoming! [NYU-Poly CSAW THREADS](https://csaw.isis.poly.edu/threads): Building Your Own DFIR Sidekick
 * Upcoming! [OpenDNS S4](http://labs.opendns.com/2014/09/03/s4-incident-responder-conference-september-18th-2014-san-francisco-ca/): Building Your Own DFIR Sidekick
 * [ArchC0N](http://www.archc0n.org): A Basic Guide to Advanced Incident Response
 * [TechTalk Live](http://www.techtalklive.org): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
