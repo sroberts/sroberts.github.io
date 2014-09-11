@@ -8,7 +8,7 @@ One of the parts of intrusion response that rarely gets attention in DFIR circle
 ## The 5 Keys to Incident Response Communication
 
 ### Be Clear
-It's difficult to investigate many intrusions. It's often difficult to explain them, but it remains crucial that the communication about what happened be straight forward. Without this understanding victims will remain confused, and critics will remain skeptical.
+It's difficult to investigate many intrusions. It's often difficult to explain them, but it remains crucial that the communication about what happened be straight forward, ideally limited to a 5th grade reading level. Without this understanding victims will remain confused, and critics will remain skeptical. This clarity has to go beyond one message by making sure messaging stays consistent across multiple messages.
 
 ### Be Timely
 Being timely providing information is a double edge sword:
@@ -16,10 +16,10 @@ Being timely providing information is a double edge sword:
 - If you communicate too early, before you full understand the intrusion, you have to make lots of follow-ups and seem out of control.
 - If you communicate too late your warning is less actionable to victims and thus the impact is even worse.
 
-Its a fine line to walk.
+Its a fine line to walk. In the end the best option is often to over communicate and assume the worst. It's far better to retract a statement saying "It wasn't as bad as we initially thought..." than to continually have to say "Actually it's worse than we thought...".
 
 ### Be Actionable
-Most people don't care about _"XSRF whatever"_ and _"Buffer Over blah blah blah"_ nerd speak. They want to know what this means to them: what information was exposed and what they need to do to fix it. Whether it's needing to setup credit monitoring or rolling credentials a notification needs tell victims what they need to do to protect themselves going forward.
+Most people don't care about _"XSRF whatever"_ and _"Buffer Over blah blah blah"_ nerd speak. They want to know what this means to them: what information was exposed and what they need to do to fix it. Whether it's needing to setup credit monitoring or rolling credentials a notification needs tell victims what they need to do to protect themselves going forward. They key is to be clear about two courses of action: what is the organization doing to protect customers going forward and what can customers do to protect themselves.
 
 ### Be Responsible
 This is the bitter pill, and in today's overly litigious society one of the scariest portions, but also straight forward: Admitting you were wrong and saying you are sorry. This may seem like a parent's advice to a child, but even surgeons are resorting to this kindergarten strategy:
@@ -29,7 +29,7 @@ This is the bitter pill, and in today's overly litigious society one of the scar
 [Wall Street Journal: Doctors' New Tool To Fight Lawsuits: Saying 'I'm Sorry' ](http://online.wsj.com/news/articles/SB108482777884713711)
 
 ### Be Human
-Ok, this one is a personal preference, but one of the key things I have learned is you can't overvalue a sense of humanity in these communications. This is wildly difficult but crucially important. A feeling that a real person wrote something makes it easier to excuse things taking a bit longer than they could have, or makes the apology believable, instead of just lawyer speak. It's not easy, but it is worth it.
+Ok, this one is a personal preference, but one of the key things I have learned is you can't overvalue a sense of humanity in these communications. This is wildly difficult but crucially important. A feeling that a real person wrote something makes it easier to excuse things taking a bit longer than they could have, or makes the apology believable, instead of just lawyer speak. It's not easy, but it is worth it. One of the easiest way to do this is by making sure that all communications go through a single point of contact. This allows communication to have a face as well as a voice.
 
 ## Done Well: [PF Changs](http://www.pfchangs.com/)
 
@@ -78,3 +78,5 @@ If you want to see a really well done response that hits on all 6 characteristic
 ![How to Write a good post mortem ](https://pbs.twimg.com/media/Bq1hkICCQAATgEz.png)
 
 See [this Mark Imbriaco post mortem example](https://github.com/blog/1796-denial-of-service-attacks).
+
+_Thanks to [Rachel Vandernick](https://twitter.com/VandernickR) of [WebpageFX](http://www.webpagefx.com) for her feedback as a crisis communications & PR professional._
