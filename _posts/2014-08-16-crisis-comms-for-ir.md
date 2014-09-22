@@ -3,12 +3,12 @@ layout: post
 title: Crisis Communication for Incident Response
 ---
 
-One of the parts of intrusion response that rarely gets attention in DFIR circles (though huge attention outside them) is a customer facing victim companies communication to their own customers. This is almost always the only real information the public (and even security community) gets of your intrusion and communicating what happened effectively is crucial to minimizing damage, both to customers and to your organizations reputation.
+One part of intrusion response that rarely gets enough attention in DFIR circles is the communications victim companies make to their own customers. This is almost always the only real information the public (and even security community) see about an intrusion and communicating what happened effectively is crucial to minimizing damage, both to customers and to your organizations reputation.
 
 ## The 5 Keys to Incident Response Communication
 
 ### Be Clear
-It's difficult to investigate many intrusions. It's often difficult to explain them, but it remains crucial that the communication about what happened be straight forward, ideally limited to a 5th grade reading level. Without this understanding victims will remain confused, and critics will remain skeptical. This clarity has to go beyond one message by making sure messaging stays consistent across multiple messages.
+It's difficult to investigate many intrusions. It's often even more difficult to explain them, especially to less technical individuals, but it remains crucial that the communication about what happened be straight forward, ideally limited to a 5th grade reading level. Without this understanding victims will remain confused and critics will remain skeptical. This clarity has to go beyond one message by making sure messaging stays consistent across multiple messages and mediums.
 
 ### Be Timely
 Being timely providing information is a double edge sword:
@@ -19,17 +19,22 @@ Being timely providing information is a double edge sword:
 Its a fine line to walk. In the end the best option is often to over communicate and assume the worst. It's far better to retract a statement saying "It wasn't as bad as we initially thought..." than to continually have to say "Actually it's worse than we thought...".
 
 ### Be Actionable
-Most people don't care about _"XSRF whatever"_ and _"Buffer Over blah blah blah"_ nerd speak. They want to know what this means to them: what information was exposed and what they need to do to fix it. Whether it's needing to setup credit monitoring or rolling credentials a notification needs tell victims what they need to do to protect themselves going forward. They key is to be clear about two courses of action: what is the organization doing to protect customers going forward and what can customers do to protect themselves.
+Most people don't care about _"XSRF whatever"_ and _"Buffer Over blah blah blah"_ [geek speak](https://www.youtube.com/watch?v=7BpsXZpAARk). They want to know what this means to them: what information was exposed and what they need to do to fix it. Whether it's needing to setup credit monitoring or rolling credentials a notification needs tell victims what they need to do to protect themselves going forward. They key is to be clear about two courses of action:
+- What is the affected organization doing to protect customers going forward?
+- What can affected customers do to protect themselves?
+- Bonus Points: What is the affected company doing to make sure this never happens again?
 
 ### Be Responsible
-This is the bitter pill, and in today's overly litigious society one of the scariest portions, but also straight forward: Admitting you were wrong and saying you are sorry. This may seem like a parent's advice to a child, but even surgeons are resorting to this kindergarten strategy:
+This is the bitter pill, and in today's overly litigious society one of the scariest portions, but also straight forward: Admitting you what you did wrong wrong and saying you are sorry. This may seem like a parent's advice to a child, but even surgeons are resorting to this kindergarten strategy:
 
 > But with malpractice premiums soaring and a national patients' rights movement pushing for full disclosure of medical errors, the industry is rethinking the traditional approach known as "defend and deny." Stories [...] are persuading a growing number of hospitals, doctors and insurers that apologies may end up saving some of the huge sums paid out to settle disputes over medical care.
 
 [Wall Street Journal: Doctors' New Tool To Fight Lawsuits: Saying 'I'm Sorry' ](http://online.wsj.com/news/articles/SB108482777884713711)
 
 ### Be Human
-Ok, this one is a personal preference, but one of the key things I have learned is you can't overvalue a sense of humanity in these communications. This is wildly difficult but crucially important. A feeling that a real person wrote something makes it easier to excuse things taking a bit longer than they could have, or makes the apology believable, instead of just lawyer speak. It's not easy, but it is worth it. One of the easiest way to do this is by making sure that all communications go through a single point of contact. This allows communication to have a face as well as a voice.
+Ok, this one is a personal preference, but one of the key things I have learned is you can't overvalue a sense of humanity in these communications. This is wildly difficult but crucially important. A feeling that a real person wrote something makes it easier to excuse things taking a bit longer than they could have, or makes the apology believable, instead of just lawyer speak.
+
+It's not easy, but it is worth it. One of the easiest way to do this is by making sure that all communications go through a single point of contact. This allows communication to have a face as well as a voice.
 
 ## Done Well: [PF Changs](http://www.pfchangs.com/)
 
