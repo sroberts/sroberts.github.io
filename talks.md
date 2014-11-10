@@ -9,6 +9,9 @@ title: Talks
 
 I've been lucky enough to be invited to talk some places. Here's the list...
 
+## 2015
+- Upcoming! [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet
+
 ## 2014
 - Upcoming! [NYU-Poly CSAW THREADS](https://csaw.isis.poly.edu/threads): Building Your Own DFIR Sidekick
 - [BSidesDFW](http://www.bsidesdfw.com): A Game of Pwns (Slides)[https://speakerdeck.com/sroberts/a-game-of-pwns]
