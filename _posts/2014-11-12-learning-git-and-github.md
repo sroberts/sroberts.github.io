@@ -11,13 +11,14 @@ There are all kinds of features I know exist but hardly ever use. That said I kn
 
 ## Learning Git
 Just in case you don't know what [Git](http://git-scm.com) is here is a formal intro:
+
 >Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 >
 >Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 
-To learnGit I recommend starting out with [Try Git](http://try.github.io/levels/1/challenges/1). This is a quick, 15 min tutorial that introduces the core concepts ofGit that you'll need and is enough to get started. It's pretty much the ideal place to start, and you don't even need to install anything.
+To learn Git I recommend starting out with [Try Git](http://try.github.io/levels/1/challenges/1). This is a quick, 15 min tutorial that introduces the core concepts of Git that you'll need and is enough to get started. It's pretty much the ideal place to start, and you don't even need to install anything.
 
-Try Git is certainly enough to get yourself started, but eventually you'll want to move on to some of the more advanced command line options. To learn those I recommend [Git Immersion](http://gitimmersion.com/). Git Immersion is actually done on your own system's command line and teaches things like rebasing vs merging, tagging, and even resolving conflicts.
+Try Git is certainly enough to get yourself started, but eventually you'll want to move on to some of the more advanced command line options. To learn those I recommend [Git Immersion](http://gitimmersion.com/). Git Immersion is actually done on your own system's command line and teaches things like rebasing vs merging, tagging, and even resolving merge conflicts.
 
 ## Learning GitHub
 Between those resources you'll have a pretty solid base in using Git. Those concepts will get you most of the way towards using GitHub effectively, but GitHub does add a few concepts on top of Git such as Comments, Issues & Pull Requests, and Releases.
