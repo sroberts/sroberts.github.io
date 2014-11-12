@@ -1,39 +1,40 @@
-<div class="sidebar">
-  <div class="container sidebar-sticky">
-    <div class="sidebar-about">
-      <h1>{{ site.title }}</h1>
-      <p class="lead">{{ site.description }}</p>
-    </div>
+<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
+     styles, `#sidebar-checkbox` for behavior. -->
+<input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
-    <ul class="sidebar-nav">
-      <li class="sidebar-nav-item{% if page.title == "Home" %} active{% endif %}">
-        <a href="/">Home</a>
-      </li>
+<!-- Toggleable sidebar -->
+<div class="sidebar" id="sidebar">
+  <div class="sidebar-item">
+    <p>{{ site.description }}</p>
+  </div>
 
-      {% comment %}
-        The code below dynamically generates a sidebar nav of pages with
-        `layout: page` in the front-matter. See readme for usage.
-      {% endcomment %}
+  <nav class="sidebar-nav">
+    <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="/">Home</a>
 
-      {% assign pages_list = site.pages %}
-      {% for node in pages_list %}
-        {% if node.title != null %}
-          {% if node.layout == "page" %}
-            <li class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}">
-              <a href="{{ node.url }}">{{ node.title }}</a>
-            </li>
-          {% endif %}
+    {% comment %}
+      The code below dynamically generates a sidebar nav of pages with
+      `layout: page` in the front-matter. See readme for usage.
+    {% endcomment %}
+
+    {% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
         {% endif %}
-      {% endfor %}
+      {% endif %}
+    {% endfor %}
 
-      <!--<li class="sidebar-nav-item"><a href="{{ site.github.repo }}/archive/v{{ site.version }}.zip">Download</a></li>-->
-      <li class="sidebar-nav-item"><a href="{{ site.github.main }}" target="_blank">GitHub</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.twitter.main }}" target="_blank">Twitter</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.linkedin.main }}" target="_blank">LinkedIn</a></li>
-      <li class="sidebar-nav-item"><a href="{{ site.pgp.main }}" target="_blank">PGP</a></li>
-      <!--<li class="sidebar-nav-item">Currently v{{ site.version }}</li>-->
-    </ul>
+    <a class="sidebar-nav-item" href="{{ site.github.main }}" target="_blank"><i class="fa fa-github fa-lg"></i> GitHub</a>
+    <a class="sidebar-nav-item" href="{{ site.twitter.main }}" target="_blank"><i class="fa fa-twitter fa-lg"></i> Twitter</a>
+    <a class="sidebar-nav-item" href="{{ site.linkedin.main }}" target="_blank"><i class="fa fa-linkedin fa-lg"></i> LinkedIn</a>
+    <a class="sidebar-nav-item" href="{{ site.pgp.main }}" target="_blank"><i class="fa fa-key fa-lg"></i> PGP</a>
 
-    <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
+  </nav>
+
+  <div class="sidebar-item">
+    <p>
+      &copy; {{ site.time | date: '%Y' }}. All rights reserved.
+    </p>
   </div>
 </div>

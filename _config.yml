@@ -1,16 +1,16 @@
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 pygments:         true
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data"]
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
 
 # Permalinks
 permalink:        pretty
 
 # Setup
-title:            sroberts
-tagline:          'see description'
-description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @<a href="www.github.com">github</a>'
+title:            '@sroberts'
+tagline:          'professional bad guy catcher'
+description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
 url:              http://sroberts.github.io
 
 author:
@@ -24,6 +24,7 @@ version:          2.0.0
 
 github:
   main:           https://github.com/sroberts/
+  repo_url:       https://github.com/sroberts/sroberts.github.io/
 
 twitter:
   main:           https://www.twitter.com/sroberts
