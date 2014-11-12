@@ -16,9 +16,9 @@ Just in case you don't know what [Git](http://git-scm.com) is here is a formal i
 >
 >Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows.
 
-To learn Git I recommend starting out with [Try Git](http://try.github.io/levels/1/challenges/1). This is a quick, 15 min tutorial that introduces the core concepts of Git that you'll need and is enough to get started. It's pretty much the ideal place to start, and you don't even need to install anything.
+To learn Git I recommend starting out with [TryGit](http://try.github.io/levels/1/challenges/1). This is a quick, 15 min tutorial that introduces the core concepts of Git that you'll need and is enough to get started. It's pretty much the ideal place to start, and you don't even need to install anything.
 
-Try Git is certainly enough to get yourself started, but eventually you'll want to move on to some of the more advanced command line options. To learn those I recommend [Git Immersion](http://gitimmersion.com/). Git Immersion is actually done on your own system's command line and teaches things like rebasing vs merging, tagging, and even resolving merge conflicts.
+TryGit is certainly enough to get yourself started, but eventually you'll want to move on to some of the more advanced command line options. To learn those I recommend [Git Immersion](http://gitimmersion.com/). Git Immersion is actually done on your own system's command line and teaches things like rebasing vs merging, tagging, and even resolving merge conflicts.
 
 ## Learning GitHub
 Between those resources you'll have a pretty solid base in using Git. Those concepts will get you most of the way towards using GitHub effectively, but GitHub does add a few concepts on top of Git such as Comments, Issues & Pull Requests, and Releases.
@@ -39,9 +39,9 @@ There's an even better [graphical introduction of the GitHub Flow here.](https:/
 Now that you've learned Git and the key elements of the "GitHub Flow" there are still more fun things to learn:
 
 - Make some of those Git actions even simpler and more tightly coupled to GitHub using GitHub's native clients. Check it out for [Mac](https://mac.github.com) & [Windows](https://windows.github.com).
-- Learn [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) to write great structured documentation.
+- Learn [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/) to write great structured documentation. GHFM also works in Issues and PRs.
 - Start using [Issues](https://guides.github.com/features/issues/) to track bugs and enhancements.
-- [Emoji](http://www.emoji-cheat-sheet.com)!!!
+- [Emoji](http://www.emoji-cheat-sheet.com)!!! Not just for your smartphone, you can use them anywhere you use GitHub Flavored Markdown.
 - Learn GitHub's [keyboard shortcuts](https://help.github.com/articles/using-keyboard-shortcuts/). Hint: start by pressing ```shift+?```.
 - Take a look at ways to build great personal & project specific sites using [GitHub Pages](https://pages.github.com).
 - And more!
