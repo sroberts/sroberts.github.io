@@ -37,7 +37,7 @@ yara: error while loading shared libraries: libyara.so.2: cannot open shared obj
 
 Well that's frustrating:
 
-![](http://www.reactiongifs.com/wp-content/uploads/2013/12/sherlock-frustrated.gif)
+![Sherlock Holmes is super frustrated!](http://www.reactiongifs.com/wp-content/uploads/2013/12/sherlock-frustrated.gif)
 
 Not a normal error, but a quick Google for ```error loading shared libraries``` led to a [Stack Overflow article named "Error loading shared libraries"](http://stackoverflow.com/questions/4514997/error-loading-shared-libraries). Well isn't that lucky? Turns out just running ```sudo ldconfig``` tracked down my missing shared object, and next thing I know:
 

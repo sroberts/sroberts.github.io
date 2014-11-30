@@ -5,7 +5,7 @@ title: OSX Airport Preferences Forensics
 
 I've been a huge fan of [@jipe_](https://twitter.com/Jipe_)'s [OSXAuditor](https://github.com/jipegit/OSXAuditor). In the limited  field of [OS X](http://www.apple.com/osx/) incident response tools OSXAudtior is the best quick triage tool out there. Unfortunately recently when I started working with I hit a quick snag.
 
-![](/public/osxauditor-error.png)
+![OSXAuditor stack trace.](/public/osxauditor-error.png)
 
 When using the ```-a, --all``` (Analyze all) or ```-A, --airportprefs``` (Analyze Airport preferences) options in ```OSXAuditory.py``` you hit a hard error, Python stack trace and all.
 
@@ -17,7 +17,7 @@ PrintAndLog(u"SSID: " + RememberedNetwork["SSIDString"].decode("utf-8") + u" - B
 
 Yuck. Turns out this is attempting to parse ```com.apple.airport.preferenes.plist```. This is the [plist](https://developer.apple.com/library/mac/documentation/Darwin/Reference/Manpages/man5/plist.5.html) file that tracks stores information about a users wireless usage. Most interesting, this plist includes information about every saved wireless network a user has accessed in the ```RememberedNetworks``` array.
 
-![](/public/wireless-plist.png)
+![com.apple.airport.preferences.plist](/public/wireless-plist.png)
 
 The issue was clear pretty quickly (you likely already have a guess as a programmer). There was a change between OSX 10.8 and 10.9, including the removal of the ```BSSID``` & ```RSSI``` dictionary keys, which was clearly breaking that PrintAndLog statement.
 

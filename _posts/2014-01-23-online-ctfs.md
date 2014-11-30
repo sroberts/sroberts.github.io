@@ -7,6 +7,6 @@ I've been lucky enough to play in a number of computer attack & defend (sometime
 Even with all the benefits there is one tough part: you can't always spend a weekend in a friends basement with a pallet of Redbull or on the floor at DefCon CTF. Until CTF season rolls around this spring there are two new all online CTFs from big name companies:
 
 * Square/Matasano: [MicroCorruption](https://microcorruption.com)
-* Stripe: [Stripe-CTF](https://stripe-ctf.com/account)
+* Stripe: Stripe-CTF (Link appears to be down at this point.)
 
 I took a quick look at MicroCorruption over lunch and it's unique take focused on embedded software security is fascinating. They've put together a great interface, putting hardware debugging & exploitation in a web browser. I'm really excited to get into Stripe-CTF, which seems a little more language/programic centric rather than exploitation driven. I think I'll be starting on MicroCorruption this weekend, but either way they are two different topics to learn, both a great way to do it.

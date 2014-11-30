@@ -13,7 +13,7 @@ I've been lucky enough to be invited to talk some places. Here's the list...
 - Upcoming! [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet
 
 ## 2014
-- [NYU-Poly CSAW THREADS](https://csaw.isis.poly.edu/threads): Building Your Own DFIR Sidekick ([Slides](https://speakerdeck.com/sroberts/building-your-own-dfir-sidekick-threads-edition))
+- NYU-Poly CSAW THREADS: Building Your Own DFIR Sidekick ([Slides](https://speakerdeck.com/sroberts/building-your-own-dfir-sidekick-threads-edition))
 - [Dev BootCamp: NYC](http://www.meetup.com/DBCx-NYC/events/218621973/): Happy to Security For You
 - [BSidesDFW](http://www.bsidesdfw.com): A Game of Pwns ([Slides](https://speakerdeck.com/sroberts/a-game-of-pwns))
 - [Facebook Security@Scale](http://facebook.com): Building Your Own DFIR Sidekick

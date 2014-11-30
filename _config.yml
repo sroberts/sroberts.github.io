@@ -12,6 +12,7 @@ title:            '@sroberts'
 tagline:          'professional bad guy catcher'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
 url:              http://sroberts.github.io
+baseurl:          /
 
 author:
   name:           'Scott J Roberts'
