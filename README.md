@@ -1,5 +1,7 @@
 # sroberts.github.io
 
+![Travis CI Build Status](https://travis-ci.org/sroberts/sroberts.github.io.svg?branch=master)
+
 This is my attempt at a reasonable technical blog around security, programmign, and any other things I decide counts.
 
 ## Author
