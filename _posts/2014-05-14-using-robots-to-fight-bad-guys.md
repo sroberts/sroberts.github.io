@@ -100,7 +100,7 @@ These are the simplest requirements, but of course there are many optional patte
 I currently run two separate Hubots with different adapters and environments:
 
 * **Development:** On my laptop I have a Hubot running with the terminal adapter. Basically it just spawns a shell that acts as chat directly with Hubot. It's not easy to use, but it's fast for testing without having to redeploy, just restart the server. This system has no memory (Redis database), just a brain ([Node.js](http://nodejs.org/) server).
-* **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto [Heroku](heroku.com), a single dyno system, and has a [RedisToGo memory](https://addons.heroku.com/redistogo). We use [Slack](https://slack.com/) as our chat server, we <i class="fa fa-heart"></i> it, and their [Hubot integration](https://github.com/tinyspeck/hubot-slack) is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
+* **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto [Heroku](https://www.heroku.com), a single dyno system, and has a [RedisToGo memory](https://addons.heroku.com/redistogo). We use [Slack](https://slack.com/) as our chat server, we <i class="fa fa-heart"></i> it, and their [Hubot integration](https://github.com/tinyspeck/hubot-slack) is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
 
 ## Things to Build
 Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15). There are endless possibilities, new modules, new integrations. My current goals revolve around [Yara](https://github.com/plusvic/yara), including automating signature generation. That said make this what will help you, and pull requests are always welcome.
@@ -110,8 +110,8 @@ Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f1
 ### Hubot & Hubot VTR
 * [Hubot](http://hubot.github.com) & [Hubot Source](https://github.com/github/hubot)
 * [Hubot VTR Scripts](https://github.com/sroberts/hubot-vtr-scripts) & [Hubot VTR Rhodey](https://github.com/sroberts/hubot-vtr-rhodey)
-* [Chatops @ GitHub](www.youtube.com/watch?v=NST3u-GjjFw) - [Jesse Newland](https://twitter.com/jnewland)
-* [Programming Butler: Hubot Scripts Explained](theprogrammingbutler.com/blog/archives/2011/10/28/hubot-scripts-explained/) - [Jon Hoyt](https://twitter.com/jonmagic)
+* [Chatops @ GitHub](http://www.youtube.com/watch?v=NST3u-GjjFw) - [Jesse Newland](https://twitter.com/jnewland)
+* [Programming Butler: Hubot Scripts Explained](http://theprogrammingbutler.com/blog/archives/2011/10/28/hubot-scripts-explained/) - [Jon Hoyt](https://twitter.com/jonmagic)
 * [Code School: Learn Coffeescript](https://www.codeschool.com/courses/coffeescript)
 
 ### ChatOps & DevOps
