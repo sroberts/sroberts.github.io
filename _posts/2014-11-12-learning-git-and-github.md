@@ -5,9 +5,9 @@ title: Learning Git & GitHub
 
 I suppose it makes sense that when you work for a company everyone assumes you know everything about using its products. When I worked at [Symantecs Managed Security Services](http://www.symantec.com/managed-security-services) people asked me all the time how to use the antivirus. It's a normal assumption, even if it's off base.
 
-So working at [GitHub](http://www.github.com) I get asked [git](http://git-scm.com/) & GitHub questions all the time. #REALTALK: The fact is I'm not a greatGit user. I don't rebase. I'm terrible about using bisect. I had to squash a commit once and it took me an embarrassingly long time.
+So working at [GitHub](http://www.github.com) I get asked [git](http://git-scm.com/) & GitHub questions all the time. #REALTALK: The fact is I'm not a great Git user. I don't rebase. I'm terrible about using bisect. I had to squash a commit once and it took me an embarrassingly long time.
 
-There are all kinds of features I know exist but hardly ever use. That said I know about 90% of what I need to useGit effectively, and I've gotten pretty good at GitHub (the product) itself. So here's where I learned and what I think will help you get the most out of Git and GitHub.
+There are all kinds of features I know exist but hardly ever use. That said I know about 90% of what I need to use Git effectively, and I've gotten pretty good at GitHub (the product) itself. So here's where I learned and what I think will help you get the most out of Git and GitHub.
 
 ## Learning Git
 Just in case you don't know what [Git](http://git-scm.com) is here is a formal intro:
