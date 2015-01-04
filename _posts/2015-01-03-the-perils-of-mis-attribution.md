@@ -3,7 +3,7 @@ layout: post
 title: The Perils of Attribution
 ---
 
-It's impossible to be involved in the information security community right now and to avoid [the issues going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). The details of the attack by "The Guardians of Peace" may never be fully known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, some what tertiary but none the less key issue, the "attribution" debate.
+It's impossible to be involved in the information security community right now and to avoid [the incident going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). The details of the attack by "The Guardians of Peace" may never be publicly known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, somewhat tertiary but none the less key issue, the "attribution" debate.
 
 ## A bit of History
 
@@ -11,17 +11,17 @@ In every major security incident one of the first questions asked is "Who"? We c
 
 | Time frame | Event | Boogie Man | Result |
 | ------ | ----- | ---------- | ------ |
-| 1980-1990s | The Great Hacker War & [multiple government intrusions](https://en.wikipedia.org/wiki/Moonlight_Maze). | Basement Hackers ([LOD](https://en.wikipedia.org/wiki/Legion_of_Doom_(hacking)), [CDC](https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow)) &  Nation State Hackers. | Selling lots of firewalls.  Inventing IDS. [Wargames!](http://www.imdb.com/title/tt0086567/) |
-| Mid 1990 - Mid 2000s | Endless computer worms: [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Slammer](https://en.wikipedia.org/wiki/SQL_Slammer), etc | Criminals & Pranksters | The Antivirus Market. Ended largely with [Conficker](https://en.wikipedia.org/wiki/Conficker). |
-| Dec 31 1999 | [Y2K Bug](http://content.time.com/time/specials/packages/article/0,28804,2072678_2072683_2072599,00.html) | Unknown bugs and unintended consequences | Nothing. Zip. Zilch. Nada. Society continues. |
-| ~2009 - 2012 | China Peoples Liberation Army (APT) | [Google got hacked](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html), suddenly everything was China/APT. [Mandiant released the APT1 report](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/). Everyone at the RSA Conference promised "Anti-APT" solutions. |
+| 1980-1990s | The Great Hacker War & [multiple government intrusions](https://en.wikipedia.org/wiki/Moonlight_Maze). | Basement Hackers ([LOD](https://en.wikipedia.org/wiki/Legion_of_Doom_(hacking)), [CDC](https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow)) &  Nation State Hackers | Selling lots of firewalls.  Inventing IDS. [Wargames!](http://www.imdb.com/title/tt0086567/) |
+| Mid 1990 - Mid 2000s |  [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Slammer](https://en.wikipedia.org/wiki/SQL_Slammer), & other computer worms | Malware writing criminals & pranksters | The Antivirus Market. Ended largely with [Conficker](https://en.wikipedia.org/wiki/Conficker). |
+| Dec 31 1999 | [Y2K Bug](http://content.time.com/time/specials/packages/article/0,28804,2072678_2072683_2072599,00.html) | Unknown bugs & unintended consequences | Nothing. Zip. Zilch. Nada. Society continues. |
+| Late 2009 - 2012 | [Googles Aurora Incident](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html) | China Peoples Liberation Army (APT) | Suddenly everything was China/APT. [Mandiant released the APT1 report](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/). Everyone at the RSA Conference promised "Anti-APT" solutions. |
 | 2012 | Dozens of high profile activist hacks | Anonymous & LulzSec | Cyber hactivism is touted as the next great threat to the world. It's been mostly ignored and a few Twitter accounts were compromised. |
 | Summer 2013 | [The Snowden Leaks](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)) | [NSA TAO/ANT](https://en.wikipedia.org/wiki/Tailored_Access_Operations) | Global mistrust of the US intelligence community. The "Anti-NSA"-ifying of various domestic American companies and a slight global move away from American tech companies. |
-| November 2014 | North Korea | Sony gets hacked by a group claiming to be called the "Guardians of Peace". The press leaks speculation it's actually North Korea. Suddenly everything is North Korea information warfare. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
+| November 2014 | Sonys current incident | North Korea | The press leaks speculation it's actually North Korea. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
 
 The first thing that needs to be noted is none of these time frames are accurate. Every one of these groups & threats have been active before & since their "time in the sun". What these rough dates frame is the hype cycle; when the media and vendors have emphasized these various issues. This represents a moving idea of "who the bad guy is" that's largely based on a single idea: __attribution__.
 
-## Definitions
+## Definition
 
 Attribution is a loaded word, even in the simplest terms. According to my handy Dictionary.app:
 
@@ -36,12 +36,9 @@ In short attribution is two different things:
 - tying an action to a specific actor
 - characterizing a certain aspect of an action
 
-Reading these definitions attribution seems like a wildly reasonable thing in the event of a security incident. So why the fuss?
+Reading these definitions attribution seems wildly reasonable to want to attribute a security incident. So why the fuss?
 
-## Short Answer
-_Attribution is Hard_.
-
-## Long Answer
+## Attribution is Hard
 
 Accurate attribution of attacks is difficult under the best of circumstances and there are a few key, common issues.
 
@@ -56,22 +53,26 @@ At it's core one of the most attractive things about offensive network operation
 - IP Addresses are easy to fake with VPN software or a cheap VPS, thus seeming to come from any country you like.
 - Most of the Internet doesn't require any real form of ID, it's simple to sign-up for Facebook, Twitter, or SSL certificates as anyone.
 - Anonymous payments are easier than most people realize. That means VPS, VPN endpoints, etc.
+- Pay for play remote access trojans, exploits, and attack toolkits mean multiple actors may be sharing significant parts of their toolchain.
 
-In a world where many characteristics are easily changed, manipulated, or mimicked it's no wonder attribution is difficult.
+In a world where many common atttack characteristics are easily changed, manipulated, or mimicked it's no wonder attribution is difficult.
 
 ## Operational Security
 
 During any security incident [operational security](http://www.dodea.edu/Offices/Safety/upload/01_Brief_Basic_OPSEC.pdf) is paramount. This takes on 3 aspects:
 
-- Internal: You don't want your own employees taking actions that undermine your investigation or recovery. This is actually a fairly common issue.
-- External: Letting information leak about your investigation can cause dangerous speculation among outside forces, most notably the press. This can affect a companies financial standing well beyond the scope of an incident. Damage control such as this may not be important to an incident response team, but it's critical to stock holders and the C-Suite.
-- Attacker: The most important operational security concern is preventing any information from getting back to your attacker. If an attacker believes you're on to them they could take a number of actions: destroy data, change their malware or infrastructure, steal data at a quicker pace, or disappear entirely. Any one of these can be devastating.
+- Internal
+  - You don't want your own employees taking actions that undermine your investigation or recovery. This is actually a fairly common issue.
+- External
+  - Letting information leak about your investigation can cause dangerous speculation among outside forces, most notably the press. This can affect a companies financial standing well beyond the scope of an incident. Damage control such as this may not be important to an incident response team, but it's critical to stock holders and the C-Suite.
+- Attacker
+  - The most important operational security concern is preventing any information from getting back to your attacker. If an attacker believes you're on to them they could take a number of actions: destroy data, change their malware or infrastructure, steal data at a quicker pace, or disappear entirely. Any one of these can be devastating.
 
-As a result its key that information that could lead to those outcomes is carefully controlled and only released when it can't cause any damage.
+As a result it's key that information that could lead to those outcomes is carefully controlled and only released when it can't cause any damage.
 
 ## So What about Sony
 
-I cannot say for certain, having had nothing to do with the investigation, but I would speculate that in this case all 3 (incomplete information, circumstantial information, and operational security) all play a role.
+I cannot say for certain, having had nothing to do with the investigation, but I would speculate that in this case all 3 (incomplete information, circumstantial information, and operational security) have played a role.
 
 ### Incomplete Information
 
@@ -85,9 +86,9 @@ This part is the same in every investigation. It is easy to bite and attempt to 
 
 ### Operational Security
 
-Plenty of people have questioned the FBI's attribution to North Korea. One of the things most commonly cited is how little information they provide, much of which was circumstantial. This concern neglects, or at least naively ignores, what information they're [withholding deliberately](http://www.thedailybeast.com/articles/2015/01/02/u-s-spies-say-they-tracked-sony-hackers-for-years.html).
+Plenty of people have questioned the FBI's attribution to North Korea. One of the things most commonly cited is how little information they provide, much of which was circumstantial. This concern neglects, or at least naively ignores, what information they're [withholding deliberately](http://www.thedailybeast.com/articles/2015/01/02/u-s-spies-say-they-tracked-sony-hackers-for-years.html) to protect their sources & methods.
 
-Does the FBI/US Gov have better sources than they're letting on? I would guess yes. But burning good sources just to make naysayers feel better isn't good intelligence management.
+Does the FBI/US Gov have better intelligence than they're letting on? I would guess yes but burning good sources just to make naysayers feel better isn't good intelligence management.
 
 #### Damage Control
 
