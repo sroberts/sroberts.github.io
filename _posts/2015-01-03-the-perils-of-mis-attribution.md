@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Perils of Attribution
+title: The Perils of (Mis)Attribution
 ---
 
 It's impossible to be involved in the information security community right now and to avoid [the incident going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). The details of the attack by "The Guardians of Peace" may never be publicly known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, somewhat tertiary but none the less key issue, the "attribution" debate.
@@ -15,7 +15,7 @@ In every major security incident one of the first questions asked is "Who"? We c
 | Mid 1990 - Mid 2000s |  [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Slammer](https://en.wikipedia.org/wiki/SQL_Slammer), & other computer worms | Malware writing criminals & pranksters | The Antivirus Market. Ended largely with [Conficker](https://en.wikipedia.org/wiki/Conficker). |
 | Dec 31 1999 | [Y2K Bug](http://content.time.com/time/specials/packages/article/0,28804,2072678_2072683_2072599,00.html) | Unknown bugs & unintended consequences | Nothing. Zip. Zilch. Nada. Society continues. |
 | Late 2009 - 2012 | [Googles Aurora Incident](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html) | China Peoples Liberation Army (APT) | Suddenly everything was China/APT. [Mandiant released the APT1 report](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/). Everyone at the RSA Conference promised "Anti-APT" solutions. |
-| 2012 | Dozens of high profile activist hacks | Anonymous & LulzSec | Cyber hactivism is touted as the next great threat to the world. It's been mostly ignored and a few Twitter accounts were compromised. |
+| 2012 | Dozens of high profile activist hacks | Anonymous & LulzSec | Cyber hactivism is touted as the next great threat to the world. It's been mostly ignored and a few Twitter accounts & companies (including Sony) were compromised. |
 | Summer 2013 | [The Snowden Leaks](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)) | [NSA TAO/ANT](https://en.wikipedia.org/wiki/Tailored_Access_Operations) | Global mistrust of the US intelligence community. The "Anti-NSA"-ifying of various domestic American companies and a slight global move away from American tech companies. |
 | November 2014 | Sonys current incident | North Korea | The press leaks speculation it's actually North Korea. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
 
