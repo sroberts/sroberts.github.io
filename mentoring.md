@@ -10,7 +10,7 @@ I don’t profess to be the world’s best example to follow in any respect, how
 
 * I have worked for a number of amazing companies doing Digital Forensics & Incident Response.
 * In 2012 I got hired for my dream job working remotely for [GitHub](https://github.com), a company that produces web-based collaboration tools for people who build software.
-* I’ve lived on both coasts, in Washington DC (twice), San Francisco, New York City (ok ok... New Jersey), and now back in my home town of Hershey, PA.
+* I’ve lived on both coasts, in Washington DC (twice), San Francisco, New York City (ok ok... New Jersey), and now in Columbus, Ohio.
 * People have been surprisingly willing to let me talk at them and as a result I've spoken at some great industry events like ShmooCon, BayThreat, SummerCon, and [others](http://sroberts.github.io/talks/).
 
 If you’d like to work together, you can [write me a letter](mailto:sroberts@github.com) responding to the questions below; I’ll write back to all letters I receive in this way within two weeks, no matter what. In response to the most exceptional letters, I’ll propose further correspondence—and in certain cases, an ongoing mentoring relationship.
