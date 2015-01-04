@@ -36,3 +36,6 @@ linkedin:
 
 pgp:
   main:           https://keybase.io/sroberts
+
+rss:
+  main:          http://sroberts.github.io/atom.xml
