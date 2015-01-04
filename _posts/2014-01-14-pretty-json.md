@@ -35,6 +35,6 @@ Just a little tip if you're also using lots of JSON on the command line.
 
 ---
 
-So a number of people were kind enough to respond on Twitter to my post on this and recommend I look into [./jq](http://stedolan.github.io/jq/), which describes itself as _"jq is like ```sed``` for JSON data_. I've played with it a bit and must say it seems like a very cool tool that could certainly help with what I'm doing. I'm going to use it for a few days, dig into it more, and maybe post a follow up.
+So a number of people were kind enough to respond on Twitter to my post on this and recommend I look into [./jq](http://stedolan.github.io/jq/), which describes itself as _"jq is like ```sed``` for JSON data"_. I've played with it a bit and must say it seems like a very cool tool that could certainly help with what I'm doing. I'm going to use it for a few days, dig into it more, and maybe post a follow up.
 
 Thanks @[danthompson](http://whoisdanthompson.com), @[pengynn](http://me.wynn.fm), & @[1stvamp](http://1stvamp.org)!
