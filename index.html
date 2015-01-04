@@ -18,6 +18,8 @@ title: Home
     {% endcapture %}
     {% unless words contains "-" %}
       {{ words | plus: 250 | divided_by: 180 | append: " min to read" }}
+    {% else %}
+      < 1 min to read
     {% endunless %} |
     {% include edit.html %}
     </span>
