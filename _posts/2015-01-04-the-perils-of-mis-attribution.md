@@ -17,7 +17,7 @@ In every major security incident one of the first questions asked is "Who"? We c
 | Late 2009 - 2012 | [Google's Aurora Incident](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html) | China Peoples Liberation Army (APT) | Suddenly everything was China/APT. [Mandiant released the APT1 report](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/). Everyone at the RSA Conference promised "Anti-APT" solutions. None delivered. |
 | 2012 | Dozens of high profile activist hacks | Anonymous & LulzSec | Hactivism is touted as the next great threat to the world. It's been mostly ignored and a few Twitter accounts & companies (including Sony) were compromised. |
 | Summer 2013 | [The Snowden Leaks](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)) | [NSA TAO/ANT](https://en.wikipedia.org/wiki/Tailored_Access_Operations) | Global mistrust of the US intelligence community.  "Anti-NSA"-ifying of various American companies and a slight global move away from American tech. |
-| November 2014 | Sonys current incident | North Korea | The press leaks speculation it's actually North Korea. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
+| November 2014 | Sony's current incident | North Korea | The press leaks speculation it's actually North Korea. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
 
 The first thing that needs to be noted is none of these time frames are accurate. Every one of these groups & threats have been active before & since their "time in the sun". What these rough dates frame is the hype cycle; when the media and vendors have emphasized these various issues. This represents a moving idea of "who the bad guy is" that's largely based on a single idea: __attribution__.
 
@@ -54,7 +54,7 @@ At it's core one of the most attractive things about offensive network operation
 - Many network protocols have limited or zero security built in, making it [possible to intercept, spoof, or manipulate many types of communication with proper technology or network position](https://en.wikipedia.org/wiki/Tailored_Access_Operations#QUANTUM_attacks).
 - Most of the Internet doesn't require any real form of ID, it's simple to sign-up for Facebook, Twitter, or SSL certificates as anyone.
 - Anonymous payments are easier than most people realize. That means VPS, VPN endpoints, etc.
-- Pay for play & open source remote access trojans, exploits, and attack toolkits mean multiple actors may be sharing significant parts of their toolchain, leading to possiblities of attackers emulating other attackers to encourage misattribution.
+- Pay for play & open source remote access trojans, exploits, and attack toolkits mean multiple actors may be sharing significant parts of their toolchain, leading to possibilities of attackers emulating other attackers to encourage misattribution.
 
 In a world where many common attack characteristics are easily changed, manipulated, or mimicked it's no wonder attribution is difficult.
 
