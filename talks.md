@@ -31,7 +31,7 @@ I've been lucky enough to be invited to talk some places. Here's the list...
 - [Parsons The New School for Design](http://www.newschool.edu/parsons/): GitHub Principles for Awesome ([Slides](https://speakerdeck.com/sroberts/introduction-and-8-things-to-be-good-at-github))
 
 ## 2012
-- [Mozilla Game Jam](https://gameon.mozilla.org/en-US/events/) NYC 2012 Kickoff: GitHub Principles for Awesome ([Slides](https://speakerdeck.com/sroberts/github-principles-for-awesome))
+- Mozilla Game Jam NYC 2012 Kickoff: GitHub Principles for Awesome ([Slides](https://speakerdeck.com/sroberts/github-principles-for-awesome))
 
 ## 2010
 - [SummerCon](http://summercon.org): An Intelligence Primer for Hackers
