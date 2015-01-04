@@ -9,15 +9,15 @@ It's impossible to be involved in the information security community right now a
 
 In every major security incident one of the first questions asked is "Who"? We call this attribution (we'll go into detail on that word later). Defining this boogie man has been the major driver of information security hype cycles since the beginning of our profession.
 
-| Timeframe | Event | Boogie Man | Result |
+| Time frame | Event | Boogie Man | Result |
 | ------ | ----- | ---------- | ------ |
 | 1980-1990s | The Great Hacker War & [multiple government intrusions](https://en.wikipedia.org/wiki/Moonlight_Maze). | Basement Hackers ([LOD](https://en.wikipedia.org/wiki/Legion_of_Doom_(hacking)), [CDC](https://en.wikipedia.org/wiki/Cult_of_the_Dead_Cow)) &  Nation State Hackers. | Selling lots of firewalls.  Inventing IDS. [Wargames!](http://www.imdb.com/title/tt0086567/) |
-| Mid 1990 - Mid 2000s | Endless computer worms: [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Slammer](https://en.wikipedia.org/wiki/SQL_Slammer), etc | Criminals & Pranksters | The AntiVirus Market. Ended largely with [Conficker](https://en.wikipedia.org/wiki/Conficker). |
+| Mid 1990 - Mid 2000s | Endless computer worms: [Code Red](https://en.wikipedia.org/wiki/Code_Red_(computer_worm)), [Slammer](https://en.wikipedia.org/wiki/SQL_Slammer), etc | Criminals & Pranksters | The Antivirus Market. Ended largely with [Conficker](https://en.wikipedia.org/wiki/Conficker). |
 | Dec 31 1999 | [Y2K Bug](http://content.time.com/time/specials/packages/article/0,28804,2072678_2072683_2072599,00.html) | Unknown bugs and unintended consequences | Nothing. Zip. Zilch. Nada. Society continues. |
 | ~2009 - 2012 | China Peoples Liberation Army (APT) | [Google got hacked](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html), suddenly everything was China/APT. [Mandiant released the APT1 report](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/). Everyone at the RSA Conference promised "Anti-APT" solutions. |
 | 2012 | Dozens of high profile activist hacks | Anonymous & LulzSec | Cyber hactivism is touted as the next great threat to the world. It's been mostly ignored and a few Twitter accounts were compromised. |
 | Summer 2013 | [The Snowden Leaks](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)) | [NSA TAO/ANT](https://en.wikipedia.org/wiki/Tailored_Access_Operations) | Global mistrust of the US intelligence community. The "Anti-NSA"-ifying of various domestic American companies and a slight global move away from American tech companies. |
-| November 2014 | North Korea | Sony gets hacked by a group claimin to be called the "Guardians of Peace". The press leaks speculation it's actually North Korea. Suddenly everything is North Korea information warfare. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
+| November 2014 | North Korea | Sony gets hacked by a group claiming to be called the "Guardians of Peace". The press leaks speculation it's actually North Korea. Suddenly everything is North Korea information warfare. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
 
 The first thing that needs to be noted is none of these time frames are accurate. Every one of these groups & threats have been active before & since their "time in the sun". What these rough dates frame is the hype cycle; when the media and vendors have emphasized these various issues. This represents a moving idea of "who the bad guy is" that's largely based on a single idea: __attribution__.
 
@@ -43,7 +43,7 @@ _Attribution is Hard_.
 
 ## Long Answer
 
-Accurate attribution of attacks is difficult under the best of circmstances and there are a few key, common issues.
+Accurate attribution of attacks is difficult under the best of circumstances and there are a few key, common issues.
 
 ### Incomplete Information
 In most cases collecting data on security events is difficult. Very few organizations really have sufficient, comprehensive monitoring (full network content monitoring, endpoint monitoring, centralize logging, etc) necessary to recreate any and every event after the fact. Recreating incident are difficult even if you can acquire the malware and exploit vector (phishing email or watering hole). So at best most security teams are working with incomplete information.
@@ -102,28 +102,28 @@ So lest I just seem negative lets talk about what makes good, effective attribut
 - Comprehensive telemetry collected from multiple sources
   - Network full content is great, flow & proxy logs are great too.
   - Memory and system logs from any systems the bad guys get into are key.  
-- Extensive Analysis by multiple experts (hopefully corrobrated by multiple analysts)
+- Extensive Analysis by multiple experts (hopefully corroborated by multiple analysts)
   - Compromised system memory analysis
   - Compromised system disk forensics
-  - Deep malware analysis (dynamic and static, as well as utilizing a comprenshive malware library)
+  - Deep malware analysis (dynamic and static, as well as utilizing a comprehensive malware library)
   - Log correlation, especially centralized authentication lots
   - Open source analysis of the attackers infrastructure (attack infrastructure, C2 & exfiltration nodes)
 - Analyzed Multiple Attacks against a single Victim
   - It's incredibly difficult to see one incident, even a long running one, and develop meaningful attribution.
   - Many attackers will come back to the same victim multiple times. Comparing these multiple attacks can give incredible insight into how the attacker evolves, what resources they keep going after, etc.
 - Multiple sets of telemetry from one incident
-  - In many cases attackers use the same tool chain & tactics, techniques, and proceedures against multiple victims.
-  - By sharing information between similar organizations who see the same attackers you get yet another oppertunity to
+  - In many cases attackers use the same tool chain & tactics, techniques, and procedures against multiple victims.
+  - By sharing information between similar organizations who see the same attackers you get yet another opportunity to
 
 At it's core there are two ultimate goals conducting this analysis:
-- Identify common tactics, techniques, and proceedures
+- Identify common tactics, techniques, and procedures
 - Identify common attacker goals (actions over target)
 
-This process is not for the faint of heart. It takes time, good information, and a skilled team to turn the necessary mountain of data into verifiable, trustworth attribution. Even if a team can accomplish that making the case can be difficult. Plenty of people in the security world are happy to be contrarian for a variety of motivations.
+This process is not for the faint of heart. It takes time, good information, and a skilled team to turn the necessary mountain of data into verifiable, trustworthy attribution. Even if a team can accomplish that making the case can be difficult. Plenty of people in the security world are happy to be contrarian for a variety of motivations.
 
 ### Actor vs Attribution
 
-When conducting this analysis the question is "what's the goal?". Being able to put a name to an actor is psychologically incredibly useful, but does that mean it's necessary to have a persons given name or the name of their employer for this to be a worthwhile exerise? In my experiece this makes for great marketing fodder, but unless you have hand cuffs (and necessary legal documents to use them) or cruise missiles (and war powers) what good is "direct attribution"? I'd argue none at all.
+When conducting this analysis the question is "what's the goal?". Being able to put a name to an actor is psychologically incredibly useful, but does that mean it's necessary to have a persons given name or the name of their employer for this to be a worthwhile exercise? In my experience this makes for great marketing fodder, but unless you have hand cuffs (and necessary legal documents to use them) or cruise missiles (and war powers) what good is "direct attribution"? I'd argue none at all.
 
 Being able to tie a series of TTPs to a name, even just a made up code name, is highly valuable and removes the "boogie man" fear that most people have to attackers over the Internet. Teams that take this "indirect attribution" approach will start to recognize these code named actors. This leads to faster identification, more effective remediation, and eventually the ability to start applying counter intelligence approaches. This should be every incident response teams ultimate goal.
 
