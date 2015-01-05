@@ -12,12 +12,13 @@ permalink:        pretty
 title:            '@sroberts'
 tagline:          'professional bad guy catcher'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
-url:              http://sroberts.github.io
+url:              http://sroberts.github.io/
 baseurl:          /
 
 author:
   name:           'Scott J Roberts'
-  url:            https://twitter.com/sroberts
+  url:            'https://twitter.com/sroberts'
+  email:          'scott.roberts@gmail.com'
 
 paginate:         5
 
