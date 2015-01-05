@@ -5,6 +5,10 @@ title: The Perils of (Mis)Attribution
 
 It's impossible to be involved in the information security community right now and to avoid [the incident going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). All of the details of the attack by "The Guardians of Peace" may never be publicly known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, somewhat tertiary but none the less key issue, the "attribution" debate.
 
+![Super Creepy Computer Spy Eye](http://cdn4.spiegel.de/images/image-576643-breitwandaufmacher-wwyh.jpg)
+
+>_Obligatory "Darky Computery Hacker" Image_
+
 ## A bit of History
 
 In every major security incident one of the first questions asked is "Who"? We call this attribution (we'll go into detail on that word later). Defining this boogie man has been the major driver of information security hype cycles since the beginning of our profession.
@@ -17,7 +21,7 @@ In every major security incident one of the first questions asked is "Who"? We c
 | Late 2009 - 2012 | [Google's Aurora Incident](http://googleblog.blogspot.com/2010/01/new-approach-to-china.html) | China Peoples Liberation Army (APT) | Suddenly everything was China/APT. [Mandiant released the APT1 report](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/). Everyone at the RSA Conference promised "Anti-APT" solutions. None delivered. |
 | 2012 | Dozens of high profile activist hacks | Anonymous & LulzSec | Hactivism is touted as the next great threat to the world. It's been mostly ignored and a few Twitter accounts & companies (including Sony) were compromised. |
 | Summer 2013 | [The Snowden Leaks](https://en.wikipedia.org/wiki/Global_surveillance_disclosures_(2013–present)) | [NSA TAO/ANT](https://en.wikipedia.org/wiki/Tailored_Access_Operations) | Global mistrust of the US intelligence community.  "Anti-NSA"-ifying of various American companies and a slight global move away from American tech. |
-| November 2014 | Sony's current incident | North Korea | The press leaks speculation it's actually North Korea. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces sanctions. |
+| November 2014 | Sony's current incident | North Korea | The press leaks speculation it's actually North Korea. Vendors release their DPRK reports. The FBI confirms the press rumors. President Obama announces [sanctions](http://www.gizmodo.co.uk/2015/01/north-koreas-thesaurus-new-sanctions-an-inveterate-repugnancy/). |
 
 The first thing that needs to be noted is none of these time frames are accurate. Every one of these groups & threats have been active before & since their "time in the sun". What these rough dates frame is the hype cycle; when the media and vendors have emphasized these various issues. This represents a moving idea of "who the bad guy is" that's largely based on a single idea: __attribution__.
 
@@ -89,7 +93,11 @@ This part is the same in every investigation. It is easy to bite and attempt to 
 
 Plenty of people have questioned the FBI's attribution to North Korea. One of the things most commonly cited is how little information they provide, much of which was circumstantial. This concern neglects, or at least naively ignores, what information they're [withholding deliberately](http://www.thedailybeast.com/articles/2015/01/02/u-s-spies-say-they-tracked-sony-hackers-for-years.html) to protect their sources & methods.
 
-Does the FBI/US Gov have better intelligence than they're letting on? I would guess yes but burning good sources just to make naysayers feel better isn't good intelligence management.
+<p>
+  <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/iiamit">@iiamit</a> <a href="https://twitter.com/nselby">@nselby</a> Tl;dr : intelligence agencies don&#39;t share everything they know and it is annoying supersadface!</p>&mdash; daveaitel (@daveaitel) <a href="https://twitter.com/daveaitel/status/546670555643252736">December 21, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+</p>
+
+Does the FBI/US Gov have better intelligence than they're letting on? I would guess they do, especially since the intelligence community can access all the different diciplines of security, but burning good sources just to make naysayers feel better isn't good intelligence management.
 
 #### Damage Control
 
@@ -131,6 +139,12 @@ Being able to tie a series of TTPs to a name, even just a made up code name, is 
 
 ## Conclusion
 
+![OMG KJU](http://media.gizmodo.co.uk/wp-content/uploads/2015/01/s--xWrGDiOk--.jpg)
+
+> _Ok... this was some amazing Photoshopping by Gizmodo!_
+
 So what's my take: Are the Guardians of Peace actually North Korea? This may be the the unpopular response, but I'll say it anyway: _I don't know_. I haven't analyzed the malware, studied the packet captures, seen the phishing emails, or anything else relative to the investigation. I know there are smart people working this incident and I trust they're taking every step necessary.
 
-What I do know is that we are making major decisions based on the idea that this attack can be attributed to the Democratic Peoples Republic of Korea. I don't just mean whether companies buy a new tool from a vendor with a good graphics department, I mean [major international policies](http://www.foxnews.com/politics/2015/01/02/obama-administration-imposes-sanctions-on-north-korea-after-sony-hack/). I urge anyone, from federal law enforcement & policy makers to lowly incident responders like myself: be careful pointing & un-pointing fingers. Attribution is difficult when you're intimately involved with an investigation, and all but impossible to an armchair quarterback.  
+What I do know is that we are making major decisions based on the idea that this attack can be attributed to the Democratic Peoples Republic of Korea. I don't just mean whether companies buy a new tool from a vendor with a good graphics department, I mean [major international policies](http://www.foxnews.com/politics/2015/01/02/obama-administration-imposes-sanctions-on-north-korea-after-sony-hack/). I urge anyone, from federal law enforcement & policy makers to lowly incident responders like myself: be careful pointing & [un-pointing](http://www.thedailybeast.com/articles/2014/12/24/no-north-korea-didn-t-hack-sony.html?via=desktop&source=facebook) fingers. Attribution is difficult when you're intimately involved with an investigation, and all but impossible to an armchair quarterback.
+
+_I also recommend reading [Nick Selby's "I Have No Idea Who Hacked Sony. And Neither Do You."](https://medium.com/@nselby/i-have-no-idea-who-hacked-sony-and-neither-do-you-63142855ebaa)._
