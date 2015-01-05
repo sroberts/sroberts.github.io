@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Git & GitHub
+title: Learning Git and GitHub
 ---
 
 I suppose it makes sense that when you work for a company everyone assumes you know everything about using its products. When I worked at [Symantecs Managed Security Services](http://www.symantec.com/managed-security-services) people asked me all the time how to use the antivirus. It's a normal assumption, even if it's off base.
