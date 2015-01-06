@@ -3,10 +3,10 @@ layout: post
 title: 2015 Professional Goals
 ---
 
-It's important to have goals, and put them out there to be held accountable. I've give it some thought and want to put mine out there for two reasons:
+The start of the year is a time for goals and plans. I've give it some thought and want to put mine out there for two reasons:
 
 - To be held accountable. I know a couple people who may read this and chide me a bit for not keeping up. I can use that.
-- In the hope that some people may join me. Hopefully that'll be clear.
+- In the hope that some people may join me in a couple of my goals.
 
 ## Goal 1: Read one technical book a month
 
@@ -24,22 +24,25 @@ I'm also planning on reading:
 - [Practical Malware Analysis](Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software) by Michael Sikorski & Andrew Honig
 - [The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws](https://www.goodreads.com/book/show/1914619.The_Web_Application_Hacker_s_Handbook) by Dafydd Stuttard
 
+I'd love to keep up with having a discussion partner to work through each book with so feel free to reach out if any of these books seem interesting.
+
 ## Goal 2: Blog at least once a week
 
-> _"Either write something worth reading or do something worth writing."_" - Benjamin Franklin
+> _"Either write something worth reading or do something worth writing."_ - Benjamin Franklin
 
-I've had this blog going for a little bit more than a year and honestly I'm a bit ashamed of how little it on it at this point. I think I can do better. Writing forces me to structure my thoughts and gives me a chance to explore ideas that require more than 140 characters.
+I've had this blog going for a little bit more than a year and honestly I'm a bit ashamed of how little is on it at this point. I think I can do better. Writing forces me to structure my thoughts and gives me a chance to explore ideas that require more than [140 characters](https://twitter.com/sroberts).
 
 ## Goal 3: Learn a System Programming Language
 
-I like to think I'm a decently passable [Python](https://www.python.org) programmer and working at GitHub has taught me a bit of [Ruby](https://www.ruby-lang.org/en/)/[Rails](http://rubyonrails.org). Between [Jekyll](http://jekyllrb.com) projects & the Ruby/Python web frameworks I've picked up a decent amount of [HTML](http://www.w3.org/html/), [CSS](http://www.w3.org/Style/CSS/), and JavaScript. That said I haven't really spent time working on traditional system programming language since [C++](http://isocpp.org) in college.
+I write [Python](https://www.python.org) multiple times a week. Working at GitHub I see [Ruby](https://www.ruby-lang.org/en/)/[Rails](http://rubyonrails.org) often. Between web frameworks and [Jekyll](http://jekyllrb.com) I write HTML/CSS/JS quite often. That said I haven't really spent time working on traditional system programming language since [C++](http://isocpp.org) in college (and that wasn't really a great experience).
 
-While Python is a great Swiss Army Knife of a language there are times you need something more. Google's [Go](https://golang.org) certainly has gotten a lot of attention and apparently for good reason. It's performant, portable, and with a clean (dare I say Pythonic) syntax. It looks like a great language. I've also heard some great things about [Rust](http://www.rust-lang.org) as well. Taking the time to learn and develop a project in a system language would round out a gap I have.
+While Python is a great Swiss Army Knife of a language there are times you need something more. Google's [Go](https://golang.org) certainly has gotten a lot of attention and apparently for good reason. It's highly performant, portable, and has a clean (dare I say Pythonic) syntax. It looks like a great language. I've also heard some great things about [Rust](http://www.rust-lang.org) as well. Taking the time to learn and develop a project in a system language would round out a gap I have.
 
 ## Personal Goals
-I'm not really big on making this blog a LiveJournal but while I'm at it I may as well mention a couple personal goals as well:
+I'm not really keen on making this blog a LiveJournal but while I'm at it I may as well mention a couple personal goals as well:
 
 - Read 12 cooking books this year. Currently I'm reading [Twelve Recipes](https://www.goodreads.com/book/show/20721957-twelve-recipes) by Cal Peternell. Cooking more goes along with this of course.
-- Complete the [C25K (Couch to 5k) program](http://www.coolrunning.com/engine/2/2_3/181.shtml) and start biking.
+- Complete the [C25K (Couch to 5k) program](http://www.coolrunning.com/engine/2/2_3/181.shtml) and run regularly.
+- I've been talking for awhile about getting a dog (my wife has had one since before we got married). I've never had a dog that was primarily mine and I think it would be a great experience and challenge to raise and train a dog myself.
 
 It should be a great year.
