@@ -14,7 +14,7 @@ The start of the year is a time for goals and plans. I've given it some thought 
 
 In 2014 I read the fewest technical books since getting done with college. This isn't a trend I want to see continue. My work life balance isn't what it used to be, but 12 books covering intelligence, security, and development in a year seems more than reasonable.
 
-I've already gotten started with [Incident Response & Computer Forensics, Third Edition](Incident Response & Computer Forensics, Third Edition) by Jason T Luttgens, Matthew Pepe, & Kevin Mandia. Even better I'm reading this along with with [Alex Pinto](http://about.me/alexcpsec). I plan to post a _"book report"_ each one.
+I've already gotten started with [Incident Response & Computer Forensics, Third Edition](https://www.goodreads.com/book/show/16691213-incident-response-computer-forensics-third-edition) by Jason T Luttgens, Matthew Pepe, & Kevin Mandia. Even better I'm reading this along with with [Alex Pinto](http://about.me/alexcpsec). I plan to post a _"book report"_ each one.
 
 I'm also planning on reading:
 
