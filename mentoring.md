@@ -23,4 +23,4 @@ If you’d like to work together, you can [write me a letter](mailto:sroberts@gi
 
 I look forward to learning together.
 
-Inspired by a [distributed mentoring movement](http://mentoring.is).
+Inspired by a distributed mentoring movement.<!--](http://mentoring.is).-->
