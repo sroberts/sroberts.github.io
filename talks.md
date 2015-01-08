@@ -11,6 +11,7 @@ I've been lucky enough to be invited to talk some places. Here's the list...
 
 ## 2015
 - Upcoming! [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet
+- Upcoming! [BSides Columbus 2015](http://www.securitybsides.com/w/page/81789821/BSidesCMH2015): A Basic Guide to Advanced Incident Response
 
 ## 2014
 - NYU-Poly CSAW THREADS: Building Your Own DFIR Sidekick ([Slides](https://speakerdeck.com/sroberts/building-your-own-dfir-sidekick-threads-edition))
