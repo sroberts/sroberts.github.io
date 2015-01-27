@@ -39,7 +39,7 @@ And the cycle begins again. Where this gets even more fascinating is when you co
 - __Decide:__ The attacker makes a plan to expand their access, solidify current access, evade investigators, or complete objectives (steal data, turn up centrifuges, etc).
 - __Act:__ The attacker executes their plan using the capabilities they have available.
 
-These two loops are running simultaneously, competing with each other every second. The fact is whichever actor can complete this loop faster, continuously, will be most likely to achieve their objective. Over time it is essentially guaranteed that a group that OODAs faster will always have the decision/action advantage, and thus guaranteed to be more successful.
+These two loops are running simultaneously, competing with each other every second. The fact is whichever actor can complete this loop faster, continuously, will be most likely to achieve their objective. Over time it is almost guaranteed that a group that OODAs faster will always have the decision/action advantage, and thus more likely to be more successful. The big caveat to this is in an adversarial setting these loops are occurring simultaneously, meaning that the data collected during the observation phase might not be accurate by the action phase. This is why the relative speeds each actor can complete the loop are so key.
 
 ## Takeaways from OODA
 
