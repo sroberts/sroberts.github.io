@@ -3,7 +3,7 @@ layout: post
 title: Intelligence Concepts - OODA
 ---
 
-The information security community loves lists, cycles, and other guides for actions. We have important steps that need to be followed, but no investigation is exactly the same, and everyone requires a bit of improvisation.
+The information security community loves lists, cycles, and other guides for actions. We have important steps that need to be followed, but no investigation is exactly the same, and every one requires a bit of improvisation.
 
 So how do you balance these needs? The paradox of disciplined steps mixed with room to adapt to a situation. Lots of groups are posing solutions, some useful, some not so useful, and some 100% misconstrued. I'm going to take this week to break down a number of the most common cycles and processes including OODA (keep reading!), the Intelligence Cycle, the Cyber Kill Chain, & F3EAD.
 
