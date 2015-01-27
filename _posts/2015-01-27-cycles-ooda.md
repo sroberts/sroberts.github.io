@@ -8,7 +8,7 @@ The information security community loves lists, cycles, and other guides for act
 So how do you balance these needs? The paradox of disciplined steps mixed with room to adapt to a situation. Lots of groups are posing solutions, some useful, some not so useful, and some 100% misconstrued. I'm going to take this week to break down a number of the most common cycles and processes including OODA (keep reading!), the Intelligence Cycle, the Cyber Kill Chain, & F3EAD.
 
 ## [The OODA Loop](http://en.wikipedia.org/wiki/OODA_loop)
-OODA is easily the most misunderstood cycle on this list. It is simple but powerful, so powerful it causes people to what to over think it. At it's core OODA is an abstraction of the typical human thought process. Developed by American fighter pilot and tactician [Col. John Boyd](http://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) to understand fighter engagements the OODA loop is applicable to most decision cycles, including incident response decisions.
+OODA is easily the most misunderstood cycle on this list. It is simple but powerful, so powerful it causes people to want to over think it. At it's core OODA is an abstraction of the typical human thought process. Developed by American fighter pilot and tactician [Col. John Boyd](http://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) to understand fighter engagements the OODA loop is applicable to most decision cycles, including incident response decisions.
 
 [![Boyd's OODA Loop](http://upload.wikimedia.org/wikipedia/commons/3/3a/OODA.Boyd.svg)](http://en.wikipedia.org/wiki/OODA_loop)
 
