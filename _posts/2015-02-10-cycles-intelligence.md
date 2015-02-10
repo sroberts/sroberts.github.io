@@ -3,7 +3,7 @@ layout: post
 title: Intelligence Concepts - The Intelligence Cycle
 ---
 
-About four years. I got tired of hearing how young I looked. Well, I'll say this for him - he's sure of himself. Our neural pathways have become accustomed to your sensory input patterns. Talk about going nowhere fast. Besides, you look good in a dress.
+Yeah... this is happening. I can't talk about important intelligence concepts for security without talking about the grand daddy, the original.
 
 ## The Intelligence Cycle
 
