@@ -3,9 +3,11 @@ layout: post
 title: Home Office Setup
 ---
 
-One of the best things about my current job (though it's becoming less unique) is the chance to work remotely. This is beneficial in so many ways, not the least of which is the flexiblity to work from home. This gave me the oppertunity to really customize my work environment in a way I never could in a traditional office.
+One of the best things about my current job (though it's becoming less unique) is the chance to work remotely. This is beneficial in so many ways, not the least of which is the flexibility to work from home. This gave me the opportunity to really customize my work environment in a way I never could in a traditional office.
 
 ![Holder Photo](http://riskcontrolstrategies.com/wp-content/uploads/2010/09/office.jpg)
+
+_Don't forget to remove your EXIF data._
 
 ## Workspace Equipment
 
@@ -31,7 +33,7 @@ _So yeah... I basically have an Apple Store at home. You can question my choices
 This is the toughest one by far. There are a couple points that I think make a huge difference:
 
 - The ability to close a door is key. I don't understand people who work in their living rooms, not due to the hustle and bustle (I actually like that) but more from the constant "seeing home things I could be working on". When you're in the zone the last thing you need is a distraction, and when you aren't the last thing you need is an excuse.
-- I find I need people time, so many of my mornings are spent in a local coffeeshop.
+- I find I need people time, so many of my mornings are spent in a local coffee shop.
 
 ## Overall
 
