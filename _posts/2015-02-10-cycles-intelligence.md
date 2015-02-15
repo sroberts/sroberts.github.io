@@ -48,7 +48,7 @@ The collection process continues until exhausted, either based on content or on 
 
 At this point you have a mountain of data. __Processing is taking all this data and putting it into useful formats for further analysis.__ This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing solutions (CRITs, MISP, ThreatConnect, ThreatQuotient, and dozens of home grown systems).  
 
-I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (__Note: I'm saying data, not intelligence yet__) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later.
+I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (___Note: I'm saying data, not intelligence yet___) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later.
 
 #### Analysis
 
