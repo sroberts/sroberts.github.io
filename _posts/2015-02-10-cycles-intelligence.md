@@ -3,7 +3,7 @@ layout: post
 title: Intelligence Concepts - The Intelligence Cycle
 ---
 
-This is happening. I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of "Threat Intelligence" product, given in most cases they seem to be using the phrase in place of the word "smart". Intelligence vs smart couldn't be farther from the truth.
+I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of "Threat Intelligence" product, given in most cases they seem to be using the phrase in place of the word "smart". Intelligence vs smart couldn't be farther from the truth.
 
 ## [The Intelligence Cycle](https://www.cia.gov/kids-page/6-12th-grade/who-we-are-what-we-do/the-intelligence-cycle.html)
 
@@ -19,34 +19,40 @@ Vendors are selling data feeds, management platforms, actor reports, vulnerabili
 
 ### A Walk Through the Intelligence Cycle
 
-I track a number of different groups for my own interest and work through this cycle often. In this case we're going to walk through this cycle the way I would for one of the more infamous groups out there the infamous Comment Crew aka APT1.
+I track a number of different groups for my own interest and work through this cycle often. In this case we're going to walk through this cycle the way I would for one of the more infamous groups out there; the infamous Comment Crew aka APT1.
 
 #### Direction
-When I'm doing my personal research I generally have two goals:
-- A general understanding of a group such as their overall goals
-- Any indicators of compromise that could help me identify these groups
+__First we have to set the paramaters of what questions we're trying to answer.__ When I'm doing my personal research I generally have two goals:
+
+- A general understanding of a group such as their overall goals.
+- Any indicators of compromise that could help me identify this group.
 
 #### Collection
 
-My first thought with groups like this is come up with a series of search terms or known datapoint to start our collection of of.
+__Collection is the process of gathering as much information as you can that can help answer the questions posed in direction.__ My first thought with groups like this is come up with a series of search terms or known datapoint to start our collection of of.
 
 > __Aside:__ A tricky aspects of finding search term is determining what a group is called. Comment Crew (as they were most commonly referred to in private circles) is also was referred to as _Soy Sauce_, _ShadyRat_, _WebC2_, _GIF89a_, _APT1_, _Comment Panda_, and eventually their actual name _Unit 61398_. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
 
 From there we have a couple common sources:
 
-- Google: It's amazing what you can find going through articles & blog posts. You'll want to grab as many of these as you can, though watch out; the current tech media is rife with republishing all over the place, so it's not unusual to find the exact same text on half a dozen sites.
-- Vendor Info: In the case of Comment Crew they were the focus of the most prolific single vendor report in security community history. This of course merited a walk through with a fine tooth comb, but so did many follow on reports as well.
-- From this point there's a whole new series of terms, IP addresses, URLs, CVE numbers, as well as non-technical indicators such as associated actor names, the actual unit designator of the group, etc. Each of these in turn can be collected on as well using other sources. This to me is where tools like DomainTools, VirusTotal, and PassiveTotal are especially useful.
+- Google
+    - It's amazing what you can find going through articles & blog posts. You'll want to grab as many of these as you can, though watch out; the current tech media is rife with republishing all over the place.
+- Vendor Information
+    - In the case of Comment Crew they were the focus of the most prolific single vendor report in security community history. This of course merited a walk through with a fine tooth comb, but so did many follow on reports as well.
+- Re-Analyzing Information
+    - From this point there's a whole new series indicators of compromise as well as non-technical indicators such as associated actor names, the actual unit designator of the group, etc. Each of these in turn can be collected on as well using other sources. This is where tools like DomainTools, VirusTotal, and PassiveTotal are especially useful.
+
+The collection process continues until exhausted, either based on content or on time.
 
 #### Processing
 
-At this point you have a mountain of data. Seriously for this investigation it is a mountain. Processing is taking all this data and putting it into useful formats for further analysis. This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing solutions (CRITs, MISP, ThreatConnect, ThreatQuotient, and dozens of home grown systems).  
+At this point you have a mountain of data. __Processing is taking all this data and putting it into useful formats for further analysis.__ This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing solutions (CRITs, MISP, ThreatConnect, ThreatQuotient, and dozens of home grown systems).  
 
 I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (__Note: I'm saying data, not intelligence yet__) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later.
 
 #### Analysis
 
-Now we have the necessary collection of data processed into a consistent manner and we're ready to go back and address those original questions.
+__Now we have the necessary collection of data processed into a consistent manner and we're ready to go back and address those original questions.__
 
 - A general understanding of a group such as their overall goals?
     - This is what the long form reports tell us. And for a case like this we're looking for confirmation in as many places as possible. We learn this group is about attacking military related targets, trying to gather information that will support their national defense.
@@ -59,7 +65,7 @@ That's the basic analysis process. My products for something like this generally
 
 #### Dissemination
 
-The next to last step is dissemination to stakeholders. In a case like this I'm the stakeholder, so I don't need things disseminated as this is mostly a reference set for me. In the event I was building this for someone else this is the point where I'd pass them information.
+The next to last step is dissemination to stakeholders. In a case like this I'm the stakeholder, so I don't need things disseminated as this is mostly a reference set for me. __In the event I was building this for someone else this is the point where I'd pass them information.__
 
 If this was being disseminated there are a few things to consider:
 
@@ -70,7 +76,7 @@ If this was being disseminated there are a few things to consider:
 
 #### Feedback
 
-Feedback is the simplest part of this whole cycle: Did you answer the questions posted during direction to the stakeholders satisfaction? If yes does this lead to new questions that need to be asked? If no how does this lead to generating a better question or a new series of collections?
+Feedback is the simplest part of this whole cycle: __Did you answer the questions posted during direction to the stakeholders satisfaction?__ If yes does this lead to new questions that need to be asked? If no how does this lead to generating a better question or a new series of collections?
 
 This is a tough one to stomach. If you're the stakeholder you're answering to yourself, which makes it difficult to be honest in your assessment. If the stakeholder is someone else this is their chance to judge your work. Brutal honesty with yourself throughout the process is the only answer.
 
