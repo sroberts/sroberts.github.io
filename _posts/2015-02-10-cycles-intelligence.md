@@ -3,7 +3,7 @@ layout: post
 title: Intelligence Concepts - The Intelligence Cycle
 ---
 
-Yeah... this is happening. I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of "Threat Intelligence" product, given in most cases they seem to be using the phrase in place of the word "smart". Intelligence vs smart couldn't be farther from the truth
+This is happening. I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of "Threat Intelligence" product, given in most cases they seem to be using the phrase in place of the word "smart". Intelligence vs smart couldn't be farther from the truth.
 
 ## [The Intelligence Cycle](https://www.cia.gov/kids-page/6-12th-grade/who-we-are-what-we-do/the-intelligence-cycle.html)
 
@@ -13,13 +13,13 @@ That's it. Six steps described in six sentences, all pretty straight forward and
 
 ## In Incident Response
 
-For the last two or so years the security industry has been all about "Threat Intelligence" with almost zero idea what the word _intelligence_ actually means. In most cases companies using the word _intelligence_ are trying to say something involves an intelligent, meaning smart, concept. In many cases these are innovative and beneficial, but they aren't intelligence. This is coupled with the desire to cash in on the current _threat intelligence_ trend, and thus everything is _intelligence_.
+For the last two or so years the security industry has been all about "Threat Intelligence" with almost no idea what the word _intelligence_ actually means. In most cases companies using the word _intelligence_ are trying to say something involves an intelligent concept. In many cases these are innovative and beneficial, but they aren't intelligence. This is coupled with the desire to cash in on the current (and ambigious) _threat intelligence_ trend and thus everything is _intelligence_.
 
-Vendors are selling data feeds, management platforms, reports, and tools, but none of these are really intelligence. In every case they are a piece, and in many cases important pieces, but not a whole. The whole of threat intelligence takes tools, data sources, people, and processes dedicated to taking in all those inputs and taking them through the intelligence process.
+Vendors are selling data feeds, management platforms, actor reports, vulnerability centric reports, and tools, but none of these are really intelligence. In every case they are a piece, and in many cases important pieces, but not a whole. The whole of threat intelligence takes tools, data sources, people, and processes dedicated to collecting in all those inputs and contextualizing them by working through the intelligence process.
 
-### A Walk Through the IR Cycle
+### A Walk Through the Intelligence Cycle
 
-So I track a number of different groups for my own interest, so lets walk through this cycle the way I would for one of the more infamous groups out there the infamous Comment Crew, which got reported by Mandiant as APT1.
+I track a number of different groups for my own interest and work through this cycle often. In this case we're going to walk through this cycle the way I would for one of the more infamous groups out there the infamous Comment Crew aka APT1.
 
 #### Direction
 When I'm doing my personal research I generally have two goals:
@@ -40,7 +40,7 @@ From there we have a couple common sources:
 
 #### Processing
 
-At this point you have a mountain of data. Seriously for this investigation it is a mountain. Processing is taking all this data and putting it into useful formats for further analysis. This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing soutions (CRITs, MISP, ThreatConnect, ThreatQuotient, and dozens of home grown systems).  
+At this point you have a mountain of data. Seriously for this investigation it is a mountain. Processing is taking all this data and putting it into useful formats for further analysis. This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing solutions (CRITs, MISP, ThreatConnect, ThreatQuotient, and dozens of home grown systems).  
 
 I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (__Note: I'm saying data, not intelligence yet__) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later.
 
@@ -48,10 +48,12 @@ I end up processing my data into a lot of formats. For things like reports and a
 
 Now we have the necessary collection of data processed into a consistent manner and we're ready to go back and address those original questions.
 
-- What was this group about?
+- A general understanding of a group such as their overall goals?
     - This is what the long form reports tell us. And for a case like this we're looking for confirmation in as many places as possible. We learn this group is about attacking military related targets, trying to gather information that will support their national defense.
 - Any indicators of compromise that could help identify Comment Crew
-At this point you (if you're playing along at home) have hundreds of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in formats that can be used to support your direction. This means formatting (we'll get into that in dissemination) but also deconfliction. Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want to report 8.8.4.4 (Google DNS) is a malicious IP (like a vendor who will go unnamed did... for months... after being told multiple times... before being acquired by Cisco).
+    - At this point you have hundreds of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in formats that can be used to support your direction. This means formatting (we'll get into that in dissemination) but also deconfliction, making sure that you understand the context of the indicators you have.
+
+> __Aside on Deconfliction:__ Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want to report 8.8.4.4 (Google DNS) is a malicious IP. At the same time identifying a malware characteristic that is found in 100% of a groups malware is great, unless it's also found in 100% of all PE files (```MZ```).
 
 That's the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first requirement, likely to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards for that, such as STIXX or OpenIOC, but given at this point they're both difficult to work with and not wildly well adopted I find its easier to stick with open file types like Markdown, JSON, CSV, etc.
 
