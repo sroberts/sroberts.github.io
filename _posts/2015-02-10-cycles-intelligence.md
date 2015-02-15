@@ -3,7 +3,7 @@ layout: post
 title: Intelligence Concepts - The Intelligence Cycle
 ---
 
-I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of "Threat Intelligence" product, given in most cases they seem to be using the phrase in place of the word "smart". Intelligence vs smart couldn't be farther from the truth.
+I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of _Threat Intelligence_ product, given in most cases they seem to be using the phrase in place of the word _smart_. __Intelligence vs smart couldn't be farther from the truth.__
 
 ## [The Intelligence Cycle](https://www.cia.gov/kids-page/6-12th-grade/who-we-are-what-we-do/the-intelligence-cycle.html)
 
@@ -79,6 +79,8 @@ If this was being disseminated there are a few things to consider:
 Feedback is the simplest part of this whole cycle: __Did you answer the questions posted during direction to the stakeholders satisfaction?__ If yes does this lead to new questions that need to be asked? If no how does this lead to generating a better question or a new series of collections?
 
 This is a tough one to stomach. If you're the stakeholder you're answering to yourself, which makes it difficult to be honest in your assessment. If the stakeholder is someone else this is their chance to judge your work. Brutal honesty with yourself throughout the process is the only answer.
+
+The other key portion of feedback is how application of the new intelligence you've developed results in even more data. Say you deploy a snort rule for a network string and you get a hit, all the information you can gather around that hit is data to include during the collection phase of your next cycle. We'll talk even more about this integration in my next post.
 
 ## Takeaways from the Intelligence Cycle
 
