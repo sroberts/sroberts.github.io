@@ -9,9 +9,11 @@ Yeah... this is happening. I can't talk about important intelligence concepts fo
 
 ![Intelligence Cycle](/public/intelligence-cycle.png)
 
+That's it. Six steps described in six sentences, all pretty straight forward and clear. So how could this get so wildly misconstrued?
+
 ## In Incident Response
 
-For the last two or so years the security industry has been all about "Threat Intelligence" with almost zero idea what the word _intelligence_ actually means. In most cases companies using the word "intelligence" are trying to say something involves an intelligent (meaning smart) concept. In many cases these are innovative and beneficial, but they aren't intelligence. This is coupled with the desire to cash in on the current "threat intelligence" trend.
+For the last two or so years the security industry has been all about "Threat Intelligence" with almost zero idea what the word _intelligence_ actually means. In most cases companies using the word _intelligence_ are trying to say something involves an intelligent, meaning smart, concept. In many cases these are innovative and beneficial, but they aren't intelligence. This is coupled with the desire to cash in on the current _threat intelligence_ trend, and thus everything is _intelligence_.
 
 Vendors are selling data feeds, management platforms, reports, and tools, but none of these are really intelligence. In every case they are a piece, and in many cases important pieces, but not a whole. The whole of threat intelligence takes tools, data sources, people, and processes dedicated to taking in all those inputs and taking them through the intelligence process.
 
@@ -26,21 +28,21 @@ When I'm doing my personal research I generally have two goals:
 
 #### Collection
 
-My first thought with groups like this is always figure out what else they're called. The Comment Crew was a great example of this. Comment Crew (as they were most commonly referred to in private circles) is also was referred to as "Soy Sauce", "ShadyRat", "WebC2", "GIF89a", & eventually their actual name Unit 61398. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
+My first thought with groups like this is come up with a series of search terms or known datapoint to start our collection of of.
+
+> __Aside:__ A tricky aspects of finding search term is determining what a group is called. Comment Crew (as they were most commonly referred to in private circles) is also was referred to as _Soy Sauce_, _ShadyRat_, _WebC2_, _GIF89a_, _APT1_, _Comment Panda_, and eventually their actual name _Unit 61398_. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
 
 From there we have a couple common sources:
 
 - Google: It's amazing what you can find going through articles & blog posts. You'll want to grab as many of these as you can, though watch out; the current tech media is rife with republishing all over the place, so it's not unusual to find the exact same text on half a dozen sites.
-- Vendor Info: In the case of Comment Crew they have probably the most prolific single report in security community history. This of course merited a walk through with a fine tooth comb, but so did many follow on reports as well.
-- From this point there's a whole new series of terms, IP addresses, URLs, CVE numbers, as well as non-technical indicators such as associated actor names, the actual unit designator of the group, etc. Each of these in turn can be collected on as well using other sources.
-
-This to me is where tools like DomainTools and PassiveTotal are especially useful. Things like historic whois data & historic domain name resolutions can provide tons of useful data. Another big one, though $$$$, is VirusTotal, which also makes it possible to download relevant malware.
+- Vendor Info: In the case of Comment Crew they were the focus of the most prolific single vendor report in security community history. This of course merited a walk through with a fine tooth comb, but so did many follow on reports as well.
+- From this point there's a whole new series of terms, IP addresses, URLs, CVE numbers, as well as non-technical indicators such as associated actor names, the actual unit designator of the group, etc. Each of these in turn can be collected on as well using other sources. This to me is where tools like DomainTools, VirusTotal, and PassiveTotal are especially useful.
 
 #### Processing
 
-At this point you have a mountain of data. Seriously for this investigation it's a mountain. Processing is taking all this data and putting it into a useful format for further analysis. This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now.  
+At this point you have a mountain of data. Seriously for this investigation it is a mountain. Processing is taking all this data and putting it into useful formats for further analysis. This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing soutions (CRITs, MISP, ThreatConnect, ThreatQuotient, and dozens of home grown systems).  
 
-I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (note I'm saying data, not intelligence) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later. There are commercial options as well.
+I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (__Note: I'm saying data, not intelligence yet__) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later.
 
 #### Analysis
 
@@ -49,9 +51,9 @@ Now we have the necessary collection of data processed into a consistent manner 
 - What was this group about?
     - This is what the long form reports tell us. And for a case like this we're looking for confirmation in as many places as possible. We learn this group is about attacking military related targets, trying to gather information that will support their national defense.
 - Any indicators of compromise that could help identify Comment Crew
-    - At this point you (if you're playing along at home) have hundreds of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in formats that can be used to support your direction. To me this means things like IPs in CSV or JSON formats that I can easily push into defensive systems or generate block lists, malware as hashes and Yara rules, etc.
+At this point you (if you're playing along at home) have hundreds of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in formats that can be used to support your direction. This means formatting (we'll get into that in dissemination) but also deconfliction. Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want to report 8.8.4.4 (Google DNS) is a malicious IP (like a vendor who will go unnamed did... for months... after being told multiple times... before being acquired by Cisco).
 
-That's the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first requirement, likely to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards fro that, such as STIXX or OpenIOC, but given at this point they're both difficult to work with and not wildly well adopted I find its easier to stick with open file types like JSON, CSV, etc.
+That's the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first requirement, likely to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards for that, such as STIXX or OpenIOC, but given at this point they're both difficult to work with and not wildly well adopted I find its easier to stick with open file types like Markdown, JSON, CSV, etc.
 
 #### Dissemination
 
@@ -59,14 +61,16 @@ The next to last step is dissemination to stakeholders. In a case like this I'm 
 
 If this was being disseminated there are a few things to consider:
 
-- Different stakeholders will need a different format of product. Engineers and analysts will want indicators in easy to work with formats (like JSON & CSV). Managers and directors will want shorter briefs, mostly in prose, and probably as PDFs. Always consider your audience in how you share your data.
-- Operational Security of intelligence matters. The TLP method helps, but you have to make sure people will follow through with this. You don't want to do all this work for it to be identified by the group you're analyzing.
+- Different stakeholders will need a different format of product
+    - Engineers and analysts will want indicators in easy to work with formats (like JSON & CSV). Managers and directors will want shorter briefs, mostly in prose, and probably as PDFs. Always consider your audience in how you share your data.
+- Operational security of intelligence matters
+    - The TLP method helps, but you have to make sure people will follow through with this. You don't want to do all this work for it to be identified by the group you're analyzing.
 
 #### Feedback
 
 Feedback is the simplest part of this whole cycle: Did you answer the questions posted during direction to the stakeholders satisfaction? If yes does this lead to new questions that need to be asked? If no how does this lead to generating a better question or a new series of collections?
 
-This is a tough one to stomach. If you're the stakeholder you're answering to yourself, which makes it tough to be honest in your assessment. If the stakeholder is someone else this is their chance to judge your work. Brutal honesty with yourself throughout the process is the only answer.
+This is a tough one to stomach. If you're the stakeholder you're answering to yourself, which makes it difficult to be honest in your assessment. If the stakeholder is someone else this is their chance to judge your work. Brutal honesty with yourself throughout the process is the only answer.
 
 ## Takeaways from the Intelligence Cycle
 
