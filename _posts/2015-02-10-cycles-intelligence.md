@@ -21,12 +21,12 @@ So I track a number of different groups for my own interest, so lets walk throug
 
 #### Direction
 When I'm doing my personal research I generally have two goals:
-- A general understanding of a group such as their overal goals
+- A general understanding of a group such as their overall goals
 - Any indicators of compromise that could help me identify these groups
 
 #### Collection
 
-My first thought with groups like this is always figure out whatelse they're called. The Comment Crew was a great example of this. Comment Crew (as they were most commonly referred to in private circles) is also was referred to as "Soy Sauce", "ShadyRat", "WebC2", "GIF89a", & eventually their actual name Unit 61398. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
+My first thought with groups like this is always figure out what else they're called. The Comment Crew was a great example of this. Comment Crew (as they were most commonly referred to in private circles) is also was referred to as "Soy Sauce", "ShadyRat", "WebC2", "GIF89a", & eventually their actual name Unit 61398. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
 
 From there we have a couple common sources:
 
@@ -34,13 +34,13 @@ From there we have a couple common sources:
 - Vendor Info: In the case of Comment Crew they have probably the most prolific single report in security community history. This of course merited a walk through with a fine tooth comb, but so did many follow on reports as well.
 - From this point there's a whole new series of terms, IP addresses, URLs, CVE numbers, as well as non-technical indicators such as associated actor names, the actual unit designator of the group, etc. Each of these in turn can be collected on as well using other sources.
 
-This to me is where tools like DomainTools and PassiveTotal are especially useful. Things like historic whois data & historic domain name resolutions can provide tons of useful data. Another big one, though $$$$, is VirusTotal, which also makes it possible to download relevent malware.
+This to me is where tools like DomainTools and PassiveTotal are especially useful. Things like historic whois data & historic domain name resolutions can provide tons of useful data. Another big one, though $$$$, is VirusTotal, which also makes it possible to download relevant malware.
 
-#### Processessing
+#### Processing
 
 At this point you have a mountain of data. Seriously for this investigation it's a mountain. Processing is taking all this data and putting it into a useful format for further analysis. This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now.  
 
-I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (note I'm saying data, not intelligence) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later. There are commerical options as well.
+I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (note I'm saying data, not intelligence) into a number of places, including the CRITs intelligence management system and Maltego for future analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later. There are commercial options as well.
 
 #### Analysis
 
@@ -51,7 +51,7 @@ Now we have the necessary collection of data processed into a consistent manner 
 - Any indicators of compromise that could help identify Comment Crew
     - At this point you (if you're playing along at home) have hundreds of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in formats that can be used to support your direction. To me this means things like IPs in CSV or JSON formats that I can easily push into defensive systems or generate block lists, malware as hashes and Yara rules, etc.
 
-Thats the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first requirement, likely to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards fro that, such as STIXX or OpenIOC, but given at this point they're both difficult to work with and not wildly well adopted I find its easier to stick with open filetypes like JSON, CSV, etc.
+That's the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first requirement, likely to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards fro that, such as STIXX or OpenIOC, but given at this point they're both difficult to work with and not wildly well adopted I find its easier to stick with open file types like JSON, CSV, etc.
 
 #### Dissemination
 
@@ -70,7 +70,7 @@ This is a tough one to stomach. If you're the stakeholder you're answering to yo
 
 ## Takeaways from the Intelligence Cycle
 
-The intelligece cycle isn't something that gets used day in and day out in DFIR work, but is becoming more and more critical to always have running in the back of your head. Whether evaluating new tools or vendors its important to understand that intelligence isn't just data, it's data thats been processed in rigiours way to ensure a balanced, well contextualized product. This is to make sure you're making good decisions, not simply following whatever data is in front of you.
+The intelligence cycle isn't something that gets used day in and day out in DFIR work, but is becoming more and more critical to always have running in the back of your head. Whether evaluating new tools or vendors its important to understand that intelligence isn't just data, it's data that has been processed in rigorous way to ensure a balanced, well contextualized product. This is to make sure you're making good decisions, not simply following whatever data is in front of you.
 
 ## More Reading
 - [Wikipedia: Intelligence Cycle](http://en.wikipedia.org/wiki/Intelligence_cycle)
