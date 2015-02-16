@@ -1,6 +1,6 @@
 ---
 layout: post
-title: APT is a Who not a What and It Doesn't Matter
+title: APT is a Who not a What... And Why it doesn't Matter
 ---
 
 A small number of topics get intelligence driven incident responders incredibly frustrated:
