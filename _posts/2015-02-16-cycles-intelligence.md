@@ -61,7 +61,7 @@ __Now we have the necessary collection of data processed into a consistent manne
 - Any indicators of compromise that could help identify Comment Crew?
     - At this point you have thousands of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in useful formats. This means formatting (we'll get into that in dissemination) but also deconfliction, making sure that you understand the context of the indicators you have.
 
-> __Aside on Deconfliction:__ Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want is eto report 8.8.4.4 (Google DNS) is a malicious IP. At the same time identifying a malware characteristic found in 100% of a groups malware is great, unless it's also found in 100% of all PE files (```MZ```).
+> __Aside on Deconfliction:__ Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want to report 8.8.4.4 (Google DNS) is a malicious IP. At the same time identifying a malware characteristic found in 100% of a groups malware is great, unless it's also found in 100% of all PE files (```MZ```).
 
 That's the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first question, to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards for that, such as [STIXX](https://stix.mitre.org/) or [OpenIOC](http://www.openioc.org/), but given at this point they're both difficult to work with and not well adopted I find its easier to stick with open file types like Markdown, JSON, CSV, etc.
 
