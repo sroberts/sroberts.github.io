@@ -13,7 +13,7 @@ That's it. Six steps described in six sentences, all pretty straight forward and
 
 ## In Incident Response
 
-For the last two or so years the security industry has been all about "Threat Intelligence" with almost no idea what the word _intelligence_ actually means. Companies using the word _intelligence_ are trying to say something involves an intelligent concept. Some of these technologies are innovative and beneficial, but they aren't intelligence. The desire is to cash in on the current (and ambiguous) _threat intelligence_ trend and thus everything is _intelligence_.
+For the last two or so years the security industry has been all about Threat Intelligence with almost no idea what the word _intelligence_ actually means. Companies using the word _intelligence_ are trying to say something involves an intelligent concept. Some of these technologies are innovative and beneficial, but they aren't intelligence. The desire is to cash in on the current (and ambiguous) _threat intelligence_ trend and thus everything is _intelligence_.
 
 Both intelligence in the _Intelligence Process_ sense and the _smart_ sense are valid, but have distinctive connotations. The problem is marketing and a desire to cash in on the threat intelligence trend has resulted in vendors manipulating potential customers by confusing these meanings.
 
