@@ -41,7 +41,7 @@ This rant, and even I can call it a rant, isn't out of nowhere. Today Kaspersky 
 
 __APT has moved away from its original definition, from a term of art to a term of marketing. It's not descriptive, except to say that the solution has to include hundreds of thousands of dollars in professional services, endpoint monitoring, intelligence portals, and feeds with millions of indicators.__ Words change, and there is no doubt at this point that APT _means_ what marketing says it does, but I think security practitioners can help.
 
-We need a better set of taxonomy, an honest taxonomy, for referring to these attackers I'll kick things off with:
+We need a better set of taxonomy, an honest taxonomy, for referring to these attackers. I'll kick things off with:
 
 - State Sponsored Espionage (What we now call APT)
 - Financially Motivated Criminals
