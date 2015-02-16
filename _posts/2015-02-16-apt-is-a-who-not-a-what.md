@@ -13,15 +13,15 @@ Advanced Persistent Threat remains the buzzword of choice for vendors, but its u
 
 ## APT is a Who
 
-My second job was working for [Mandiant](https://www.mandiant.com/) as a Security Consultant. This was a great job where I learned a ton and that was because I worked with such a skilled team. The team that started Mandiant primarily came from the [United States Air Force Office of Special Investigations](http://www.osi.af.mil/) a team that handled, among other things, some of the earliest computer intrusions such as [Solar Sunrise](http://en.wikipedia.org/wiki/Ehud_Tenenbaum), [Moonlight Maze](http://en.wikipedia.org/wiki/Moonlight_Maze), and [Titan Rain](http://en.wikipedia.org/wiki/Titan_Rain).
+My second job after college was working for [Mandiant](https://www.mandiant.com/) as a Security Consultant. This was a great job where I learned a ton and that was because I worked with such a skilled team. The team that started Mandiant primarily came from the [United States Air Force Office of Special Investigations](http://www.osi.af.mil/); a team that handled, among other things, some of the earliest computer intrusions such as [Solar Sunrise](http://en.wikipedia.org/wiki/Ehud_Tenenbaum), [Moonlight Maze](http://en.wikipedia.org/wiki/Moonlight_Maze), and [Titan Rain](http://en.wikipedia.org/wiki/Titan_Rain).
 
 This was a weird time, because like today attacks weren't just aimed at military targets but commercial targets as well. AFOSI, as well as other government intelligence & defense groups, were investigating using open source and classified methods. For operational security this leads to classified intelligence.
 
-This classified intelligence was a problem. While companies in the Defense Industrial Base may have people with clearances who can handle classified data other types of companies, without cleared people who could handle that intelligence, were under attack as well. These DoD/IC teams wanted to help, but couldn't disclose classified information.  They came up with a compromise: __Sharing indicators of compromise without disclosing the actual actor behind it. Instead they just referred to the actor using a pseudonym: The Advanced Persistent Threat.__ Specifically APT is a couple groups of actors primarily operating out of mainland China and believed to be members of the People's Liberation Army. We now know these groups as _APT1_, _Anchor Panda_, and _Elderwood_ as well as other private designations.
+This classified intelligence was a problem. While companies in the Defense Industrial Base may have people with clearances who can handle classified data other types of companies, without cleared people who could handle that intelligence, were under attack as well. These DoD/IC teams wanted to help, but couldn't disclose classified information.  They came up with a compromise: __Sharing indicators and information without disclosing the actual actor behind it. Instead they just referred to the actor using a pseudonym: The Advanced Persistent Threat.__ Specifically APT was a couple groups of actors primarily operating out of mainland China and believed to be members of the People's Liberation Army. We now know these groups today as _APT1_, _Anchor Panda_, and _Elderwood_ as well as other private designations.
 
 __That it: APT is a term to refer to Chinese espionage without saying Chinese espionage. Full stop.__
 
-## APT is not a What
+## APT is _not_ a What
 
 Compromised companies often make a statement after their incident that the attacker is an _advanced persistent threat_. This leads to the same tired sarcastic observations by security pundits:
 
@@ -45,7 +45,7 @@ We need a better set of taxonomy, an honest taxonomy, for referring to these att
 - Criminal Activist (So called Hactivists)
 
 The security community has difficult problems on it's hands. Seemingly the harder we work to stop threats the more come up. We're already dramatically under staffed as an industry ([<i class="fa fa-file-pdf-o"></i> Leviathan Security Group: Analysis of Cloud vs. Local Storage:
-Capabilities, Opportunities, Challenges](http://www.leviathansecurity.com/wp-content/uploads/Value-of-Cloud-Security-Scarcity.pdf)). The last thing we need, the last thing we can afford, is to make our own lives more difficult by abusing overloaded terms to generate [fear, uncertainty, and doubt](http://www.faronics.com/assets/NextGenerationMalware.jpg).
+Capabilities, Opportunities, Challenges](http://www.leviathansecurity.com/wp-content/uploads/Value-of-Cloud-Security-Scarcity.pdf)). The last thing we need, the last thing we can afford, is to make our own lives more difficult by abusing overloaded terms to generate [fear, uncertainty, and doubt]().
 
 ## A Little Extra
 I've been working on and off on a tool I think could be useful in situations like this. While it's not  ready for prime time yet here is a little preview:
