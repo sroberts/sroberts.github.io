@@ -33,7 +33,7 @@ APT is not a description of an actor based on the sophistication of their techni
 
 ## So what now?
 
-This rant, and even I can call my own rant a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A finically motivated attacker operating all over the world.](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/) I have no doubt that this will be a great paper worth reading. I have no doubt the group they describe is using some interesting techniques. But I am 100% certain this is a misuse of the term APT.
+This rant, and even I can call my own rant a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A finically motivated attacker operating all over the world](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)(Report: [<i class="fa fa-file-pdf-o"></i> Carbanak_APT_eng.pdf](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2015/02/Carbanak_APT_eng.pdf)). I have no doubt that this will be a great paper worth reading. I have no doubt the group they describe is using some interesting techniques. But I am 100% certain this is a misuse of the term APT.
 
 __APT has moved away from its original definition, from a term of art to a term of marketing. It's not descriptive, except to say that the solution has to include hundreds of thousands of dollars in professional services, endpoint monitoring, intelligence portals, and feeds with millions of indicators.__
 
@@ -44,7 +44,7 @@ We need a better set of taxonomy, an honest taxonomy, for referring to these att
 - Nationalist Activist
 - Criminal Activist (So called Hactivists)
 
-The security community has difficult problems on it's hands. Seemingly the harder we work to stop threats the more come up. We're already dramatically under staffed as an industry ([Leviathan Security Group: Analysis of Cloud vs. Local Storage:
+The security community has difficult problems on it's hands. Seemingly the harder we work to stop threats the more come up. We're already dramatically under staffed as an industry ([<i class="fa fa-file-pdf-o"></i> Leviathan Security Group: Analysis of Cloud vs. Local Storage:
 Capabilities, Opportunities, Challenges](http://www.leviathansecurity.com/wp-content/uploads/Value-of-Cloud-Security-Scarcity.pdf)). The last thing we need, the last thing we can afford, is to make our own lives more difficult by abusing overloaded terms to generate fear, uncertainty, and doubt.
 
 ## A Little Extra
