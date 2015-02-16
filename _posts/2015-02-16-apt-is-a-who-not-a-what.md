@@ -17,13 +17,17 @@ My second job after college was working for [Mandiant](https://www.mandiant.com/
 
 This was a weird time, because like today attacks weren't just aimed at military targets but commercial targets as well. AFOSI, as well as other government intelligence & defense groups, were investigating using open source and classified methods. For operational security this leads to classified intelligence.
 
-This classified intelligence was a problem. While companies in the Defense Industrial Base may have people with clearances who can handle classified data other types of companies, without cleared people who could handle that intelligence, were under attack as well. These DoD/IC teams wanted to help, but couldn't disclose classified information.  They came up with a compromise: __Sharing indicators and information without disclosing the actual actor behind it. Instead they just referred to the actor using a pseudonym: The Advanced Persistent Threat.__ Specifically APT was a couple groups of actors primarily operating out of mainland China and believed to be members of the People's Liberation Army. We now know these groups today as _APT1_, _Anchor Panda_, and _Elderwood_ as well as other private designations.
+This classified intelligence was a problem. While companies in the Defense Industrial Base may have people with clearances who can handle classified data other types of companies, without cleared people who could handle that intelligence, were under attack as well. These DoD/IC teams wanted to help, but couldn't disclose classified information.  They came up with a compromise: __Sharing indicators and information without disclosing the actual actor behind it. Instead they just referred to the actor using a pseudonym: The Advanced Persistent Threat.__ Specifically APT, supposedly coined by Colonel Greg Rattray, was a couple groups of actors primarily operating out of mainland China and believed to be members of the People's Liberation Army. We now know these groups today as _APT1_, _Anchor Panda_, and _Elderwood_ as well as other private designations.
 
 __That it: APT is a term to refer to Chinese espionage without saying Chinese espionage. Full stop.__
 
 ## APT is _not_ a What
 
-Compromised companies often make a statement after their incident that the attacker is an _advanced persistent threat_. This leads to the same tired sarcastic observations by security pundits:
+Compromised companies often make a statement after their incident that the attacker is an _advanced persistent threat_. This leads to the same tired observations by security pundits:
+
+> As our research team reveals in our Hacker Intelligence Initiative Report, some APTs are relatively simple to execute. ~ [Amichai Shulman](http://www.scmagazineuk.com/apts-not-as-advanced-as-you-might-think/article/345953/)
+
+or...
 
 > Advanced wasn't right because the initial gambit was almost always a low-tech spear phishing attack. Persistent wasn't really accurate because it wasn't the attackers who made things persistent; it was the inability of organizations to read their own logs for anomalies that allowed the breaches to continue over long timeframes. ~ [Robert Richardson](http://searchsecurity.techtarget.com/opinion/Advanced-persistent-threats-Has-the-industry-moved-on)
 
@@ -33,14 +37,14 @@ APT is not a description of an actor based on the sophistication of their techni
 
 ## So what now?
 
-This rant, and even I can call it a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A finically motivated attacker operating all over the world](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)(Report: [<i class="fa fa-file-pdf-o"></i> Carbanak_APT_eng.pdf](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2015/02/Carbanak_APT_eng.pdf)). I have no doubt that this is a great paper worth reading. I have no doubt the group they describe is using some interesting, even advanced, techniques. Perhaps they even stay in an environment for a long period of time, persisting if you will. But I am 100% certain this is a misuse of the term APT.
+This rant, and even I can call it a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A financially motivated attacker operating all over the world](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)(Report: [<i class="fa fa-file-pdf-o"></i> Carbanak_APT_eng.pdf](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2015/02/Carbanak_APT_eng.pdf)). I have no doubt that this is a great paper worth reading. I have no doubt the group they describe is using some interesting, even advanced, techniques. Perhaps they even stay in an environment for a long period of time, persisting if you will. But I am 100% certain this is a misuse of the term APT.
 
 __APT has moved away from its original definition, from a term of art to a term of marketing. It's not descriptive, except to say that the solution has to include hundreds of thousands of dollars in professional services, endpoint monitoring, intelligence portals, and feeds with millions of indicators.__
 
 We need a better set of taxonomy, an honest taxonomy, for referring to these attackers. I'll kick things off with:
 
 - State Sponsored Espionage (What we now call APT)
-- Finically Motivated Criminals
+- Financially Motivated Criminals
 - Nationalist Activist
 - Criminal Activist (So called Hactivists)
 
