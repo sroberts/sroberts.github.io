@@ -38,7 +38,7 @@ From there we have a couple of common sources:
 - Google
     - It's amazing what you can find going through articles & blog posts. You'll want to store all of it. Watch out, though, as the current tech media is rife with republishing all over the place.
 - Vendor Information
-    - In the case of Comment Crew, they were the focus of the most [<i class="fa fa-file-pdf-o"></i> prolific single vendor report in security community history](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf). This of course merits a walk through with a fine-tooth comb, and so do the follow on reports.
+    - Comment Crew was the focus of the most [<i class="fa fa-file-pdf-o"></i> prolific single vendor report in security community history](http://intelreport.mandiant.com/Mandiant_APT1_Report.pdf). This of course merits a walk through with a fine-tooth comb, and so do the follow on reports.
 - Re-Analyzing Information
     - From this point there's a whole [<i class="fa fa-file-archive-o"></i>new series indicators of compromise](http://intelreport.mandiant.com/Mandiant_APT1_Report_Appendix.zip), as well as non-technical indicators such as associated actor names, the actual unit designator of the group, etc. Each of these in turn becomes the basis of another collection using other sources. Tools like [DomainTools](http://www.domaintools.com/), [VirusTotal](https://www.virustotal.com/), and [PassiveTotal](https://www.passivetotal.org/) become handy for this process.
 
@@ -76,7 +76,7 @@ If I was disseminating this data, I'd consider a few things:
 
 #### Feedback
 
-Feedback is the simplest part of this whole cycle: __Did you answer the questions posted during direction to the stakeholders satisfaction?__ If yes, does this lead to new questions/direction? If no, how does this lead to generating a better question or a new series of collections?
+The feedback step is the simplest part of this whole cycle: __Did you answer the questions posted during direction to the stakeholders' satisfaction?__ If yes, does this lead to new questions/direction? If no, how does this lead to generating a better question or a new series of collections?
 
 This is a tough one to stomach. If you're the stakeholder, you answer to yourself, which makes it difficult to be honest in your assessment. If the stakeholder is someone else this is their chance to judge your work. Brutal honesty with yourself throughout the process is the answer.
 
