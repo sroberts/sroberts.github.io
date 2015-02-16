@@ -1,6 +1,6 @@
 ---
 layout: post
-title: APT Is a Who, Not a What
+title: APT is a Who not a What and It Doesn't Matter
 ---
 
 A small number of topics get intelligence driven incident responders incredibly frustrated:
@@ -13,7 +13,7 @@ Advanced Persistent Threat remains the buzzword of choice for vendors, but its u
 
 ## APT is a Who
 
-My second job after college was working for [Mandiant](https://www.mandiant.com/) as a Security Consultant. This was a great job where I learned a ton and that was because I worked with such a skilled team. The team that started Mandiant primarily came from the [United States Air Force Office of Special Investigations](http://www.osi.af.mil/); a team that handled, among other things, some of the first nation state level computer intrusions such as [Solar Sunrise](http://en.wikipedia.org/wiki/Ehud_Tenenbaum), [Moonlight Maze](http://en.wikipedia.org/wiki/Moonlight_Maze), and [Titan Rain](http://en.wikipedia.org/wiki/Titan_Rain).
+My second job after college was working for [Mandiant](https://www.mandiant.com/) as a Security Consultant. This was a great job where I learned a ton and that was because I worked with such a skilled team. The team that started Mandiant primarily came from the [United States Air Force Office of Special Investigations](http://www.osi.af.mil/); a team that handled, among other things, some of the first nation state level computer intrusions of the Internet era such as [Solar Sunrise](http://en.wikipedia.org/wiki/Ehud_Tenenbaum), [Moonlight Maze](http://en.wikipedia.org/wiki/Moonlight_Maze), and [Titan Rain](http://en.wikipedia.org/wiki/Titan_Rain).
 
 This was a weird time, because like today attacks weren't just aimed at military targets but commercial targets as well. AFOSI, as well as other government intelligence & defense groups, were investigating using open source and classified methods. For operational security this leads to classified intelligence.
 
@@ -35,7 +35,7 @@ Robert is correct in this case. APTs aren't advanced or persistent, at least not
 
 APT is not a description of an actor based on the sophistication of their techniques, as people often note there's often little that's advanced. They aren't universally persistent; while some groups will linger for months or years, others use _smash and grab_ tactics. __The fact is the same: APT is a codename for a who, that who being Chinese espionage, not a description of an attacker based on methods or techniques.__
 
-## So what now?
+## So why doesn't it matter?
 
 This rant, and even I can call it a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A financially motivated attacker operating all over the world](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/)(Report: [<i class="fa fa-file-pdf-o"></i> Carbanak_APT_eng.pdf](http://25zbkz3k00wn2tp5092n6di7b5k.wpengine.netdna-cdn.com/files/2015/02/Carbanak_APT_eng.pdf)). I have no doubt that this is a great paper worth reading. I have no doubt the group they describe is using some interesting, even advanced, techniques. Perhaps they even stay in an environment for a long period of time, persisting if you will. But I am 100% certain this is a misuse of the term APT.
 
@@ -48,7 +48,7 @@ We need a better set of taxonomy, an honest taxonomy, for referring to these att
 - Nationalist Activist
 - Criminal Activist (So called Hactivists)
 
-Beyond just having a better taxonomy we need to work alongside marketing departments to use accurate, descriptive terms instead of overloaded buzzwords. It may be an uphill fight, but a worth while one.
+Beyond just having a better taxonomy we need to work alongside marketing departments to use accurate, descriptive terms instead of overloaded buzzwords. It may be an uphill fight, but a worthwhile one. I welcome the chance to collaborate with others who care about this.
 
 The security community has difficult problems on it's hands. Seemingly the harder we work to stop threats the more come up. We're already dramatically under staffed as an industry ([<i class="fa fa-file-pdf-o"></i> Leviathan Security Group: Analysis of Cloud vs. Local Storage:
 Capabilities, Opportunities, Challenges](http://www.leviathansecurity.com/wp-content/uploads/Value-of-Cloud-Security-Scarcity.pdf)). The last thing we need, the last thing we can afford, is to make our own lives more difficult by abusing overloaded terms to generate fear, uncertainty, and doubt.
