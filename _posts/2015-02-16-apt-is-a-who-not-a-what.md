@@ -9,7 +9,7 @@ A small number of topics that get intelligence driven incident responders frustr
 - Bad attribution based on incomplete information and bad assumptions
 - Misuse of the term APT (in most cases by marketing departments)
 
-Advanced Persisten Threat remains the buzzword of choice for vendors, but its used incorrectly, and lots of people know that and don't say anything. So I want to correct the key misnomer:
+Advanced Persistent Threat remains the buzzword of choice for vendors, but its used incorrectly, and lots of people know that and don't say anything. So I want to correct the key misnomer:
 
 ## APT is a Who
 
@@ -33,14 +33,14 @@ APT is not a description of an actor based on the sophistication of their techni
 
 ## So what now?
 
-This rant, and even I can call my own rant a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A finaically motivated attacker operating all over the world.](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/) I have no doubt that this will be a great paper worth reading. I have no doubt the group they describe is using some interesting techniques. But I am 100% certain this is a misuse of the term APT.
+This rant, and even I can call my own rant a rant, isn't out of nowhere. Today Kaspersky released a report about the [_Carbanak APT_: A finically motivated attacker operating all over the world.](http://securelist.com/blog/research/68732/the-great-bank-robbery-the-carbanak-apt/) I have no doubt that this will be a great paper worth reading. I have no doubt the group they describe is using some interesting techniques. But I am 100% certain this is a misuse of the term APT.
 
-__APT has moved away from its original defintion, from a term of art to a term of marketing. It's not descriptive, except to say that the solution has to include hundereds of thousands of dollars in professional services, endpoint monitoring, intelligence portals, and feeds with millions of indicators.__
+__APT has moved away from its original definition, from a term of art to a term of marketing. It's not descriptive, except to say that the solution has to include hundreds of thousands of dollars in professional services, endpoint monitoring, intelligence portals, and feeds with millions of indicators.__
 
 We need a better set of taxonomy, an honest taxonomy, for referring to these attackers. I'll kick things off with:
 
 - State Sponsored Espionage (What we now call APT)
-- Finaically Motivated Criminals
+- Finically Motivated Criminals
 - Nationalist Activist
 - Criminal Activist (So called Hactivists)
 
