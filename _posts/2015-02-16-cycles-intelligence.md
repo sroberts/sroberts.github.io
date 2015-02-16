@@ -15,6 +15,8 @@ That's it. Six steps described in six sentences, all pretty straight forward and
 
 For the last two or so years the security industry has been all about "Threat Intelligence" with almost no idea what the word _intelligence_ actually means. Companies using the word _intelligence_ are trying to say something involves an intelligent concept. Some of these technologies are innovative and beneficial, but they aren't intelligence. The desire is to cash in on the current (and ambiguous) _threat intelligence_ trend and thus everything is _intelligence_.
 
+Both intelligence in the _Inteligence Process_ sense and the _smart_ sense are valid, but have distinctive connotations. The problem is marketing and a desire to cash in on the threat intelligence trend has resulted in vendors manipulating potential customers by confusing these meanings.
+
 Vendors are selling data feeds, management platforms, actor reports, vulnerability centric reports, and tools, but none of these are intelligence. In every case they are a piece, often important pieces, but not a whole. The whole of threat intelligence takes tools, data sources, people, and processes dedicated to collecting in all those inputs and contextualizing them by working through the intelligence process.
 
 ### A Walk Through the Intelligence Cycle
@@ -31,7 +33,7 @@ __First we have to set the parameters of what questions we're trying to answer._
 
 __Collection is the process of gathering as much information as you can that can help answer the questions posed in direction.__ My first thought with groups like is to create a series of search terms or known data point to start our collection of of.
 
-> __Aside:__ The most difficult data point to gather at the start of an investigation is all the potential reference terms for a specific group. Comment Crew is also called _Soy Sauce_, _ShadyRat_, _WebC2_, _GIF89a_, _APT1_, _Comment Panda_, and their Military Unit Cover Designator _Unit 61398_. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
+> __Aside:__ The most difficult data point to gather at the start of an investigation is all the potential reference terms for a specific group. Comment Crew is also called _Soy Sauce_, _ShadyRat_, _WebC2_, _GIF89a_, _APT1_, _Comment Panda_, and their Military Unit Cover Designator _Unit 61398_, all depending on who you ask. At this point each vendor has their own name, and each "fight club" often has their own designator as well. I'm stunned how often I've missed information about an actor just because I was too focused on the wrong name.
 
 From there we have a couple common sources:
 
@@ -59,7 +61,7 @@ __Now we have the necessary collection of data processed into a consistent manne
 - Any indicators of compromise that could help identify Comment Crew?
     - At this point you have thousands of indicators, IPs, hashes, malware, domain names, etc. The key for analyzing these isn't just having them, but having them in useful formats. This means formatting (we'll get into that in dissemination) but also deconfliction, making sure that you understand the context of the indicators you have.
 
-> __Aside on Deconfliction:__ Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want to report 8.8.4.4 (Google DNS) is a malicious IP. At the same time identifying a malware characteristic found in 100% of a groups malware is great, unless it's also found in 100% of all PE files (```MZ```).
+> __Aside on Deconfliction:__ Plenty of pieces of malware beacon to well known sites/IPs to make sure they're connected to the Internet. You don't want is eto report 8.8.4.4 (Google DNS) is a malicious IP. At the same time identifying a malware characteristic found in 100% of a groups malware is great, unless it's also found in 100% of all PE files (```MZ```).
 
 That's the basic analysis process. My products for something like this generally include a couple paragraphs to answer the first question, to be continually updated, and a group of files detailing the second set of indicators. I could use on one of the major standards for that, such as [STIXX](https://stix.mitre.org/) or [OpenIOC](http://www.openioc.org/), but given at this point they're both difficult to work with and not well adopted I find its easier to stick with open file types like Markdown, JSON, CSV, etc.
 
