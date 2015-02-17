@@ -9,7 +9,7 @@ A small number of topics get intelligence driven incident responders incredibly 
 - Bad attribution based on incomplete information and bad assumptions
 - Misuse of the term APT (in most cases by marketing departments)
 
-Advanced Persistent Threat remains the buzzword of choice for vendors, but its used incorrectly, and lots of people know that and don't say anything. As a result I want to go on the record and correct a couple key misnomers.
+Advanced Persistent Threat remains the buzzword of choice for vendors, but it's used incorrectly, and lots of people know that and don't say anything. As a result I want to go on the record and correct a couple key misnomers.
 
 ## APT is a Who
 
