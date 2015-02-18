@@ -17,7 +17,7 @@ Here's whats behind my blog:
 ### Blog Package: [Jekyll](http://jekyllrb.com)
 The amazing open source blogging platform lives up to it's reputation for clean, easy to use blogging. I already write [Markdown](https://help.github.com/articles/github-flavored-markdown) all day, so it's an easy to way to write blog content as well.
 
-### Blog Theme: [Hyde](http://andhyde.com)
+### Blog Theme: Hyde
 Gotta love a literary turn of phrase, Hyde gave me a great look without forcing me into lengthy HTML/CSS customization. I trust the professionals.
 
 ### Hosting: [GitHub Pages](http://pages.github.com)
@@ -30,7 +30,7 @@ I've been trying to force myself to use Vim for most things, this is no exceptio
 [I've already mentioned how great Aspell is](http://sroberts.github.io/2014/01/20/commandline-spell-checking-with-aspell/), but it's really a life saver for words I put in front of real people.
 
 ### Image Editor: [Pixelmator](http://www.pixelmator.com)
-On the rare cases I post images and need them edited Pixelmator is the best combo of features & ease of use. 
+On the rare cases I post images and need them edited Pixelmator is the best combo of features & ease of use.
 
 ### Bonus: [hub](http://hub.github.com)
 It's great being able to do things like open a pull request without leaving the command line. I also use ``hub browse`` to jump to the right place on the web more than I care to admit.
@@ -39,7 +39,7 @@ It's great being able to do things like open a pull request without leaving the 
 This gem keeps everything inline, making sure you always stay up to date on Jekyll version, Pages compatibility, etc.
 
 ### Bonus: GitHub Issues
-I also use the repository Issues to keep track of posts I'd like to write, notes, etc. 
+I also use the repository Issues to keep track of posts I'd like to write, notes, etc.
 
 ## Going Forward
 I welcome feedback and suggestions via the open [issues](https://github.com/sroberts/sroberts.github.io/issues/). While I want to avoid discussions of content in there please feel free to comment on what I'm planning to write and changes I plan to make. Feel free to rip off content, just give credit where credit is due. And thanks to all those who built the tools, I couldn't do it without you.

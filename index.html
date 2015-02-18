@@ -20,8 +20,7 @@ title: Home
       {{ words | plus: 250 | divided_by: 180 | append: " min to read" }}
     {% else %}
       < 1 min to read
-    {% endunless %} |
-    {% include edit.html %}
+    {% endunless %}
     </span>
 
     {{ post.content }}

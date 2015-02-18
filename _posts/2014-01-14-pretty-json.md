@@ -5,7 +5,7 @@ title: Pretty JSON is Pretty (Useful)
 
 So as initially suggested I haven't been good about blogging yet. I've been quite busy with work. But I did want to pass along one small tip I've picked up.
 
-A lot of the work I've been doing has been a combination of Ruby/Python and [command line](https://github.com/eyenx/omzsh) data parsing. In much of this shell I'm working through [JSON documents](http://www.json.org) on the command line, often using commands like:
+A lot of the work I've been doing has been a combination of Ruby/Python and [command line](https://github.com/eyenx/omzsh) data parsing. In much of this shell I'm working through JSON documents on the command line, often using commands like:
 
 > cat foo.txt \| grep \"foo\" \| sort \| uniq
 
