@@ -39,10 +39,7 @@ validation-report.json
 
 # Folders to ignore
 node_modules
-<<<<<<< HEAD
 
 # Block Vendor Folders
-=======
->>>>>>> origin/master
 vendor/*
 .bundle/*
