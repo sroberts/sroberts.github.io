@@ -82,7 +82,7 @@ Not clothing related but certainly relevant to packing for technical folks. For 
     - Every trip I debate taking my work 15" MacBook Pro or my personal 11" MacBook Air. This needs to stop being a debate: the MBA is the ideal traveling machine. I usually get lots of things done on trips, especially writing, catching up on emails, etc; things that the MBA does just as well as the MBP.
 - Stop carrying my iPad
     - I tend to bring my iPad on trips, mostly so I have something light to carry when dragging my 15" MacBook Pro seems like too much. But with the MacBook Air I have a real computer small enough to carry around all the time.
-- Get a [GoRuck GR1](http://www.goruck.com/en/gr1) (or maybe [GR2](http://www.goruck.com/en/gr2))
+- Get a [GoRuck GR1](http://www.goruck.com/gr1-black-/p/GEAR-000066) (or maybe [GR2](http://www.goruck.com/gr2-black-/p/GEAR-000068))
     - I've thought for awhile that moving to a more travel friendly bag. The Surge has been great, but it's divided up a bit more for a typical school day than travelling. The GoRuck is bigger, divided less awkwardly, and a bit more understated (even if it is a bit more [tacticool](http://www.urbandictionary.com/define.php?term=Tacticool) than I'd go for). The price is a lot to get over, so I still haven't pulled the trigger, but it seems like for a longer trip it would make a huge difference.
 - Get a [PlugBug](http://www.twelvesouth.com/product/plugbug)
     - Charging is one of the biggest annoyances, especially when travelling abroad. Especially if you avoid using random untrusted USB ports (which you should). The 12South PlugBug makes it easier to charge multiple devices off one outlet, especially if you only have one adapter.
