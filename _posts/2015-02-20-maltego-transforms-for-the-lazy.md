@@ -44,7 +44,7 @@ Maltego translates into new XML data into new entites on the graph. Thats a tran
 
 Every so often things go wrong and it's important to be able to let the user know. MTP supports transform exceptions, _addException_ & _returnOutput_, which work just like _addEntity_ & _returnOutput_.
 
-## [FreeGeoIP Geolocation](freegeoip.net) Transform
+## [FreeGeoIP Geolocation](http://freegeoip.net) Transform
 
 All these pieces are great, but a full example helps. This transform takes an IPv4Address entity, requests the geolocation data from [FreeGeoIp.net](http://freegeoip.net), and returns a Location entity.
 
