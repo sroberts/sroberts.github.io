@@ -5,6 +5,9 @@ title: Maltego Transforms for the Lazy
 
 ![Maltego](/public/maltego.png)
 
+
+> <i class="fa fa-comments-o fa-3x pull-left"></i> While I certainly didn't plan to release this post the same day Paterva released their latest update, [Maltego Chlorine](http://maltego.blogspot.com/2015/03/maltego-chlorine-is-ready-for-download.html), it's a happy coincindence. It's a gread day to go download fresh Maltego hotness and start writing some transforms!
+
 [Maltego](https://www.paterva.com/web6/products/maltego.php) is one of the most unique tools in the information security space. While there are dozens of vulnerability scanners and piles of reversing tools there's nothing else like Maltego (short of spending [$$$](http://www.reactiongifs.com/r/make-it-rain-dollars.gif) on [Palantir](https://www.palantir.com/)). If you're not familiar check out [this _HakTip_ by Revision3 on Maltego 101](http://revision3.com/haktip/maltego-101-what-is-maltego/). Don't worry, I'll wait.
 
 I've used Maltego for years to do infrastructure research and visualizing logs, but I wanted it to do more. I needed to start writing transforms. But where to get started? Transforms typically start two places: the Canari Framework or the MaltegoTransform-Python library. I started with the latter.
@@ -83,7 +86,12 @@ There's a lot going on to create packages of complex transforms and that makes i
 
 ### [TDS & Remote Transforms](http://www.paterva.com/web6/products/servers.php)
 
-I have no idea? I don't have a TDS aside from the public one. If I was working with a bigger team, all using Maltego, I'd invest in one but for now my experience is too limited to speak to them. They make it easy for everyone to work off a unified set of transforms & packages, ease the need to manually setup lots of Maltego instances, and centralize credentials and API keys. Paterva provided [a great site to help developers make the most of remote transforms](http://www.paterva.com/web6/documentation/developer-tds.php).
+I have no idea? I don't have a TDS aside from the public one. If I was working with a bigger team, all using Maltego, I'd invest in one but for now my experience is too limited to speak to them. They make it easy for everyone to work off a unified set of transforms & packages, ease the need to manually setup lots of Maltego instances, and centralize credentials and API keys. Paterva provided [a great site to help developers make the most of remote transforms](http://www.paterva.com/web6/documentation/developer-tds.php). I can say I do use the public TDS hosted transforms for [PassiveTotal](http://www.passivetotal.com/) and they were easy to setup, wickedly fast, and highly useful.
+
+### Transform Hub
+
+## Conclusion
+Is this the absolute best way to build transforms? Probably not, but I did name this _Maltego Transforms for the Lazy_. This is a great way to prototype new transforms and go from 0 to walking as efficently as possible. I've just started writing transforms and I'm already having success pulling data into Maltego I'd have never imagined. So go for it, and share what you build, there's a lot to build on.
 
 ## Useful Links
 
