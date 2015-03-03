@@ -5,32 +5,36 @@ title: Maltego Transforms for the Lazy
 
 ![Maltego](/public/maltego.png)
 
-Maltego is one of the most unique tools in the information security space. While there are dozens of vulnerability scanners and piles of reversing tools there's nothing else like Maltego (short of spending [$$$](http://www.reactiongifs.com/r/make-it-rain-dollars.gif) on Palantir). If you're not familiar check out [this _HakTip_ by Revision3 on Maltego 101](http://revision3.com/haktip/maltego-101-what-is-maltego/). Don't worry, I'll wait.
+[Maltego](https://www.paterva.com/web6/products/maltego.php) is one of the most unique tools in the information security space. While there are dozens of vulnerability scanners and piles of reversing tools there's nothing else like Maltego (short of spending [$$$](http://www.reactiongifs.com/r/make-it-rain-dollars.gif) on [Palantir](https://www.palantir.com/)). If you're not familiar check out [this _HakTip_ by Revision3 on Maltego 101](http://revision3.com/haktip/maltego-101-what-is-maltego/). Don't worry, I'll wait.
 
- I've used Maltego for years to do infrastructure research and visualizing logs, but I wanted it to do more. I needed to start writing transforms. But where to get started? Transforms typically start two places: the [Canari Framework](http://www.canariproject.com/) or the [MaltegoTransform-Python library](https://github.com/sroberts/maltegotransform-python). We'll start with the latter.
+I've used Maltego for years to do infrastructure research and visualizing logs, but I wanted it to do more. I needed to start writing transforms. But where to get started? Transforms typically start two places: the [Canari Framework](http://www.canariproject.com/) or the [MaltegoTransform-Python library](https://github.com/sroberts/maltegotransform-python). We'll start with the latter.
 
 ## Transform Pieces
 
-The MaltegoTransform-Python Library (from here out called MTP) is a quick way to prototype Maltego transforms in Python. The trade-off is setup within Maltego is manual and redistribution is basically nil. MTP doesn't address new entity types either. Still in my mind the best place to get started and makes writing usable transforms in a 10 lines of Python a snap.
+The MaltegoTransform-Python Library (from here out called MTP) is a quick way to prototype Maltego transforms in [Python](https://www.python.org/). The trade-off is setup within Maltego is manual and redistribution is basically nil. MTP doesn't address new entity types either. Still in my mind the best place to get started and makes writing usable transforms in a 10 lines of Python a snap.
 
-Each transform is a single Python script (either with a Main method or just a straight procedural script). A basic transform reads in an entity as a command line argument, creates a transform object, adds entities to the transform, and returns the transform object. That's it.
+Each transform is a single Python script (either with a Main method or just a straight procedural script). A basic transform reads in an entity as a command line argument, creates a transform object, adds entities to the transform object, and returns the transform object as [XML](http://www.xml.com/). That's it.
 
 ### MaltegoTransform-Python Imports
+
 <script src="https://gist.github.com/sroberts/628db01006cbaaff48ac.js"></script>
 
 In typical [Python magic a quick _import/from_](http://xkcd.com/353/) is all it takes to load the library from your Python path (I leave it in the same directory m ost of the time). Most of the time the __MaltegoTransform__ object is all you need (it automatically invokes the _MaltegoEntity_ class), but the __MaltegoEntity__ can be useful in advanced cases.
 
 ### Setup Transform
+
 <script src="https://gist.github.com/sroberts/055cebd200d047632c5f.js"></script>
 
 For a basic transform the _MaltegoTransform_ object is where the magic happens. It represents the collection of entities (nodes for the graph theory types) that the transform creates.
 
 ### Add Entities
+
 <script src="https://gist.github.com/sroberts/ce019b5f3e188ee1fd46.js"></script>
 
 The whole idea of building a transform is taking the source entity, the entity you run the transform on, and _transforming_ it into some other connected entity. For example transforming an IPv4Address (using a reverse DNS look-up) to a Domain entity. This can be a _1 to 1_ or _1 to Many_ action.
 
 ### Transform Output
+
 <script src="https://gist.github.com/sroberts/8ebedec40e75080f8741.js"></script>
 
 At that point you return the MaltegoTransform and that's it. The _returnOutput_ method outputs the transform information as XML.
@@ -40,6 +44,7 @@ At that point you return the MaltegoTransform and that's it. The _returnOutput_ 
 Maltego translates into new XML data into new entities on the graph. That's a transform.
 
 ### Exceptions
+
 <script src="https://gist.github.com/sroberts/3112cd5385ad0cc4676a.js"></script>
 
 Every so often things go wrong and it's important to be able to let the user know. MTP supports transform exceptions, _addException_ & _returnOutput_, which work just like _addEntity_ & _returnOutput_.
@@ -62,7 +67,7 @@ __A couple notes:__
 
 ## Paterva's Developer Resources
 
-On February 3rd Paterva stood up a [Developers Portal](http://dev.paterva.com/developer/) with resources to help people get started. This jump-started my development and should be anyone's first stop (after this post of course) for basic as well as advanced topics. I hope the Paterva team keeps expanding this site.
+On February 3rd Paterva stood up a [Developers Portal](http://dev.paterva.com/developer/) with resources to help people get started. This jump-started my development and should be anyone's first stop (after this post of course) for basic as well as advanced topics. I hope the Paterva team keeps expanding this site, it's already a wealth of knowledge.
 
 ## But what about...?
 
@@ -78,10 +83,11 @@ There's a lot going on to create packages of complex transforms and that makes i
 
 ### [TDS & Remote Transforms](http://www.paterva.com/web6/products/servers.php)
 
-I have no idea? I don't have a TDS aside from the public one. If I was working with a bigger team, all using Maltego, I'd invest in one but for now my experience is too limited to speak to them. They make it easy for everyone to work off a unified set of transforms & packages, ease the need to manually setup lots of Maltego instances, and centralize credentials and API keys.
+I have no idea? I don't have a TDS aside from the public one. If I was working with a bigger team, all using Maltego, I'd invest in one but for now my experience is too limited to speak to them. They make it easy for everyone to work off a unified set of transforms & packages, ease the need to manually setup lots of Maltego instances, and centralize credentials and API keys. Paterva provided [a great site to help developers make the most of remote transforms](http://www.paterva.com/web6/documentation/developer-tds.php).
 
 ## Useful Links
 
+- [Paterva Developer Documentation](https://www.paterva.com/web6/documentation/developer.php)
 - [Maltego Developers Portal](http://dev.paterva.com/developer/)
 - [<i class="fa fa-file-pdf-o"></i> Maltego: Basic Python Library (Local Transforms)](http://dev.paterva.com/developer/downloads/BasicPythonLibrary(Local-Transforms)cheatsheet.pdf)
 - [<i class="fa fa-file-pdf-o"></i> Maltego: Integration Options with Maltego3](http://dev.paterva.com/developer/downloads/IntegrationoptionswithMaltegov3.pdf)
