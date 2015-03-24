@@ -35,7 +35,7 @@ The idea is to make Hubot support security ops:
 - penetration testing & vulnerability management
 
 ## Setting Up Hubot VTR
-Setting up Hubot is a simple task that's best started by looking at the [Hubot documentation](https://github.com/github/hubot/blob/master/docs/README.md) itself. Go ahead, we'll wait here.
+Setting up Hubot is a simple task that's best started by looking at the [Hubot documentation](https://github.com/github/hubot/blob/master/docs/index.md) itself. Go ahead, we'll wait here.
 
 Once you've got a basic Hubot setup you'll want to [install the VTR scripts with these directions](https://github.com/sroberts/hubot-vtr-scripts/blob/master/README.md#setup). It should be pretty painless.
 
