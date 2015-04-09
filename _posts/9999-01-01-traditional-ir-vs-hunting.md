@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Incident Response is Dead... Long Live Incident Response
+title: Incident Response is Dead...<br>Long Live Incident Response
 ---
 
-Talk to anyone in the "DFIR Illumanati" and one of the topics that always comes up is "hunting". Much like threat intelligence & string theory people talk a lot about this, but nearly no one knows what it actually means.
+Talk to anyone in the _DFIR Illumanati_ and one of the topics that always comes up is _hunting_. Much like threat intelligence & string theory people talk a lot about this, but nearly no one knows what it actually means.
+
+![Amazing Meaningless Cyber Graphic](http://www.purdue.edu/apps/dpmanage/Resource/15627838ea7e43e4843415d5bb2d0303.jpg)
 
 ## Proactive vs. Reactive
 
@@ -16,9 +18,24 @@ In _Hunting organizations_ the IR team actively goes looking for incidents based
 What does it take to build a hunting team? First of all it takes a complete change in mindset and proceedures.
 
 ### A Target Centric Mindset
+
+> <i class="fa fa-comments-o fa-2x pull-left"></i> know thyself ~ ancient greek proverb
+
 ### An Actor Centric Mindset
+
+> <i class="fa fa-comments-o fa-2x pull-left"></i> Yes I know my enemies
+They're the teachers who taught me to fight me
+~ Know Thy Enemy by Rage Against the Machine
+
 ### Wide Ranging Telemetry
-### The ability to look for indicators at scale
+
+A good hunt team can use a basic indicator, like an IPv4Address, in multiple ways while hunting and in prevention. The more options a team has for getting telemetry the better their chances of identifying and collaborating malicious actions.
+
+### Scalability & Automation
+
+The tough thing about hunting is you're trying to prove a true negative. Put more simply: you're trying to prove their isn't something bad. What makes this tough _is the fact that it's impossible to prove a true negative._ You can never ultimately be sure you aren't digging deep enough.
+
+The way to counter this is by hunting effeciently and widely. That requires a combination of scalability and automation.
 
 ### Management Buy In
 
@@ -26,13 +43,20 @@ Ok... this part gets weird. You would think that your leadership would be super 
 
 ### Battle Rhythm
 
-The _victim of their own success_
+The _victim of their own success_ incident response team problems aren't limited to leadership. Once a hunt team begins to mature their ability to constantly find new malicious activity continues to improve until the point where they can basically find new malcious activity at will. As a result the IR team is basically in a constant state of emergency, always responding to something.
+
+At this point the hunt team lead needs to step in and develop a mature "battle rhythm" to keep the team sane. While in reactive organizations treating every incident as an all hands on deck emergency makes sense this can't be the reality of .
 
 ### Incident Response
+
+The Hunting vs Non-Hunting process is only relevent to the Preparation & Detection phases of an incident. Good hunting is useless unless your team can execute on the mitigation, remediation, and recovery phases effectively. Without that all you have is a larger incident load to fail to respond to.
 
 ## Hunting Tools
 
 ### Endpoint Interrogation Tools
+- GRR
+
 ### Massive Logging
+- ELK
 
 ## So what's the big deal?
