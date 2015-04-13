@@ -30,7 +30,7 @@ An IPv4 address is useful for searching:
 
 - _Application Logs:_ Like your VPN, Email Server, or custom internal apps that attackers may target or co-opt.
 - _Network Flow:_ Traffic analysis being ideal for long running historical investigation.
-- _Endpoint Logs:_ Getting data directly to clients makes correlating internal activity possible, such as lateral movement. It's also valuable when systems like laptops may exist outside your network primeter.
+- _Endpoint Logs:_ Getting data directly to clients makes correlating internal activity possible, such as lateral movement. It's also valuable when systems like laptops may exist outside your network perimeter.
 
 Having diverse vantage points provides redundancy as well as the option to use the best tool for the job.
 
