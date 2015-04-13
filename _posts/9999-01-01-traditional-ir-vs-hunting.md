@@ -5,7 +5,7 @@ title: Incident Response is Dead...<br>Long Live Incident Response
 
 Talk to anyone in the _DFIR Illuminati_ and one of the topics that always comes up is _Hunting_. Much like threat intelligence & string theory people talk a lot about this, but nearly no one knows what it actually means.
 
-![Get it? Hunting?](./public/hunting.png)
+![Get it? Hunting?](/public/hunting.png)
 
 ## Proactive vs. Reactive
 
@@ -66,6 +66,6 @@ At this point the hunt team lead needs to step in and develop an operational tem
 
 ## So what's the big deal?
 
-![A Borne Hunter!](./public/borne.png)
+![A Borne Hunter!](/public/borne.png)
 
 In some organizations hunting seems like a mythical concept, in others it seems like business as usual. Hunting is still just a mindset, an idea of focusing on proactive action, rather than reactive response. Done well this mindset can change your organizations entire posture. It's not comfortable, it's not easy, but it's the difference between being passive and taking action. In my next post I'll talk about some of the better open source tools for equipping an up and coming hunt team.
