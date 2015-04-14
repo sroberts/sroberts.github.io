@@ -13,7 +13,7 @@ Advanced Persistent Threat remains the buzzword of choice for vendors, but it's 
 
 ## APT is a Who
 
-My second job after college was working for [Mandiant](https://www.mandiant.com/) as a Security Consultant. This was a great job where I learned a ton and that was because I worked with such a skilled team. The team that started Mandiant primarily came from the [United States Air Force Office of Special Investigations](http://www.osi.af.mil/); a team that handled, among other things, some of the first nation state level computer intrusions of the Internet era such as [Solar Sunrise](http://en.wikipedia.org/wiki/Ehud_Tenenbaum), [Moonlight Maze](http://en.wikipedia.org/wiki/Moonlight_Maze), and [Titan Rain](http://en.wikipedia.org/wiki/Titan_Rain).
+My second job after college was working for Mandiant (Now [FireEye Services](https://www.fireeye.com/services.html) as a Security Consultant. This was a great job where I learned a ton and that was because I worked with such a skilled team. The team that started Mandiant primarily came from the [United States Air Force Office of Special Investigations](http://www.osi.af.mil/); a team that handled, among other things, some of the first nation state level computer intrusions of the Internet era such as [Solar Sunrise](http://en.wikipedia.org/wiki/Ehud_Tenenbaum), [Moonlight Maze](http://en.wikipedia.org/wiki/Moonlight_Maze), and [Titan Rain](http://en.wikipedia.org/wiki/Titan_Rain).
 
 This was a weird time, because (like today) attacks weren't just aimed at military targets but commercial targets as well. AFOSI, as well as other government intelligence & defense groups, investigated using open source and classified methods. For operational security, this leads to classified intelligence.
 
