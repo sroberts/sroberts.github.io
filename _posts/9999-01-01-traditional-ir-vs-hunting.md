@@ -28,9 +28,9 @@ A good hunt team can use a basic indicator, like an IPv4 address, in diverse way
 
 An IPv4Address is useful for searching:
 
-- _Application Logs:_ Like your VPN, Email Server, or custom internal apps that attackers may target or co-opt.
-- _Network Flow:_ Traffic analysis is ideal for long running historical investigation. Full PCAP gives the full story.
-- _Endpoint Logs:_ Getting data directly to clients makes correlating internal activity possible, such as lateral movement. It's also valuable when systems like laptops may exist outside your network perimeter.
+- __Application Logs:__ Like your VPN, Email Server, or custom internal apps that attackers may target or co-opt.
+- __Network Traffic:__ Traffic analysis is ideal for long running historical investigation. Full PCAP gives the full story.
+- __Endpoint Logs:__ Getting data directly to clients makes correlating internal activity possible, such as lateral movement. It's also valuable when systems like laptops may exist outside your network perimeter.
 
 Having diverse vantage points provides redundancy as well as the option to use the best tool for the job.
 
