@@ -21,7 +21,7 @@ Vendors are selling data feeds, management platforms, actor reports, vulnerabili
 
 ### A Walk Through the Intelligence Cycle
 
-I track groups for my own interest and work through this cycle often. In this case we're going to walk through this cycle the way I would for one of the more infamous groups out there; the infamous [Comment Crew](http://en.wikipedia.org/wiki/PLA_Unit_61398) aka [APT1](https://www.mandiant.com/blog/mandiant-exposes-apt1-chinas-cyber-espionage-units-releases-3000-indicators/).
+I track groups for my own interest and work through this cycle often. In this case we're going to walk through this cycle the way I would for one of the more infamous groups out there; the infamous [Comment Crew](http://en.wikipedia.org/wiki/PLA_Unit_61398) aka APT1.
 
 #### Direction
 __First we have to set the parameters of what questions we're trying to answer.__ When I'm doing my personal research I generally have two goals:
