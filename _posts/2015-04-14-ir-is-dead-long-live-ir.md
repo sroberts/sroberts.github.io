@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Incident Response is Dead...<br>Long Live Incident Response
+title: "Incident Response is Dead...<br/>
+Long Live Incident Response"
 ---
 
 Talk to anyone in the _DFIR Illuminati_ and one of the topics that always comes up is _Hunting_. Much like threat intelligence & string theory, people talk a lot about this, but nearly no one knows what it actually means.
@@ -42,7 +43,7 @@ The way to counter this is by hunting efficiently and widely. That requires a co
 
 ### A Target Centric Mindset
 
-> <i class="fa fa-comments-o fa-3x pull-left"></i> "Know thyself..."<br>~ Ancient Greek Proverb
+> <i class="fa fa-comments-o fa-3x pull-left"></i> "Know thyself..."<br/>~ Ancient Greek Proverb
 
 The first question people ask when building a hunting capability is where to start (If you read about [F3EAD](http://sroberts.github.io/2015/03/24/f3ead/) this is the Find section), otherwise known as targeting. The first approach to take is "target centric."
 
@@ -50,7 +51,7 @@ The hunt team starts by evaluating internal projects and resources to determine 
 
 ### An Actor Centric Mindset
 
-> <i class="fa fa-comments-o fa-3x pull-left"></i> "The way I wrestle five-year-olds makes me think if I were ever attacked by a pack of midgets, I’d be OK. " <br> ~Jarod Kintz
+> <i class="fa fa-comments-o fa-3x pull-left"></i> "The way I wrestle five-year-olds makes me think if I were ever attacked by a pack of midgets, I’d be OK. " <br/> ~Jarod Kintz
 
 In the age of [named](http://blog.crowdstrike.com/?s=hurricane+panda) (and [numbered](https://www.fireeye.com/blog/threat-research/2015/04/apt_30_and_the_mecha.html)) attack groups and [big nation state attack exposés](http://www.kaspersky.com/about/news/virus/2015/equation-group-the-crown-creator-of-cyber-espionage), much of the focus is on actor-centric hunting. Rather than focusing on the potential targets, actor-centric hunting requires the hunt team to develop intelligence about potential attackers, either from their own research or 3rd party sources, and to identify specific actors. This is a powerful approach but first requires an understanding of the attacks you face. While threat intelligence firms may track dozens of different actors, at best a fraction will be relevant to your organization. By building dossiers based on target-driven hunts, you develop the necessary understanding to mature into actor driven hunting.
 
