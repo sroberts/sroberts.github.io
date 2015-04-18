@@ -31,7 +31,7 @@ GRR makes it possible to directly interrogate individual systems or _hunt_ acros
 
 Three tools in one ELK combines a datastore (Elasticsearch), log ingestion pipeline (Logstash), and an analysis interface (Kibana) aka ELK. [Combined](https://www.youtube.com/watch?v=1uS5b8aQ6z8) they form a powerful log management and analysis platform, scalable to tremendous amounts of ingestion and retention.
 
-For a hunt team this provides a singular location to store logs from all relevant systems, whether they be application logs such as your VPN or email server logs, network & system logs like [Bro](https://www.bro.org/) or [auditd](http://linux.die.net/man/8/auditd), and provide a unified place to analyze them. This enables the kind of telemetry that makes a singular indicator valuable across a myriad of systems.
+For a hunt team this provides a singular location to store logs from all relevant systems, whether they be application logs such as your VPN or email server logs, network & system logs like [Bro](https://www.bro.org/) (Read @jshlbrd's [great post on using Bro for Hunting](http://jshlbrd.blogspot.com/2015/04/bro-whats-it-good-for.html)) or [auditd](http://linux.die.net/man/8/auditd), and provide a unified place to analyze them. This enables the kind of telemetry that makes a singular indicator valuable across a myriad of systems.
 
 ### Wide Ranging Network Visibility: [AOL Moloch](https://github.com/aol/moloch)
 
