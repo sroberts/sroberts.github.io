@@ -56,9 +56,11 @@ Moloch is one of the best designed, truly enterprise worthy open source projects
 
 It's easy to get caught up in systems that improve telemetry, but what you do with the information collected is just as important. Tracking a hunt is a complicated thing, with lots of data, lots of people, and often an adaptive adversary. It's important to have a structured way to record varied types of data, not just facts but also observations, hunches, etc.
 
-I haven't personally spent a lot of time with it (something I plan to remedy soon), but as someone who's used numerous commercial systems, endless wikis, even just plain notebooks and whiteboards, I think FIR looks like one of the best systems at any price, and the best open source option by far.
+I haven't personally spent a lot of time with it (something I plan to remedy soon), but as someone who's used numerous commercial systems, endless wikis, even just plain notebooks and whiteboards, I think FIR looks like one of the best systems at any price, and the best open source option by far. For a less incident centric, more intelligence centric tool give [CRITs](https://github.com/crits/crits) a look as well.
 
 ## How it Fits Together
+
+At it's core these tools enable the [F3EAD Cycle](http://localhost:4000/2015/03/24/f3ead/) that is the core of the hunt. Telemetry tools and their use makes up the operations phase (Find, Fix, & Finish) while the Tracking provide a datastore and structure for the intelligence phase (Exploit, Analyze, & Disseminate). These tools make it possible to establish the F3EAD cycle. As you improve the efficency of this interplay you shorten your OODA cycle
 
 ## Conclusion
 
