@@ -39,7 +39,7 @@ For a hunt team this provides a singular location to store logs from all relevan
 
 As far as network visibility goes the ideal world is full content monitoring. Before Moloch there were limited options.
 
-- A homebuilt system based on tiptop, where all you're paying for is storage, but with a clunky interface.
+- A homebuilt system based on [tcpdump](http://www.tcpdump.org/), where all you're paying for is storage, but with a clunky interface.
 - An expensive commercial system, great interfaces, but wildly limited storage coming with a crazy price tag.
 
 Full stop.
