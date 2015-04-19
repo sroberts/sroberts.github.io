@@ -3,7 +3,7 @@ layout: post
 title: Incident Response Hunting Tools
 ---
 
-Great, you've [decided to move beyond reactive incident response and start hunting](http://sroberts.github.io/2015/04/14/ir-is-dead-long-live-ir/). While hunting is primarily a way of thinking about incident response it does rely on your technical capabilities, so what tools should you use? The focus for me is always on open source tools with tools with wide ranging applications. Here are my favorites:
+Great, you've [decided to move beyond reactive incident response and start hunting](/2015/04/14/ir-is-dead-long-live-ir/). While hunting is primarily a way of thinking about incident response it does rely on your technical capabilities, so what tools should you use? The focus for me is always on open source tools with tools with wide ranging applications. Here are my favorites:
 
 ### Endpoint Alerting Tools: [Facebook OSQuery](https://osquery.io/)
 
@@ -60,7 +60,7 @@ I haven't personally spent a lot of time with it (something I plan to remedy soo
 
 ## How it Fits Together
 
-At it's core these tools enable the [F3EAD Cycle](http://localhost:4000/2015/03/24/f3ead/) that is the core of the hunt. Telemetry tools and their use makes up the operations phase (Find, Fix, & Finish) while the Tracking provide a datastore and structure for the intelligence phase (Exploit, Analyze, & Disseminate). These tools make it possible to establish the F3EAD cycle. As you improve the efficency of this interplay you shorten your OODA cycle
+At it's core these tools enable the [F3EAD Cycle](/2015/03/24/f3ead/) that is the core of the hunt. Telemetry tools and their use makes up the operations phase (Find, Fix, & Finish) while the Tracking provide a datastore and structure for the intelligence phase (Exploit, Analyze, & Disseminate). These tools make it possible to establish the F3EAD cycle. As you improve the efficency of this interplay you shorten your OODA cycle
 
 ## Conclusion
 
