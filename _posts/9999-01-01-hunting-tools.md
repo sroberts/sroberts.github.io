@@ -5,15 +5,15 @@ title: Incident Response Hunting Tools
 
 Great, you've [decided to move beyond reactive incident response and start hunting](http://sroberts.github.io/2015/04/14/ir-is-dead-long-live-ir/). While hunting is primarily a way of thinking about incident response it does rely on your technical capabilities, so what tools should you use? The focus for me is always on open source tools with tools with wide ranging applications. Here are my favorites:
 
-### Endpoint Alerting Tools: [Facebook OSQuery](https://osquery.io/)
+### Endpoint Alerting Tools: [Facebook osquery](https://osquery.io/)
 
-![Facebook OSQuery Screenshot](http://ycom.cat/wp-content/uploads/2014/10/portada_osquery.jpg)
+![Facebook osquery Screenshot](http://ycom.cat/wp-content/uploads/2014/10/portada_osquery.jpg)
 
-OSQuery is a tool from Facebook that describes itself as:
+osquery is a tool from Facebook that describes itself as:
 
 > osquery allows you to easily ask questions about your Linux and OSX infrastructure. Whether your goal is intrusion detection, infrastructure reliability, or compliance, osquery gives you the ability to empower and inform a broad set of organizations within your company.
 
-If I'm honest I wasn't crazy about OSQuery at first (Sorry Mike). The SQL syntax, while familiar, felt forced and awkward to me. That said I've looked high and low and have yet to find a better endpoint alerting tool than OSQuery. It's fast, flexible, and fully featured. Tools like Mozilla MIG are interesting, but OSQuery is capable and ready to deploy, so I'll eat my works and OSQuery is my first pick. New tools like [Mephux's EnvDB](https://github.com/mephux/envdb) are just making it even better.
+If I'm honest I wasn't crazy about osquery at first (Sorry Mike). The SQL syntax, while familiar, felt forced and awkward to me. That said I've looked high and low and have yet to find a better endpoint alerting tool than osquery. It's fast, flexible, and fully featured. Tools like Mozilla MIG are interesting, but osquery is capable and ready to deploy, so I'll eat my works and osquery is my first pick. New tools like [Mephux's EnvDB](https://github.com/mephux/envdb) are just making it even better.
 
 ### Endpoint Interrogation Tools: [Google GRR](https://github.com/google/grr)
 
