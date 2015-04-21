@@ -13,7 +13,7 @@ osquery is a tool from Facebook that describes itself as:
 
 > osquery allows you to easily ask questions about your Linux and OSX infrastructure. Whether your goal is intrusion detection, infrastructure reliability, or compliance, osquery gives you the ability to empower and inform a broad set of organizations within your company.
 
-If I'm honest I wasn't crazy about osquery at first (Sorry Mike). The SQL syntax, while familiar, felt forced and awkward to me. That said I've looked high and low and have yet to find a better endpoint alerting tool than osquery. It's fast, flexible, and fully featured. Tools like Mozilla MIG are interesting, but osquery is capable and ready to deploy, so I'll eat my works and osquery is my first pick. New tools like [Mephux's EnvDB](https://github.com/mephux/envdb) are just making it even better.
+If I'm honest I wasn't crazy about osquery at first (Sorry Mike). The SQL syntax, while familiar, felt forced and awkward to me. That said I've looked high and low and have yet to find a better endpoint alerting tool than osquery. It's fast, flexible, and fully featured. Tools like [Mozilla MIG](http://mig.mozilla.org/) are interesting and maturing quickly, but osquery is capable and ready to deploy, so I'll eat my works and osquery is my first pick. New tools like [Mephux's EnvDB](https://github.com/mephux/envdb) are just making it even better.
 
 ### Endpoint Interrogation Tools: [Google GRR](https://github.com/google/grr)
 
