@@ -43,3 +43,7 @@ node_modules
 # Block Vendor Folders
 vendor/*
 .bundle/*
+
+# Ruby Ignored Paths
+.bundle
+Gemfile.lock
