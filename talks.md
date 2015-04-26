@@ -10,7 +10,9 @@ title: Talks
 I've been lucky enough to be invited to talk some places. Here's the list...
 
 ## 2015
-- Upcoming! [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet
+- [FIRST](http://www.first.org/conference/2015): Crisis Communications for Incident Response
+- [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response
+- [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet ([Slides](https://speakerdeck.com/sroberts/the-most-dangerous-game))
 - Upcoming! [BSides Columbus 2015](http://www.securitybsides.com/w/page/81789821/BSidesCMH2015): A Basic Guide to Advanced Incident Response
 
 ## 2014
