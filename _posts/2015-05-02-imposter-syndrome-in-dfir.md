@@ -11,20 +11,20 @@ title: Imposter Syndrome in DFIR
 
 [_Imposter Syndrome_ ~ The CalTech Consuling Center](https://counseling.caltech.edu/general/InfoandResources/Impostor)
 
-There isn't really an easy way to jump into a post like like this, and in many ways there doesn't need to be. Imposter Syndrome is something a lot of people don't know a lot about (I'd never heard the idea until I started working at GitHub) but it's something immediately familiar once it's explained. 
+There isn't really an easy way to jump into a post like like this and in many ways there doesn't need to be. Imposter Syndrome is something many people don't know a lot about (I'd never heard the idea until I started working at [GitHub](https://github.com/)) but it's something I think everyone is intimately familiar with. 
 
-What's interesting to me is an Imposter Syndrome is a lot like a childs boogie man; open the closet, turn on the lights, take a look around, and you see that nothing is there and for a moment you feel better. Exposing it, taking a good hard look, and acknowledging that everyone feels a similar way makes a big difference. But it doesnt't go away entirely... so you have to expose it again. 
+Imposter Syndrome is a lot like a childs boogie man; open the closet, turn on the lights, take a look around, and you see that nothing is there. For a moment you feel better. Exposing it, taking a good hard look, and acknowledging it makes a big difference. But it doesnt't go away entirely, it's temporarily gone, and eventually you'll have to expose it again. 
 
-The other complication is that while everyone experiences imposter syndrome it manifests itself in unique and individualized ways for everyone. So with that in mind, and knowing that openness and honest is one of these keys (both to help myself and others), this is my take on the imposter syndrome I have experienced as a Digital Forensics & Incident Response professional:
+One of the complications with Imposter Syndrome is while everyone experiences imposter syndrome it manifests itself in unique and individualized ways. So with that in mind, and knowing that openness and honesty are the these keys (both to help myself and others), this is my take on the symptoms of imposter syndrome I have experienced as a Digital Forensics & Incident Response professional:
 
 ## The "Blinky Lights" Inferiority
 > "What if they make a box that does what I do?"
 
-When I was first getting into security as a Security Intern at The Hershey Company I remember reading the very first information about Windows XP SP3. I still think of that release as the first "Security Release" from a major vendor, it wasn't but this was a formitive time for me, and it was a huge deal. 
+When I was first getting into security as a Security Intern at [The Hershey Company](https://www.thehersheycompany.com/) I remember reading an article the upcoming Windows XP SP2 release focused on all of the security advancements (a built in firewall, [DEP](http://en.wikipedia.org/wiki/Data_Execution_Prevention), Security Center, etc). I still think of that release as the first "Security Release" from a major vendor; it wasn't but this was a formitive time for me, and it was a huge deal. 
 
-My first thought was simple: "I may as well give up on security, they're just going to make hacking impossible with this release."
+My first thought was simple: _"I may as well give up on security, they're just going to make hacking impossible with this release."_
 
-I was wrong, oh so wrong, and nieve, but in many ways this fear never goes away. I thought the same thing for an instant when I first saw a beta FireEye appliance. What about when they fix _all_ the bugs? What if someone builds a box that does what I do?  What if machine learning actually becomes a real thing and it's better than I am?
+I was wrong (_oh so wrong_) and nieve, but in many ways this fear has never gone away. I thought the same thing for an instant when I first saw a beta [FireEye](https://www.fireeye.com/) appliance. What about when they fix _all_ the bugs? What if someone builds a box that does what I do?  What if machine learning actually becomes a real thing and it's better than I am?
 
 The reality is much different. Maybe some day someone will build a box that does what I do but that's not today. This is the easiest Inferiority to look at and dismiss as silly, but that doesn't make is less potent from time to time.
 
@@ -61,7 +61,7 @@ No organizations are without incidents but the fact is while there's always some
 
 ## The "Human Being" Inferiority
 
-At it's core all of these issues tie back to one unavoidable issue; being human. Short of being a sociopath everyone experiences doubt in themselves and their skills. It's unavoidable, but simply knowing others experience the same thing is freeing. I remember reading a friend, a brilliant, skilled friend that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like they were going to be discovered as a fraud. It was a moment of pure humility on their part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to say "I don't know", had the same insecurities I did?
+At it's core all of these issues tie back to one issue; being human. The only convievable way to 100% avoid ever feeling the symptoms of imposter syndrome is to avoid self analysis entirely. It's unavoidable, but simply knowing others experience the same thing is freeing. I remember reading a friend, a brilliant, skilled friend that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like they were going to be discovered as a fraud. It was a moment of pure humility on their part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to say "I don't know", had the same insecurities I did?
 
 ## In The End
 
