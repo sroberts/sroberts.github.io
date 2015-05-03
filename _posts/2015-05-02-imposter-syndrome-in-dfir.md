@@ -67,7 +67,7 @@ __No organization is without incidents but the fact is while there's always some
 
 These aspects tie back to one main issue; being human. The only conceivable way to avoid the symptoms of imposter syndrome is to avoid self analysis entirely. It's unavoidable, but simply knowing others experience the same thing is freeing.
 
-Don't think everyone feels like an imposter sometimes? I remember reading a post by a noteworthy colleague that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like others were going to find out she was a fraud. The text was a moment of pure humility on the author's part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to need to say "I don't know", had the same insecurities I did? That post gave me confidence, if only in knowing I wasn't alone.
+Don't think everyone feels like an imposter sometimes? I remember reading a post by a noteworthy colleague that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like others were going to find out she was a fraud. The text was a moment of pure humility on the author's part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to need to say "I don't know", had the same insecurities I did? That post gave me confidence in knowing I wasn't alone.
 
 ## So What's the Solution?
 
