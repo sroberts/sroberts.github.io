@@ -29,7 +29,7 @@ The reality is much different. Maybe some day someone will build a box that does
 ## The Offensive Inferiority
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "Red team bros just constantly say how easy it is to get around what I spent months building."
 
-There's a joke I love that goes like this (with my own small modification):
+There's a [joke](https://uproxx.files.wordpress.com/2015/01/archer-burn.gif?w=650) I love that goes like this (with my own small modification):
 
 > How do you tell if someone is a vegan, a crossfitter, or pentester? Give them two minutes and they'll tell you.
 
@@ -55,13 +55,11 @@ But it's tough to feel that everyone is more skilled, even if it's their area of
 ## The "80/20" Inferiority
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "About 95% of the time I just sit around being a mediocre software developer or systems engineer."
 
-I structured this post in what for me is the order of my imposter syndrome issues. I'm less concerned that RSA is going to release a "SRoberts Replacement Box":TM: than the "Pentester Bros" frustrate me by bragging about their conquests (and ignoring their defeats). The toughest for me to deal with though is this: 90% of the time I feel useless.
+I structured this post in what for me is the order of my imposter syndrome issues. I'm less concerned that RSA is going to release a "SRoberts Replacement Box":TM: than the "Pentester Bros" frustrate me by bragging about their conquests (and ignoring their defeats). The toughest for me to deal with though is this: 80% of the time I feel useless. DFIR types live for emergencies, but the fact is there just isn't always an emergency.
 
 ![80/20 Rule](https://lh6.googleusercontent.com/xB3fRshdfQvPqWYeUbBnCfrl6VnHycVp2XIvCOe4rpfKGTmyYwq-rsT_yMWjdqxudMJufQT5Ur3KRO4Ud8fyLTXwQXb-IQgXrae6PcmRxtogBRpjzqs)
 
-When I interviewed for my position with GitHub I told my future employer's CEO "...the best thing for the company would be for me to be bored all time time". It was meant to be a little cheeky, but it's honest; when you see accountants, lawyers, or incident handlers stressed out and frazzled it's going to be a rough few weeks.
-
-No organizations are without incidents but the fact is while there's always something to do there are also "non-emergency times" (in varying ratios) where as an incident handler it's easy to feel like a 3rd wheel. I spend a lot of that time building new systems, either as an ops person or a developer. This ties back to the _Jack of All Trades_ issue, but I know I'm not nearly as good a developer as our real developers. Nor am I as good an ops engineer as our real ops engineers. It's easy to feel somewhat ancillary, at least until the next emergency.
+No organizations are without incidents but the fact is while there's always something to do there are also _non-emergency_ times where as an incident handler it's easy to feel like a 3rd wheel. I spend a lot of that time building new systems, either as an ops engineer or a developer. This ties back to the _Jack of All Trades_ issue, but I know I'm not nearly as good a developer as our real developers. Nor am I as good an ops engineer as our real ops engineers. It's easy to feel somewhat ancillary, at least until the next emergency.
 
 ## The "Human Being" Inferiority
 
