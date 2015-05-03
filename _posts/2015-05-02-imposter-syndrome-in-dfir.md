@@ -9,7 +9,9 @@ title: Imposter Syndrome in DFIR
 
 There isn't an easy way to jump into a post like this and in many ways there doesn't need to be. Imposter Syndrome is something many people don't know a lot about (I'd never heard the idea until I started working at [GitHub](https://github.com/)) but it's something I think everyone is intimately familiar with.
 
-Imposter Syndrome is a lot like a child's [boogie man](http://farm4.staticflickr.com/3268/3130046382_7c142521b1_z.jpg); open the closet, turn on the lights, take a look around, and you see that nothing is there. For a moment you feel better. Exposing it, taking a good hard look, and acknowledging it makes a big difference. But it doesn't go away entirely, it's temporarily gone, and you'll have to expose it again.
+![Which one is the boogie man?](https://38.media.tumblr.com/tumblr_m8txuocJ481rqten0o1_500.gif)
+
+Imposter Syndrome is a lot like a child's boogie man; open the closet, turn on the lights, take a look around, and you see that nothing is there. For a moment you feel better. Exposing it, taking a good hard look, and considering the logic it makes a difference. But it doesn't go away entirely, it's temporarily gone, and you'll have to expose it again.
 
 One of the complications with Imposter Syndrome is while everyone experiences imposter syndrome it manifests itself in unique and individualized ways. So with that in mind, and knowing that openness and honesty are the these keys (both to help myself and others), this is my take on the symptoms of imposter syndrome I have experienced as a Digital Forensics & Incident Response professional:
 
@@ -31,7 +33,7 @@ The reality is much different. Maybe some day someone will build a box that does
 
 There's a [joke](https://uproxx.files.wordpress.com/2015/01/archer-burn.gif?w=650) I love that goes like this (with my own small modification):
 
-> How do you tell if someone is a vegan, a crossfitter, or pentester? Give them two minutes and they'll tell you.
+> How do you tell if someone is a vegan, a crossfitter, or _red team bro_? Give them two minutes and they'll tell you.
 
 If you ever sit around with a bunch of offensive types (pentesters, vulnerability researchers, exploit developers, etc) you'll start hearing stories that can basically get boiled down to "Defense is garbage, defenders are useless, we always win, I'm super awesome." It'll rarely be said that way (and if it is get new friends) but as a defensive focused person it starts to feel like you're just directly being called an idiot.
 
@@ -44,13 +46,11 @@ A defensive team can succeed 999 out of 1000 times and the only thing anyone car
 ## The "Jack of All Trades" Inferiority
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "I'm a worse RE than our RE and a worse 4n6 than our 4n6icator and a worse dev then our developer and a worse ops than our ops."
 
-Going from the team perspective to an individual contributor perspective I find DFIR  folks have an easy time getting down on themselves. A DFIR/Incident Handler  is often a leader or contributor on a team of specialists. When I've worked as a lead incident handler my job was to ingest information coming from the specialists, synthesize it into a plan, and execute that plan.
+Going from the team perspective to an individual contributor perspective I find DFIR  folks have an easy time getting down on themselves. Incident Handlers are not the usual [_T-Shaped People_](http://web.archive.org/web/20110329003842/http://www.chiefexecutive.net/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications::Article&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=F42A23CB49174C5E9426C43CB0A0BC46). While most people have one skill they're a 8 of 10 on and lots of skills they're a 3 of 10 in most DFIR types are a 5 out of 10 in four or fives skills and a 3s on the rest.
 
-Incident Handlers are not the usual [_T-Shaped People_](http://web.archive.org/web/20110329003842/http://www.chiefexecutive.net/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications::Article&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=F42A23CB49174C5E9426C43CB0A0BC46). While most people have one skill they're a 8 of 10 on and lots of skills they're a 3 of 10 in most DFIR types are a 5 out of 10 in four or fives skills and 3s on the rest.
+I'm not a great malware reverser, I rely on tools like [Yara](http://plusvic.github.io/yara/) or [Cuckoo Sandbox](http://www.cuckoosandbox.org/) and seldom break out Hopper, but I know enough to read an in-depth malware report and understand it. I have limited skill with EnCase but I know enough to do triage and make use of my dedicated forensics engineers output. In these cases my real strength is the fact I understand everyone's job enough, and know how to fit it into the bigger picture. This means the team's reverser doesn't have to worry about forensics and vice versa.
 
-I'm not a great malware reverser. I rely on tools like Yara and Cuckoo Sandbox (and if I'm honest [VirusTotal](https://www.virustotal.com/)), but I know enough to read a strong reversers report and understand it. I have limited skill with EnCase, but I know enough to help out in the beginning of an investigation and make use of my dedicated forensics engineers output. In these cases my real strength is the fact that I understand everyone's job enough, and know how to fit it into the bigger picture. This means my team's reverser doesn't have to worry about forensics and vice versa.
-
-But it's tough to feel that everyone is more skilled, even if it's their area of expertise. I'm not as good at reversing as a RE, but I'm much better at reversing than most forensics engineers, and I know more about intelligence too. It's a unique set of skills to see the big picture.
+But it's tough to feel that everyone is more skilled, even if it's their area of expertise. I'm not as good at working with malware as a RE, but I'm much better at reversing than most forensics engineers, and I know more about intelligence too. It's a unique set of skills to see the big picture that has a unique and important place on a team.
 
 ## The "80/20" Inferiority
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "About 95% of the time I just sit around being a mediocre software developer or systems engineer."
@@ -67,7 +67,7 @@ No organizations are without incidents but the fact is while there's always some
 
 At it's core these aspects tie back to one main issue; being human. The only conceivable way to 100% avoid ever feeling the symptoms of imposter syndrome is to avoid self analysis entirely. It's unavoidable, but simply knowing others experience the same thing is freeing.
 
-I remember reading a post by a brilliant, skilled friend that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like they were going to be discovered as a fraud. It was a moment of pure humility on their part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to say "I don't know", had the same insecurities I did?
+I remember reading a post by a brilliant, noteworthy colleague that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like others were going to find out the poster was a fraud. The text was a moment of pure humility on the author's part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to need to say "I don't know", had the same insecurities I did? That post gave me confidence, if only in knowing I wasn't alone.
 
 ## In The End
 
