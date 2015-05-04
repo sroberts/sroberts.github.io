@@ -59,7 +59,7 @@ I structured this in the order of my imposter syndrome issues. I'm less concerne
 
 ![80/20 Rule](https://lh6.googleusercontent.com/xB3fRshdfQvPqWYeUbBnCfrl6VnHycVp2XIvCOe4rpfKGTmyYwq-rsT_yMWjdqxudMJufQT5Ur3KRO4Ud8fyLTXwQXb-IQgXrae6PcmRxtogBRpjzqs)
 
-__No organization is without incidents, but the fact is that (even though there's always something to do) there are also _non-emergency times where as an incident handler it's easy to feel like a 3rd wheel, unnecessary, an _imposter_.__ I spend a lot of that time building new systems, either as an ops engineer or a developer. This ties into the _Jack of All Trades_ issue, but I know I'm not nearly as good a developer as our real developers. Nor am I as good an ops engineer as our real ops engineers. It's easy to feel somewhat ancillary until the next emergency.
+__No organization is without incidents, but the fact is that (even though there's always something to do) there are also _non-emergency times_ where as an incident handler it's easy to feel like a 3rd wheel, unnecessary, an _imposter_.__ I spend a lot of that time building new systems, either as an ops engineer or a developer. This ties into the _Jack of All Trades_ issue, but I know I'm not nearly as good a developer as our real developers. Nor am I as good an ops engineer as our real ops engineers. It's easy to feel somewhat ancillary until the next emergency.
 
 ## The "Human Being" Inferiority
 
