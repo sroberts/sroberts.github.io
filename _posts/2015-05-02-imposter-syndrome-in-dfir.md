@@ -48,14 +48,14 @@ A defensive team can succeed 999 out of 1000 times and the thing everyone cares 
 
 Shifting to an individual perspective, incident handlers are not [_T-Shaped People_](http://web.archive.org/web/20110329003842/http://www.chiefexecutive.net/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications::Article&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=F42A23CB49174C5E9426C43CB0A0BC46). While most people have one skill they're a 8 of 10 on, and lots of skills they're a 3 of 10 in, most DFIR types are a 5 out of 10 in four or five skills and 3s on the rest.
 
-Because of this we [_Fake the Funk_](http://www.urbandictionary.com/define.php?term=fake+the+funk), assuming we should know more and trying to avoid admitting we don't. I have pretended to be more capable in order to avoid admitting I didn't know as much RE or forensics as I thought I should. This lack of self honesty to preserve face has caused me to waste the resources of talented coworkers due to pride. It has wasted valuable learning experiences. And it has kept me from focusing on the tasks I do better than anyone.
+Because of this we [_Fake the Funk_](http://www.urbandictionary.com/define.php?term=fake+the+funk), assuming we should know more and trying to avoid admitting we don't. This lack of self honesty to preserve face has caused me to wastes talented coworkers time & skill, wastes valuable learning experiences, and it has kept me from focusing on the tasks I do better than anyone.
 
-__It's easy to feel like an imposter when the rest of your team seems more deeply skilled, even if it's their area of expertise.__ I'm not as good at working with malware as a RE, but I'm much better at reversing than most forensics engineers, and I know more about intelligence too. It's a unique set of skills to see the big picture that has a unique and important place on a team.
+__It's easy to feel like an imposter when the rest of your team seems deeply skilled, even if it's their area of expertise.__ I'm not as good at working with malware as a RE, but I'm much better at reversing than most forensics engineers, and I know more about intelligence too. It's a unique set of skills to see the big picture that has a unique and important place on a team.
 
 ## The "80/20" Inferiority
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "About 80% of the time I just sit around being a mediocre software developer or systems engineer."
 
-I structured this in the order of my imposter syndrome issues. I'm less concerned that RSA is going to release a _@SRoberts Replacement Box_ than the _Pentester Bros_ frustrate me by bragging about their conquests (and ignoring their defeats). The toughest? The fact that 80% of the time I feel useless. DFIR types live for emergencies in the way ER doctors live for injuries. What do you do when everything is healthy?
+I structured this in the order of my imposter syndrome issues. I'm less concerned that RSA is going to release a _@SRoberts Replacement Box_ than the _Pentester Bros_ frustrate me by bragging about their conquests (and ignoring their defeats). The toughest? DFIR types live for emergencies in the way ER doctors live for injuries. What do you do when everything is healthy?
 
 ![80/20 Rule](https://lh6.googleusercontent.com/xB3fRshdfQvPqWYeUbBnCfrl6VnHycVp2XIvCOe4rpfKGTmyYwq-rsT_yMWjdqxudMJufQT5Ur3KRO4Ud8fyLTXwQXb-IQgXrae6PcmRxtogBRpjzqs)
 
@@ -63,11 +63,7 @@ __No organization is without incidents, but the fact is that (even though there'
 
 ## The "Human Being" Inferiority
 
-![Emotions!](http://img.photobucket.com/albums/v131/divalicious04/GIFs/myemotions_troy.gif)
-
-These aspects tie back to one main issue: being human. The only conceivable way to avoid the symptoms of imposter syndrome is to avoid self analysis entirely. It's unavoidable, but simply knowing that others experience the same thing is freeing.
-
-Don't think everyone feels like an imposter sometimes? I remember reading a post by a noteworthy colleague that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like others were going to find out she was a fraud. The text was a moment of pure humility on the author's part and ended up being a moment of pure empathy on mine. This person I respected, always found insightful, never seemed to need to say "I don't know", had the same insecurities I did? That post gave me confidence in knowing I wasn't alone.
+Don't think everyone feels like an imposter sometimes? I remember reading a note by a noteworthy colleague that no one would ever expect to feel like an imposter, writing a brutally honest account of feeling like others were going to find out she was a fraud. The text was a moment of pure humility on the author's part. It didn't say _woe is me_, but it was instead expressing a sense that she was handling this but wanted others to know it was normal and they could handle it too.
 
 ## So What's the Solution?
 
@@ -78,6 +74,6 @@ Don't think everyone feels like an imposter sometimes? I remember reading a post
 
 ## In The End
 
-It's in the vein of that colleague I mentioned that I write this. I often don't feel like I'm prepared to be a part of this profession I've chosen. I feel like I should know more, read more, write more, code more, and generally be a whole lot better at RE, forensics, coding, intelligence analysis, OSINT gathering, etc. I'm pretty sure all that is normal.
+I often don't feel like I'm prepared to be a part of this profession I've chosen. I feel like I should know more, read more, write more, and be a whole lot better at RE, forensics, coding, etc. I'm pretty sure all that is normal.
 
 No one gets away from Imposter Syndrome entirely. It's a human condition, but we can seek to understand it, to control it, and not let it control us. I think a willingness to confront this, with ourselves and our teams, can make everyone stronger.
