@@ -1,6 +1,6 @@
 machine:
   ruby:
-    version: 2.1.4p265
+    version: 2.1.4
 dependencies:
   override:
     - bundle install
