@@ -94,7 +94,7 @@ This part is the same in every investigation. It is easy to bite and attempt to 
 Plenty of people have questioned the FBI's attribution to North Korea. One of the things most commonly cited is how little information they provide, much of which was circumstantial. This concern neglects, or at least naively ignores, what information they're [withholding deliberately](http://www.thedailybeast.com/articles/2015/01/02/u-s-spies-say-they-tracked-sony-hackers-for-years.html) to protect their sources & methods.
 
 <p>
-  <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/iiamit">@iiamit</a> <a href="https://twitter.com/nselby">@nselby</a> Tl;dr : intelligence agencies don&#39;t share everything they know and it is annoying supersadface!</p>&mdash; daveaitel (@daveaitel) <a href="https://twitter.com/daveaitel/status/546670555643252736">December 21, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+  <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/iiamit">@iiamit</a> <a href="https://twitter.com/nselby">@nselby</a> Tl;dr : intelligence agencies don&#39;t share everything they know and it is annoying supersadface!</p>&mdash; daveaitel (\@daveaitel) <a href="https://twitter.com/daveaitel/status/546670555643252736">December 21, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 
 Does the FBI/US Gov have better intelligence than they're letting on? I would guess they do, especially since the intelligence community can access all the different diciplines of intelligence (SIGINT, HUMINT, etc), but burning good sources just to make naysayers feel better isn't good intelligence management.
