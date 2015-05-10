@@ -18,7 +18,7 @@ _Advanced Persistent Incident Responder_
 
 ### [GitHub](http://www.github.com): _Bad Guy Catcher_
 
-2012-11-12 to Current
+November 2012 to Current
 
 - Principle DFIR investigator for GitHub, the worlds repository for open & closed source software.
 - Developed comprehensive incident response, intrusion detection, & threat intelligence capabilities.
@@ -26,7 +26,7 @@ _Advanced Persistent Incident Responder_
 
 ### [Vigilant (Acquired by Deloitte)](http://www2.deloitte.com/us/en/pages/risk/solutions/cyber-risk-services.html):  Senior Intelligence Specialist
 
-2012-02-06 to 2012-10-26
+February 2012 to October 2012
 
 - Served as a Senior Intelligence Specialist, briding the gap between threat intelligence research & boots on the ground incident response consulting.
 - "Helped guide research & development priorities for the Vigilant Intelligence team.
@@ -35,7 +35,7 @@ _Advanced Persistent Incident Responder_
 
 ### [ManTech Intl](http://www.mantech.com/Pages/Home.aspx): SOC Technical Lead & Focused Operations Team Deputy
 
-2010-04-05 to 2011-12-16
+April 2010 to December 2011
 
 - Established operational priorities and procedures including technology selection, hiring,documentation, as well as acting as a subject matter expert on network monitoring.
 - Conducted investigations and incident responses as a member of the Focused Operations Investigation team.
@@ -44,7 +44,7 @@ _Advanced Persistent Incident Responder_
 
 ### [Mandiant (Acquired by FireEye)](https://www.mandiant.com",): Security Consultant
 
-2008-06-23 to 2010-04-02
+June 2008 to April 2010
 
 - Acted as a subject matter expert advising federal clients on network security monitoring and security operations.
 - Developed a threat intelligence capability inside a major federal agency. Liaised with other federal agencies as well as providing regular products to the IC.
@@ -52,7 +52,7 @@ _Advanced Persistent Incident Responder_
 
 ### [Symantec Managed Security Services](http://www.symantec.com/managed-security-services/): Security Analyst & Global Threat Analyst
 
-2006-05-15 to 2008-06-20
+May 2006 to June 2008
 
 - Conducted intrusion analysis for 450+ customers from various industries, validating attacks and providing tactical and strategic recommendations to clients for incident remediation and proactively preventing future attacks.
 - Provided documentation, research, handling & response instructions, to internal Symantec & customers security teams.
@@ -63,7 +63,7 @@ _Advanced Persistent Incident Responder_
 
 ### [NYU Poly CSAW Advisory Board Member](https://csaw.isis.poly.edu)
 
-2014-12-15 to Current
+December 2014 to Current
 
 > The largest student-run cyber security event in the nation, with a research conference that attracts some of the biggest names in the industry, and a career fair with an impressive list of corporate partners.
 
@@ -74,7 +74,7 @@ _Advanced Persistent Incident Responder_
 
 ### Penn State University: BS Information Science & Technology
 
-2004-01-05 to 2006-05-15 & Resuming Summer 2015
+January 2004 to May 2006 & Resuming Summer 2015
 
 After leaving school my senior year of college to persue my first professional position I have reenrolled in PennState's World Campus to complete my degree online. Anticipated completion Spring of 2016.
 
@@ -90,17 +90,17 @@ My past speaking can be found in the [Talks](http://sroberts.github.io/talks/) s
 
 ### Article: [How GitHub is Redefining Software Development in Help Net Security](http://www.net-security.org/secworld.php?id=17868)
 
-__Released:__ 2016-01-26
+__Released:__ January 2016
 
 > The security industry is slowly realizing what the developer community knew for years - collaboration is the key to and likely the future of innovation.
 
 ### Academic Publication: [ <i class="fa fa-file-pdf-o"></i> Adding When, Where, and Why to How](http://cisr.nps.edu/events/downloads/WECS7/wecs7_ch4.pdf)
 
-__Released:__ 2006-01-04 @ WECS7
+__Released:__ January 2006 @ WECS7
 
 ### Academic Publication: [<i class="fa fa-file-pdf-o"></i> Information Assurance Network Design for Problem Based Learning](http://cisse.info/resources/archives/category/4-papers?download=26:s02p03-2005)
 
-__Released:__ 2005-06-01 @ CISSE9
+__Released:__ June 2005 @ CISSE9
 
 ## Skills
 
