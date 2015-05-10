@@ -40,3 +40,8 @@ pgp:
 
 rss:
   main:          http://sroberts.github.io/atom.xml
+
+gems:
+- jekyll-mentions
+- jemoji
+- jekyll-sitemap
