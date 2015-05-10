@@ -23,7 +23,7 @@ author:
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          2.1.0
 
 github:
   main:           https://github.com/sroberts/
@@ -40,3 +40,7 @@ pgp:
 
 rss:
   main:          http://sroberts.github.io/atom.xml
+
+gems:
+- jemoji
+- jekyll-sitemap
