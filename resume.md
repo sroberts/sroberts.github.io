@@ -5,8 +5,6 @@ excerpt: I am an Incident Responder with GitHub specializing in Incident Respons
 layout: page
 ---
 
-__Scott J Roberts__: _Advanced Persistent Incident Responder_
-
 > I am an Incident Responder with GitHub specializing in Incident Response, Intrusion Detection, and Cyber Threat Intelligence operations.
 
 
@@ -14,7 +12,7 @@ __Scott J Roberts__: _Advanced Persistent Incident Responder_
 |:-:|:-:|:-:|
 | [@sroberts](https://twitter.com/sroberts) | [sroberts](https://www.github.com/sroberts) | [scottroberts](https://www.linkedin.com/in/scottroberts/) |
 
-## Work Experience
+## <i class="fa fa-building-o"></i> Work Experience
 
 ### [GitHub](http://www.github.com): _Bad Guy Catcher_
 
@@ -59,7 +57,7 @@ __Scott J Roberts__: _Advanced Persistent Incident Responder_
 - Assisted in architecting redesign of the Security Operations Center Technology Platform, creating a new world class analysis console and back end.
 - Leading the effort to redevelop six week security analyst training curriculum to develop trainee analysts to deal with emerging threats.
 
-## Volunteer
+## <i class="fa fa-exchange"></i> Volunteer
 
 ### [NYU Poly CSAW Advisory Board Member](https://csaw.isis.poly.edu)
 
@@ -70,7 +68,7 @@ __Scott J Roberts__: _Advanced Persistent Incident Responder_
 - Participated in 2013 & 2014 events on behalf of GitHub taking part in research paper competition, CTF, & THREADS technical conference.
 - Helped improve overall conference structure to increase value for both students and involved corporations."
 
-## Education
+## <i class="fa fa-university"></i> Education
 
 ### [Penn State University](http://www.psu.edu/): BS [Information Science & Technology](http://ist.psu.edu/)
 
@@ -78,7 +76,7 @@ __Scott J Roberts__: _Advanced Persistent Incident Responder_
 
 After leaving school my senior year of college to persue my first professional position I have reenrolled in [PennState's World Campus](http://www.worldcampus.psu.edu/) to complete my degree online. Anticipated completion Spring of 2016.
 
-## Publications
+## <i class="fa fa-users"></i> Publications
 
 ### [Writing](http://sroberts.github.io)
 
@@ -88,12 +86,12 @@ I write extensively on the topics of information security and development. Speci
 
 I've been lucky enough to speak at industry conferences and company events. A list of my speaking engagements, including slides and some videos, is in the [Talks](http://sroberts.github.io/talks/) section of my site.
 
-### Articles
+### <i class="fa fa-newspaper-o"></i> Articles
 
--  <i class="fa fa-newspaper-o"></i> Business Insider: [A computer engineer describes five ways learning his job made him incredibly insecure](http://www.businessinsider.com/github-engineer-solves-imposter-syndrome-2015-5) - May 2015
-- <i class="fa fa-newspaper-o"></i> Help Net Security: [How GitHub is Redefining Software Development in ](http://www.net-security.org/secworld.php?id=17868) - January 2015
+- Business Insider: [A computer engineer describes five ways learning his job made him incredibly insecure](http://www.businessinsider.com/github-engineer-solves-imposter-syndrome-2015-5) - May 2015
+- Help Net Security: [How GitHub is Redefining Software Development in ](http://www.net-security.org/secworld.php?id=17868) - January 2015
 
-### Academic Publications
+### <i class="fa fa-file-pdf-o"></i> Academic Publications
 
-- <i class="fa fa-file-pdf-o"></i> [Adding When, Where, and Why to How](http://cisr.nps.edu/events/downloads/WECS7/wecs7_ch4.pdf) - January 2006 @ WECS7 with Andrew Reifers
-- <i class="fa fa-file-pdf-o"></i> [Information Assurance Network Design for Problem Based Learning](http://cisse.info/resources/archives/category/4-papers?download=26:s02p03-2005) - June 2005 @ CISSE9 with Sean Coyne
+- [Adding When, Where, and Why to How](http://cisr.nps.edu/events/downloads/WECS7/wecs7_ch4.pdf) - January 2006 @ WECS7 with Andrew Reifers
+- [Information Assurance Network Design for Problem Based Learning](http://cisse.info/resources/archives/category/4-papers?download=26:s02p03-2005) - June 2005 @ CISSE9 with Sean Coyne
