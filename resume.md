@@ -1,6 +1,6 @@
 ---
 author: Scott J Roberts
-title: Resume of Scott J Roberts
+title: Resume
 excerpt: I am an Incident Responder with GitHub specializing in Incident Response, Intrusion Detection, and Cyber Threat Intelligence operations.
 layout: page
 ---
@@ -90,9 +90,7 @@ My past speaking can be found in the [Talks](http://sroberts.github.io/talks/) s
 
 ### Article: [How GitHub is Redefining Software Development in Help Net Security](http://www.net-security.org/secworld.php?id=17868)
 
-__Released:__ January 2016
-
-> The security industry is slowly realizing what the developer community knew for years - collaboration is the key to and likely the future of innovation.
+__Released:__ January 2015
 
 ### Academic Publication: [ <i class="fa fa-file-pdf-o"></i> Adding When, Where, and Why to How](http://cisr.nps.edu/events/downloads/WECS7/wecs7_ch4.pdf)
 
@@ -101,9 +99,3 @@ __Released:__ January 2006 @ WECS7
 ### Academic Publication: [<i class="fa fa-file-pdf-o"></i> Information Assurance Network Design for Problem Based Learning](http://cisse.info/resources/archives/category/4-papers?download=26:s02p03-2005)
 
 __Released:__ June 2005 @ CISSE9
-
-## Skills
-
-- Digital Forensics & Incident Response
-- Threat Intelligence
-- Tool Developer
