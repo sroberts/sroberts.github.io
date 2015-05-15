@@ -7,7 +7,7 @@ __pbpaste__ and __pbcopy__ give you direct access to the OSX clipboard from a sh
 
 ## <i class="fa fa-clipboard"></i> pbpaste
 
-So say you use ⌘+c to copy something from a browser that you want to then feed through a commandline tool like [./jq](http://stedolan.github.io/jq/):
+So say you use ⌘+c to copy something from a browser that you want to then feed through a command line tool like [./jq](http://stedolan.github.io/jq/):
 
 > $ pbpaste \| jq '.'
 
