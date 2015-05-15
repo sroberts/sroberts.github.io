@@ -1,6 +1,6 @@
 ---
 layout: post
-title: pbcopy & pbpaste
+title: pbcopy and pbpaste
 ---
 
 __pbpaste__ & __pbcopy__ give you direct access to the OSX clipboard from a shell and makes it easy to tie together data from GUI based apps with command line apps.
