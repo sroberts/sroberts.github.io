@@ -3,7 +3,7 @@ layout: post
 title: pbcopy & pbpaste
 ---
 
-__pbpaste__ and __pbcopy__ give you direct access to the OSX clipboard from a shell and makes it easy to tie together data from GUI based apps with command line apps.
+__pbpaste__ & __pbcopy__ give you direct access to the OSX clipboard from a shell and makes it easy to tie together data from GUI based apps with command line apps.
 
 ## <i class="fa fa-clipboard"></i> pbpaste
 
@@ -19,7 +19,7 @@ The reverse also works:
 
 > $ cat file.txt \| pbcopy
 
-And then I can paste that into any other app using ⌘+v. This is great for grabbing the contents of files without having to open them in another application.
+pbcopy takes data from standard in and saves it to the OSX clipboard. You can paste that into any other app using ⌘+v. This is great for grabbing the contents of files without having to open them in another application.
 
 ## <i class="fa fa-compress"></i> Put it Together
 
