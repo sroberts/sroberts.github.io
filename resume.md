@@ -14,7 +14,7 @@ layout: page
 
 ## <i class="fa fa-building-o"></i> Work Experience
 
-### [GitHub](http://www.github.com): _Bad Guy Catcher_
+### [GitHub](http://www.github.com): Bad Guy Catcher
 
 <i class="fa fa-calendar-o"></i> November 2012 to Current
 
