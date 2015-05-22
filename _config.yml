@@ -39,7 +39,7 @@ pgp:
   main:           https://keybase.io/sroberts
 
 rss:
-  main:          http://sroberts.github.io/atom.xml
+  main:          http://sroberts.github.io/feed.xml
 
 gems:
 - jemoji
