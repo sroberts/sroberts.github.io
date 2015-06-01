@@ -20,9 +20,10 @@ Its a fine line to walk. In the end the best option is often to over communicate
 
 ### Be Actionable
 Most people don't care about _"XSRF whatever"_ and _"Buffer Over blah blah blah"_ [geek speak](https://www.youtube.com/watch?v=7BpsXZpAARk). They want to know what this means to them: what information was exposed and what they need to do to fix it. Whether it's needing to setup credit monitoring or rolling credentials a notification needs tell victims what they need to do to protect themselves going forward. They key is to be clear about two courses of action:
+
 - What is the affected organization doing to protect customers going forward?
 - What can affected customers do to protect themselves?
-- Bonus Points: What is the affected company doing to make sure this never happens again?
+- __Bonus Points:__ What is the affected company doing to make sure this never happens again?
 
 ### Be Responsible
 This is the bitter pill, and in today's overly litigious society one of the scariest portions, but also straight forward: Admitting you what you did wrong wrong and saying you are sorry. This may seem like a parent's advice to a child, but even surgeons are resorting to this kindergarten strategy:
