@@ -12,7 +12,7 @@ permalink:        pretty
 title:            '@sroberts'
 tagline:          'advanced persistent incident responder'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
-url:              http://sroberts.github.io/
+url:              http://sroberts.github.io
 baseurl:          /
 
 author:
@@ -39,8 +39,9 @@ pgp:
   main:           https://keybase.io/sroberts
 
 rss:
-  main:          http://sroberts.github.io/atom.xml
+  main:          http://sroberts.github.io/feed.xml
 
 gems:
 - jemoji
 - jekyll-sitemap
+- jekyll-feed
