@@ -26,8 +26,8 @@ paginate:         5
 version:          2.1.0
 
 github:
-  main:           https://github.com/sroberts/
-  repo_url:       https://github.com/sroberts/sroberts.github.io/
+  main:           https://github.com/sroberts
+  repo_url:       https://github.com/sroberts/sroberts.github.io
 
 twitter:
   main:           https://www.twitter.com/sroberts
