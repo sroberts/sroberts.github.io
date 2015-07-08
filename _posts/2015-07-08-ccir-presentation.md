@@ -8,7 +8,7 @@ In September I wrote about [Crisis Communications in Incident Response](http://s
 ## My Slides
 <script async class="speakerdeck-embed" data-id="84ec29f115674c559231237c0182e100" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-_I'm going to actually do a post soon (I hope) on building security presentations. In case you're curious I built this deck using [Deckset](http://www.decksetapp.com/). [Here's the Gist of my presentation markdown (with speaker notes)](https://gist.github.com/9f6760f24231f3678d95.git)._
+_I'm going to actually do a post soon (I hope) on building security presentations. In case you're curious I built this deck using [Deckset](http://www.decksetapp.com/). [Here's the Gist of my presentation markdown (with speaker notes)](https://gist.github.com/sroberts/9f6760f24231f3678d95)._
 
 ## My Notes & Links
 
