@@ -26,7 +26,7 @@ layout: page
 
 <i class="fa fa-calendar-o"></i> February 2012 to October 2012
 
-- Served as a Senior Intelligence Specialist, briding the gap between threat intelligence research & boots on the ground incident response consulting.
+- Served as a Senior Intelligence Specialist, bridging the gap between threat intelligence research & boots on the ground incident response consulting.
 - "Helped guide research & development priorities for the Vigilant Intelligence team.
 - Developed passive network monitoring system for detecting APT & criminal threats inside a major telecommunications provider.
 - Developed & presented multiple sets of education & marketing collatoral for client consumption.
@@ -35,7 +35,7 @@ layout: page
 
 <i class="fa fa-calendar-o"></i> April 2010 to December 2011
 
-- Established operational priorities and procedures including technology selection, hiring,documentation, as well as acting as a subject matter expert on network monitoring.
+- Established operational priorities and procedures including technology selection, hiring, documentation, as well as acting as a subject matter expert on network monitoring.
 - Conducted investigations and incident responses as a member of the Focused Operations Investigation team.
 - Developed IDS and SIEM content for Focused Operations team to identify, track, and remediate advanced targeted attacks against the enterprise.
 - Developed Tier 1 & 2: Intrusion Analyst course along side OJT and brown bag sessions.
