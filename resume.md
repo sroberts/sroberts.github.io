@@ -20,22 +20,22 @@ layout: page
 
 - Principle DFIR investigator for GitHub, the worlds repository for open & closed source software.
 - Developed comprehensive incident response, intrusion detection, & threat intelligence capabilities.
-- Spoke at numerous technical conferences on numerous topics including combining devops concepts with dfir tasks and tools.
+- Spoke at technical conferences on topics including combining devops concepts with dfir tasks and tools.
 
 ### [Vigilant (Acquired by Deloitte)](http://www2.deloitte.com/us/en/pages/risk/solutions/cyber-risk-services.html):  Senior Intelligence Specialist
 
 <i class="fa fa-calendar-o"></i> February 2012 to October 2012
 
-- Served as a Senior Intelligence Specialist, briding the gap between threat intelligence research & boots on the ground incident response consulting.
+- Served as a Senior Intelligence Specialist, bridging the gap between threat intelligence research & boots on the ground incident response consulting.
 - "Helped guide research & development priorities for the Vigilant Intelligence team.
 - Developed passive network monitoring system for detecting APT & criminal threats inside a major telecommunications provider.
-- Developed & presented multiple sets of education & marketing collatoral for client consumption.
+- Developed & presented education & marketing collateral for client consumption.
 
 ### [ManTech Intl](http://www.mantech.com/Pages/Home.aspx): SOC Technical Lead & Focused Operations Team Deputy
 
 <i class="fa fa-calendar-o"></i> April 2010 to December 2011
 
-- Established operational priorities and procedures including technology selection, hiring,documentation, as well as acting as a subject matter expert on network monitoring.
+- Established operational priorities and procedures including technology selection, hiring, documentation, as well as acting as a subject matter expert on network monitoring.
 - Conducted investigations and incident responses as a member of the Focused Operations Investigation team.
 - Developed IDS and SIEM content for Focused Operations team to identify, track, and remediate advanced targeted attacks against the enterprise.
 - Developed Tier 1 & 2: Intrusion Analyst course along side OJT and brown bag sessions.
@@ -52,7 +52,7 @@ layout: page
 
 <i class="fa fa-calendar-o"></i> May 2006 to June 2008
 
-- Conducted intrusion analysis for 450+ customers from various industries, validating attacks and providing tactical and strategic recommendations to clients for incident remediation and proactively preventing future attacks.
+- Conducted intrusion analysis for 450+ customers from diverse industries, validating attacks and providing tactical and strategic recommendations to clients for incident remediation and proactively preventing future attacks.
 - Provided documentation, research, handling & response instructions, to internal Symantec & customers security teams.
 - Assisted in architecting redesign of the Security Operations Center Technology Platform, creating a new world class analysis console and back end.
 - Leading the effort to redevelop six week security analyst training curriculum to develop trainee analysts to deal with emerging threats.
@@ -66,7 +66,7 @@ layout: page
 > The largest student-run cyber security event in the nation, with a research conference that attracts some of the biggest names in the industry, and a career fair with an impressive list of corporate partners.
 
 - Participated in 2013 & 2014 events on behalf of GitHub taking part in research paper competition, CTF, & THREADS technical conference.
-- Helped improve overall conference structure to increase value for both students and involved corporations."
+- Helped improve conference structure to increase value for both students and involved corporations.
 
 ## <i class="fa fa-university"></i> Education
 
@@ -74,7 +74,7 @@ layout: page
 
 <i class="fa fa-calendar-o"></i> January 2004 to May 2006 & Resuming Summer 2015
 
-After leaving school my senior year of college to persue my first professional position I have reenrolled in [PennState's World Campus](http://www.worldcampus.psu.edu/) to complete my degree online. Anticipated completion Spring of 2016.
+After leaving school my senior year of college to pursue my first professional position I have re-enrolled in [PennState's World Campus](http://www.worldcampus.psu.edu/) to complete my degree online. Anticipated completion Spring of 2016.
 
 ## <i class="fa fa-users"></i> Publications
 
