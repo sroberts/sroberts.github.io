@@ -29,7 +29,7 @@ layout: page
 - Served as a Senior Intelligence Specialist, bridging the gap between threat intelligence research & boots on the ground incident response consulting.
 - "Helped guide research & development priorities for the Vigilant Intelligence team.
 - Developed passive network monitoring system for detecting APT & criminal threats inside a major telecommunications provider.
-- Developed & presented multiple sets of education & marketing collatoral for client consumption.
+- Developed & presented multiple sets of education & marketing collateral for client consumption.
 
 ### [ManTech Intl](http://www.mantech.com/Pages/Home.aspx): SOC Technical Lead & Focused Operations Team Deputy
 
@@ -74,7 +74,7 @@ layout: page
 
 <i class="fa fa-calendar-o"></i> January 2004 to May 2006 & Resuming Summer 2015
 
-After leaving school my senior year of college to persue my first professional position I have reenrolled in [PennState's World Campus](http://www.worldcampus.psu.edu/) to complete my degree online. Anticipated completion Spring of 2016.
+After leaving school my senior year of college to pursue my first professional position I have re-enrolled in [PennState's World Campus](http://www.worldcampus.psu.edu/) to complete my degree online. Anticipated completion Spring of 2016.
 
 ## <i class="fa fa-users"></i> Publications
 
