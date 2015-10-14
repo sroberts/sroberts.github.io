@@ -7,13 +7,13 @@ Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
 
 ## 2015
 - __Upcoming!__ [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS
-- [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!) 
+- [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!)
 - [FIRST](http://www.first.org/conference/2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communications-for-incident-response-first15))
 - [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet ([Slides](https://speakerdeck.com/sroberts/the-most-dangerous-game))
 - [BSides Columbus 2015](http://www.securitybsides.com/w/page/81789821/BSidesCMH2015): A Basic Guide to Advanced Incident Response
 
 ## 2014
-- NYU-Poly CSAW THREADS: Building Your Own DFIR Sidekick ([Slides](https://speakerdeck.com/sroberts/building-your-own-dfir-sidekick-threads-edition))
+- NYU-Poly CSAW THREADS: Building Your Own DFIR Sidekick ([Slides](https://speakerdeck.com/sroberts/building-your-own-dfir-sidekick-threads-edition) & [Video](https://vimeo.com/114701077))
 - [Dev BootCamp: NYC](http://www.meetup.com/DBCx-NYC/events/218621973/): Happy to Security For You
 - [BSidesDFW](http://www.bsidesdfw.com): A Game of Pwns ([Slides](https://speakerdeck.com/sroberts/a-game-of-pwns))
 - [Facebook Security@Scale](http://facebook.com): Building Your Own DFIR Sidekick
