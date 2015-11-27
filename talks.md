@@ -6,7 +6,7 @@ title: Talks
 Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
 
 ## 2015
-- __Upcoming!__ [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS
+- [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS ([Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx))
 - [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!)
 - [FIRST](http://www.first.org/conference/2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communications-for-incident-response-first15))
 - [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet ([Slides](https://speakerdeck.com/sroberts/the-most-dangerous-game))
