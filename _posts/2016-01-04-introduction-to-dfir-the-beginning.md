@@ -66,7 +66,7 @@ That list above is a lot but it covers the broad set of skills DFIRs have. Is ev
 
 ![T-Shaped People](https://docs.google.com/drawings/d/1c6xxt6JktO08HT6fIxEaCW50fVjHRvGnzbpECPMUmqk/pub?w=960&h=720)
 
-[_T-Shaped People_](https://en.wikipedia.org/wiki/T-shaped_skills) have deep skills in specific areas and more limited in skills in others. [I've talked before]() about how I'm confident in some of my skills and less so in other skills. One of the things that makes DFIR different than many other professions is most DFIRs are jack of all trade types. I'm not excellent at malware analysis, but I can do a little bit. At the same time I'm better at Network Forensics than most.
+[_T-Shaped People_](https://en.wikipedia.org/wiki/T-shaped_skills) have deep skills in specific areas and more limited in skills in others. [I've talked before](http://sroberts.github.io/2015/05/02/imposter-syndrome-in-dfir/#the-jack-of-all-trades-inferiority) about how I'm confident in some of my skills and less so in other skills. One of the things that makes DFIR different than many other professions is most DFIRs are jack of all trade types. I'm not excellent at malware analysis, but I can do a little bit. At the same time I'm better at Network Forensics than most.
 
 Why is this important? Two key reasons:
 
