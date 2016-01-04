@@ -16,7 +16,7 @@ I talk a lot about Digital Forensics & Incident Response (DFIR) in terms of spec
 
 ## What is DFIR?
 
-Digital Forensics & Incident Response is a multidiciplinary profession that focuses on identifying, investigating, and remediating computer network exploitation. This can take various forms and involves a wide variety of skills, kinds of attackers, an kinds of targets. We'll discuss those more below.
+Digital Forensics & Incident Response is a multidisciplinary profession that focuses on identifying, investigating, and remeidating computer network exploitation. This can take various forms and involves a wide variety of skills, kinds of attackers, an kinds of targets. We'll discuss those more below.
 
 ## Do you even want to be a DFIR?
 
@@ -38,7 +38,7 @@ DFIR is a mix of hard (technical) and soft (people & process) skills. DFIR is a 
 | Type | Resource | Notes |
 | ---- | -------- | ----- |
 | Video | [Threat Analysis of Complex Attacks](https://www.youtube.com/watch?v=Yh1XZf0hLS4) | From SANS DFIR Summit in 2015. Shows the variety of skills across IR analyzing an interesting attack. ([Honorable Mention #1](https://www.youtube.com/watch?v=r9Ctji9djxI), [Honorable Mention #2](https://www.youtube.com/watch?v=LYGi12N6oFQ)) |
-| Link | [Journey into Incident Response](http://journeyintoir.blogspot.com/) | Corey is a veteren incident responder who shares tons of resources big and small on his blog. |
+| Link | [Journey into Incident Response](http://journeyintoir.blogspot.com/) | Corey is a veteran incident responder who shares tons of resources big and small on his blog. |
 | Tool | [Redline](https://www.fireeye.com/services/freeware/redline.html) & [OSXCollector](http://yelp.github.io/osxcollector/) | Live response tools. Windows and OSX respectively. |
 | Book | [Digital Forensics and Incident Response 3rd Edition](http://www.amazon.com/Incident-Response-Computer-Forensics-Edition/dp/0071798684) | The name is a give away, but it's a legitimately great book that covers the breath of IR. |
 | Person | [@jackcr](https://www.twitter.com/jackcr) - Jack Crook | Jack's Twitter feed is a letter to new analysts. Easy things to learn and hard truths in the same breath. Every DIFR should read it. Honorable Mention to [@hacks4pancakes](https://twitter.com/hacks4pancakes). |
@@ -75,6 +75,6 @@ Why is this important? Two key reasons:
 
 ## What's Next?
 
-Originally I planned on making this one big post but too many people recommended too many great resources and things spiraled out of control. Instead I'm dividing this up into seperate posts. First we'll start with the _technical skills_ then move on to _soft skills_ which are less technical, but still important (sometimes even more so). Just like the _DFIR Skills_ section above I'll have a video, link tool, book, and person for each.
+Originally I planned on making this one big post but too many people recommended too many great resources and things spiraled out of control. Instead I'm dividing this up into separate posts. First we'll start with the _technical skills_ then move on to _soft skills_ which are less technical, but still important (sometimes even more so). Just like the _DFIR Skills_ section above I'll have a video, link tool, book, and person for each.
 
-Yeah... that's a lot. A post once a day for the next 10 business days. Hopefully it'll be a great set of resources for newbies and long time practitoners alike. No DFIR knows it all, so there's always a chance to learn.
+Yeah... that's a lot. A post once a day for the next 10 business days. Hopefully it'll be a great set of resources for newbies and long time practitioners alike. No DFIR knows it all, so there's always a chance to learn.
