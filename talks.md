@@ -19,7 +19,7 @@ Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
 - [Facebook Security@Scale](http://facebook.com): Building Your Own DFIR Sidekick
 - [OpenDNS S4](http://labs.opendns.com/2014/09/03/s4-incident-responder-conference-september-18th-2014-san-francisco-ca/): Building Your Own DFIR Sidekick
 - [ArchC0N](http://www.archc0n.org/): A Basic Guide to Advanced Incident Response
-- [TechTalk Live](http://www.techtalklive.org): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
+- [TechTalk Live](http://www.techtalklive.org/Pages/Home.aspx): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
 - Closed Conference: How GitHub Uses GitHub to Defend GitHub ([Slides](https://speakerdeck.com/sroberts/how-github-uses-github-to-defend-github))
 
 ## 2013

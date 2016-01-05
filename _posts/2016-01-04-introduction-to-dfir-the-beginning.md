@@ -9,8 +9,6 @@ One of my favorite things is talking to students and people new to the security 
 
 Digital Forensics & Incident Response is a multidisciplinary profession that focuses on identifying, investigating, and remeidating computer network exploitation. This can take varied forms and involves a wide variety of skills, kinds of attackers, an kinds of targets. We'll discuss those more below.
 
-## Do you even want to be a DFIR?
-
 First though lets start with a core question: Do you want to do DFIR? You'll need the following traits (not all, but at least a majority of them):
 
 - __Curiosity:__ It's always about what you don't know.
@@ -36,7 +34,7 @@ Lets get started.
 
 ## DFIR Skills
 
-DFIR is a mix technical and soft (people & process) skills. DFIR is a skill unto itself we'll start with some general resources then get into specifics based on core DFIR skills.
+DFIR is a mix technical and soft (people & process) skills. DFIR is a skill unto itself we'll start with some general resources then get into specifics..
 
 | Type | Resource | Notes |
 | ---- | -------- | ----- |
