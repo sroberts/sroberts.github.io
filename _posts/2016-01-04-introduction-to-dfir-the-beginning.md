@@ -20,9 +20,7 @@ First though lets start with a core question: Do you want to do DFIR? You'll nee
 
 Want to know more about what DFIR looks like? I recommend reading [The Cuckoo's Egg](http://www.amazon.com/The-Cuckoos-Egg-Tracking-Espionage/dp/1416507787/ref=pd_sim_14_17) by Clifford Stole. If that gets you excited journey on!
 
-## This Series
-
-DFIR, at least as I view it, is a broad field so here are some of the basic of the things you should know as an introduction to DFIR and where to learn more. Over the coming days I'm going to post about various topics in DFIR (more below) and people learn differently I will provide a few different types of resources. Each topic will have:
+DFIR is a broad field so here are some of the basic of the things you should know as an introduction to DFIR and where to learn more. Over the coming days I'm going to post about various topics in DFIR (more below) and people learn differently I will provide a few different types of resources. Each topic will have:
 
 - __A video:__ For an easy broad introduction.
 - __A link:__ To a site focused on that topic.
@@ -34,7 +32,7 @@ Lets get started.
 
 ## DFIR Skills
 
-DFIR is a mix technical and soft (people & process) skills. DFIR is a skill unto itself we'll start with some general resources then get into specifics..
+DFIR is a mix technical and soft (people & process) skills. DFIR is a skill unto itself we'll start with some general resources then get into specifics.
 
 | Type | Resource | Notes |
 | ---- | -------- | ----- |
@@ -67,7 +65,7 @@ I think soft skills get overlooked in the DFIR world. We focus so deeply on esot
 
 ## T Shaped People
 
-That list above is a lot but it covers the broad set of skills DFIRs have. Is every DFIR a master of all these skills? Not at all (Ok, I know one guy who might be but he's total freak). Most DFIRs specialize in a few aspects and have less knowledge in others.
+The last thing we'll talk about is one way to think about understanding skills as a DIFR. The lists above cover the broad range of skills DFIRs have. Is everyone a master of all these skills? Not at all (Ok, I know one person who might be but that's a total anomaly). Most DFIRs specialize in a few aspects and have less knowledge in others.
 
 ![T-Shaped People](https://docs.google.com/drawings/d/1c6xxt6JktO08HT6fIxEaCW50fVjHRvGnzbpECPMUmqk/pub?w=960&h=720)
 
@@ -77,9 +75,3 @@ Why is this important? Two key reasons:
 
 - Not everyone needs to have the same skills. It's ok to have an affinity for a one skill and struggle a bit more with another.
 - DFIR teams must focus on complimentary skills. If you have a team strong in memory forensics perhaps you want your next hire to be a strong malware analyst. No one person can be an expert in everything, but your team should have strength across the board.
-
-## What's Next?
-
-Originally I planned on making this one big post but too many people recommended too many great resources and things spiraled out of control. Instead I'm dividing this up into separate posts. First we'll start with the _technical skills_ then move on to _soft skills_ which are less technical, but still important (sometimes even more so). Just like the _DFIR Skills_ section above I'll have a video, link tool, book, and person for each.
-
-Yeah... that's a lot. A post once a day for the next 10 business days. Hopefully it'll be a great set of resources for newbies and long time practitioners alike. No DFIR knows it all, so there's always a chance to learn.
