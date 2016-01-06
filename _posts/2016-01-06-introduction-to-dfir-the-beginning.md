@@ -18,7 +18,7 @@ First though lets start with a core question: Do you want to do DFIR? You'll nee
 - __An Affinity for Stress:__ You don't have to like it, but you must handle it.
 - __The Taste for Blood:__ Great DFIR engineers want to win and hate to lose.
 
-Want to know more about what DFIR looks like? I recommend reading [The Cuckoo's Egg](http://www.amazon.com/The-Cuckoos-Egg-Tracking-Espionage/dp/1416507787/ref=pd_sim_14_17) by Clifford Stole. If that gets you excited journey on!
+Want to know more about what DFIR looks like? I recommend reading [The Cuckoo's Egg](http://www.amazon.com/The-Cuckoos-Egg-Tracking-Espionage/dp/1416507787/ref=pd_sim_14_17) by Clifford Stoll. If that gets you excited journey on!
 
 DFIR is a broad field so here are some of the basic of the things you should know as an introduction to DFIR and where to learn more. Over the coming days I'm going to post about various topics in DFIR (more below) and people learn differently I will provide a few different types of resources. Each topic will have:
 
@@ -75,3 +75,6 @@ Why is this important? Two key reasons:
 
 - Not everyone needs to have the same skills. It's ok to have an affinity for a one skill and struggle a bit more with another.
 - DFIR teams must focus on complimentary skills. If you have a team strong in memory forensics perhaps you want your next hire to be a strong malware analyst. No one person can be an expert in everything, but your team should have strength across the board.
+
+## Coming Next
+That's the start. Next up will be a discussion of System Forensics. I hope this series of posts will provide a go to place for someone who wants to get involved in a new aspect of DFIR; either as someone who has new to DFIR or a long time DFIR.
