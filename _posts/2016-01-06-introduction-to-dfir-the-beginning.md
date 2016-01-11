@@ -115,7 +115,7 @@ I already talk a lot about Threat Intelligence ([1](http://sroberts.github.io/20
 | ---- | -------- | ----- |
 | Video | [Cyber Intelligence Concrete Analysis in a Fluid World ](https://www.youtube.com/watch?v=YS9f1a6T_b4) | I found this while researching this post. Good overview by [Coleman Kane](https://twitter.com/colemankane). |
 | Link | [Christian: A Quick Look at A Likely NewPOSThings Sample](http://www.cyintanalysis.com/a-quick-look-at-a-likely-newposthings-sample/) | Starting with a simple hash this intel analysis goes deep into the infrastructure of a POS malware tool. |
-| Tool | [Maltego](https://www.paterva.com/web6/products/maltego.php) | Intelligence isn't about tools, but tools are really helpful. Having a graphing tool makes bringing multiple datasets really powerful. Given Palantir is $$$$ my go to is Maltego. |
+| Tool | [Maltego](https://www.paterva.com/web6/products/maltego.php) | Intelligence isn't about tools, but tools are really helpful. Having a graphing tool makes bringing multiple datasets really powerful. Given Palantir is $$$ my go to is Maltego. |
 | Book | [Structured Analytic Techniques For Intelligence Analysis](https://www.goodreads.com/book/show/7818985-structured-analytic-techniques-for-intelligence-analysis) | This is one of the heaviest books I recommend, and I'm only part way through, but it's changed my approach. |
 | Person | [@CYINT_dude](https://twitter.com/CYINT_dude) - CYINT_dude | I don't honestly know who this is, but I love basically all their tweets. Does a really great job tying cyber actions to real life impacts. |
 
