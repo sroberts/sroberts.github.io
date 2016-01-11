@@ -89,11 +89,11 @@ This is one where people will disagree with me. I don't think every DFIR needs t
 
 | Type | Resource | Notes |
 | ---- | -------- | ----- |
-| Video | [Lenny Zeltzer's Introduction to Malware Analysis](https://vimeo.com/9474345) | There are only a few speakers I will always take the chance to hear. Lenny is one of them. I learn something every single time. |
+| Video | [Lenny Zeltzer's Introduction to Malware Analysis](https://vimeo.com/9474345) | There are only a handful speakers I will always take the chance to hear. Lenny is one of them. I learn something every single time. |
 | Link | [Malwr](https://malwr.com/) | So this is actually a tool which analyzes malware by running it but it's also a great place to experiment and learn. |
 | Tool | [Yara](https://plusvic.github.io/yara/) | It's basically AV you control. Also check out [this intro video](https://www.youtube.com/watch?v=TTLuy0gx5vE). |
 | Book | [Practical Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901/ref=pd_sim_14_21) | Easily the best book I've read for getting stronger in RE, this takes a very real world approach. |
-| Person | [@zeltzer](https://www.twitter.com/zeltzer) | There are tons of amazing malware analysts. Lenny is the best _teacher_ of them all. |
+| Person | [@zeltzer](https://www.twitter.com/zeltzer) - Lenny Zeltzer | There are tons of amazing malware analysts. Lenny is the best _teacher_ of them all. |
 
 ### Log Analysis
 
@@ -153,6 +153,8 @@ I think soft skills get overlooked in the DFIR world. We focus so deeply on esot
 
 My schooling with regard to investigative process came at the hands of a Marine counterintelligence sergeant and a former Atlanta police officer turned disk forensics manager. I wish I could bottle up all they taught me and sell it. The combination was incredible. I learned how to question my own biases, structure data, test theories, gather information from others, even a little about how to entice further information from the bad guys themselves. It was an amazing education.
 
+Sadly I don't have good resources yet to teach that. I'll work on that.
+
 ### Operational Security
 
 Being a DFIR, or security researcher of any kind, is dangerous.
@@ -162,11 +164,11 @@ Being a DFIR, or security researcher of any kind, is dangerous.
 - [KrebsonSecurity: Hacker Who Sent Me Heroin Faces Charges in U.S.](http://krebsonsecurity.com/2015/10/hacker-who-sent-me-heroin-faces-charges-in-u-s/)
 - [Forbes: Son of Kaspersky Labs Founder Kidnapped, Lovingly](http://www.forbes.com/sites/juliaioffe/2011/04/27/son-of-kaspersky-labs-founder-kidnapped-lovingly/)
 
-Yeah, literally dangerous. Like kidnapped, getting shot dangerous. If you live in a country like the US or somewhere in Western Europe those are a lot less likely. Getting hacked, by criminals or an intelligence agency, can still happen anywhere. Being able to protect yourself and operate securely is critical, even above and beyond what we recommend for those we protect. Patching and being smart about what you click and where you visit are just the start, especially when DFIRs often deliberately download malware and visit the sketchy parts of the Internet.
+[Yeah, literally dangerous. Like kidnapped, getting shot dangerous.](https://www.youtube.com/watch?v=jZOywn1qArI) If you live in a country like the US or somewhere in Western Europe those are a lot less common. Getting compromised yourself, by criminals or an intelligence agency, can still happen anywhere. Being able to protect yourself and operate securely is critical, even above and beyond what we recommend for those we protect. Patching and being smart about what you click and where you visit are just the start, especially when DFIRs often deliberately download malware and visit the sketchy parts of the Internet. Encryption, limiting your surface area, VPNs, etc are all necessary.
 
 ### Communication
 
-A good incident response leaves the IR team. Communication to victims. Communication to management. Communication to customers. Communication to 3rd party peers. Even communication with law enforcement. [I've talked about this before](http://sroberts.github.io/2014/09/22/crisis-comms-for-ir/) but honestly I think it could do with a more comprehensive treatment.
+A good incident response leaves the IR team. Communication to victims. Communication to management. Communication to customers. Communication to 3rd party peers. Even communication with law enforcement. [I've talked about this before](http://sroberts.github.io/2014/09/22/crisis-comms-for-ir/) but I think it could do with a more comprehensive treatment.
 
 ### Working in a Team
 
