@@ -40,7 +40,7 @@ layout: page
 - Developed IDS and SIEM content for Focused Operations team to identify, track, and remediate advanced targeted attacks against the enterprise.
 - Developed Tier 1 & 2: Intrusion Analyst course along side OJT and brown bag sessions.
 
-### [Mandiant (Acquired by FireEye)](https://www.mandiant.com",): Security Consultant
+### [Mandiant (Acquired by FireEye)](https://www.mandiant.com): Security Consultant
 
 <i class="fa fa-calendar-o"></i> June 2008 to April 2010
 
