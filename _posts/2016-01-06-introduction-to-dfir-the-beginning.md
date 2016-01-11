@@ -172,7 +172,11 @@ A good incident response leaves the IR team. Communication to victims. Communica
 
 ### Working in a Team
 
-DFIR is a team sport. We work in groups (more on that later) under very high stress situations where details matter and actions make a difference. Being able to delegate, be delegated to, sharing, coordinating, and doing so effectively in a time crunch is a big deal.
+[DFIR is a team sport](http://media0.giphy.com/media/reKoKNEqzn596/giphy.gif). We work in groups (more on that later) under very high stress situations where details matter and actions make a difference. Being able to delegate, be delegated to, sharing, coordinating, and doing so effectively in a time crunch is a big deal.
+
+### Gaining Experience
+
+One of the most important pieces to being a great DFIR is experience. Learning is great, reading and studying teaches a lot, but nothing teaches quite as much as actually doing it. There are elements of incident response that can be done at home, malware analysis is a good example. But some things, anything at scale, can only be done in the real world, working actual incidents. For this growing DFIRs need to be places where there are incidents. There are two options: work for organizations actively under attack or work for a company that consults for companies under constant attack. I cut my teeth at Symantec and Mandiant, but I'd also recommend the Big 4 consulting firms or other IR boutiques like [Optiv](https://www.optiv.com/) or [Stroz Friedenberg](http://www.strozfriedberg.com). For companies under attack... well that's almost everyone, but the [Defense Industrial Base](http://www.dhs.gov/defense-industrial-base-sector), financial, and the [Fortune100](http://fortune.com/fortune500/) are good candidates.
 
 ## T Shaped People
 
