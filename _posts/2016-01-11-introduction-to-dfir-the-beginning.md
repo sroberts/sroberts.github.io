@@ -141,7 +141,7 @@ One of the key things I believe in is the need for more security people of all s
 | Link | [CodeAcademy: Learn Python](https://www.codecademy.com/learn/python) | If you want hands on this is the place to learn Python. You'll be writing real code in minutes. |
 | Tool | [Python](https://www.python.org/) | People will argue, but it's my go to. Also look at [Go](https://golang.org/). |
 | Book | [Grey Hat Python](https://www.goodreads.com/book/show/5044768-gray-hat-python) | I didn't love this book, too penetration testing heavy for me, but it got the key points across. |
-| Person | [@pidydx](https://www.twitter.com/pidydx) - Sean Gillespie | A passionate DFIR+Developer and one of the major non-[Google GRR[(https://github.com/google/grr)] developers. |
+| Person | [@pidydx](https://www.twitter.com/pidydx) - Sean Gillespie | A passionate DFIR+Developer and one of the major non-[Google GRR](https://github.com/google/grr)] developers. |
 
 > _Aside:_ I realize I've been incredibly Python heavy. I know (and in fact personally use) other languages that are useful for DFIR. Python is simply, in my opinion, the easiest to get started and be effective with. If you have experience with something else absolutely start there. Focus on text manipulation, basic networking, accessing APIs using REST, and basic system management.
 
