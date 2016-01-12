@@ -3,7 +3,7 @@ layout: post
 title: A Year Later - 2016 Goals
 ---
 
-<img src="http://media2.giphy.com/media/PEf5lEBpviP72/giphy.gif" width="1200">
+<img alt="fireworks!!!" src="http://media2.giphy.com/media/PEf5lEBpviP72/giphy.gif" width="1200">
 
 While not being much for New Years Resolutions (though I do love fireworks) last year I shared [some professional goals](http://sroberts.github.io/2015/01/06/2015-professional-goals/). I even advocated accountability. I figure I should share how I did.
 
@@ -32,12 +32,12 @@ Not great. Not terrible... but not great. I accomplished a lot of what I was hop
 I'm keeping it simpler, focusing on creating habits. These are things I want to do every day:
 
 - __Chess:__ I'm not great at chess but I'd like to get better. Playing seems the best way.
-- __Code:__ Pleasure or professional, either way. Lately it's been a lot on Threat_Note.
+- __Code:__ Pleasure or professional, either way. Since the first it's been a lot of hacking on [Brian Warehime](https://twitter.com/brian_warehime)'s excellent [Threat_Note](https://github.com/defpoint/threat_note).
 - __Cook:__ Cooking has been good for me and I want to keep it up. [Blue Apron](https://www.blueapron.com/) has been helpful (not to mention tasty).
 - __Exercise:__ Biking or walking the dog.
 - __Read:__ Pleasure or professional, either way (again!).
 - __Write:__ Blog or another project but the more I write the better.
 
-These goals for 2016 are a lot more flexible. They're all things I do but not yet the habits I'd like them to be. I've been using the [Momentum](http://momentum.cc/) app to keep track and I find it's a great balance. So far I've written and coded 10 days in a row, played chess for 9, read and exercised for 3, and cooking has been the hardest with two days.
+These goals for 2016 are a lot more flexible. They're all things I do but not yet the habits I'd like them to be. I've been using the [Momentum](http://momentum.cc/) app to keep track and I find it's a great balance. In the 10 days since I started I've written and coded for 10 days in a row, played chess for 9, read and exercised for 3, and cooking has been the hardest with 2 days.
 
-So if you're interested in suggesting things to read, write, cook, code or want to play some chess let me know. Now I'm going to go check off my writing for today!
+If you're interested in suggesting things to read, write, cook, code or want to play some chess let me know. Now I'm going to go check off my writing for today!
