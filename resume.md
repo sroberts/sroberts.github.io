@@ -29,7 +29,7 @@ layout: page
 <i class="fa fa-calendar-o"></i> February 2012 to October 2012
 
 - Served as a Senior Intelligence Specialist, bridging the gap between threat intelligence research & boots on the ground incident response consulting.
-- "Helped guide research & development priorities for the Vigilant Intelligence team.
+- Helped guide research & development priorities for the Vigilant Intelligence team.
 - Developed passive network monitoring system for detecting APT & criminal threats inside a major telecommunications provider.
 - Developed & presented education & marketing collateral for client consumption.
 
