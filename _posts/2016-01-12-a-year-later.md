@@ -40,4 +40,8 @@ I'm keeping it simpler, focusing on creating habits. These are things I want to 
 
 These goals for 2016 are a lot more flexible. They're all things I do but not yet the habits I'd like them to be. I've been using the [Momentum](http://momentum.cc/) app to keep track and I find it's a great balance. In the 10 days since I started I've written and coded for 10 days in a row, played chess for 9, read and exercised for 3, and cooking has been the hardest with 2 days.
 
+![Momentum Screenshot](/public/momentum.png)
+
+> _My Momentum for Mac as of Jan 14_
+
 If you're interested in suggesting things to read, write, cook, code or want to play some chess let me know. Now I'm going to go check off my writing for today!
