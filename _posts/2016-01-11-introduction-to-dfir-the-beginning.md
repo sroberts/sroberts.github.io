@@ -81,6 +81,8 @@ Between malware analysis and , memory & disk forensics we've got analyzing hosts
 | Book | [The Tao of Network Security Monitoring](http://www.amazon.com/Tao-Network-Security-Monitoring-Intrusion/dp/0321246772/ref=sr_1_3) | I think every Network Analysis type I know cut their teeth with Tao. Somewhat dated now, but the seminal work on the topic. |
 | Person | [@Hectaman](https://www.twitter.com/Hectaman) - Liam Randall | Doing some amazing stuff with the Bro network intrusion detection system. |
 
+> @[Richard Bejtlich](https://twitter.com/taosecurity) & @[Chris Sanders](https://twitter.com/chrissanders88) both reached out to me suggesting I look at Richard's newer book: [The Practice of Network Security Monitoring: Understanding Incident Detection and Response](https://www.goodreads.com/book/show/17346927-the-practice-of-network-security-monitoring). Chris also mentioned his book: [Practical Packet Analysis: Using Wireshark to Solve Real-World Network Problems](https://www.goodreads.com/book/show/845795.Practical_Packet_Analysis). I mentioned Tao since it was the book I cut my teeth on, but these gentlemen are correct; these are better modern options. Both are on my reading list now.
+
 __Note:__ This is becoming increasingly difficult as encryption becomes more widely deployed. Finding ways to handle/work around data you can't always read is vital and one of the key reasons we also focus on the host.
 
 ### Malware Triage
