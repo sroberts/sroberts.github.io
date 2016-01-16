@@ -46,7 +46,7 @@ Power seems at most partially related to security, but USB based charging is com
 
 Simple and boring but no less real, IT resources get lost all the time. Cell phones left in cabs, laptops stolen in cafes, all happen, and all pose a risk. It's hard to stay backed up on the go and it can be extra difficult to recover these devices in a foreign country.
 
-### <i class="fa fa-angle-double-right"></i> Lastly... The Honeypot
+### <i class="fa fa-angle-double-right"></i> Lastly... [The Honeypot](http://cdn.meme.am/instances/63396171.jpg)
 
 I'm not going into this one, but [it happens](https://en.wikipedia.org/wiki/Clandestine_HUMINT_asset_recruiting#Love.2C_honeypots.2C_and_recruitment).
 
