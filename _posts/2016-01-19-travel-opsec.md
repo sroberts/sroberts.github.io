@@ -3,9 +3,9 @@ layout: post
 title: Travel OpSec
 ---
 
-I spent the middle of June attending the FIRST 2015 conference in Berlin. This was a great conference, good talks (including yours truely) and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
+Last year I was lucky enough to go to [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truely](http://sroberts.github.io/2015/07/08/ccir-presentation/)) and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
 
-Travelling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even a little more hightend. As a result we ended up having some academic conversations about operational security while traveling internationally, and is a worthwhile consideration.
+Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even a little more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally, and is a worthwhile consideration.
 
 ## <i class="fa fa-angle-right"></i> The Challenges
 
@@ -70,6 +70,8 @@ Borrower laptops are a common approach, though I'm not crazy about them. While t
 2. they aren't inheriently harder to compromise than the users own laptop.
 3. Since they aren't the users _own system_ the user is often less careful with it, resulting in risk.
 
+To this end the CrowdStrike team released some of their [scripts for setting up an ArchLinux laptop for travel](https://github.com/CrowdStrike/travel-laptop) which looks ideal for setting up loaner laptops.
+
 I'm a far bigger fan of devices like my [iPad](http://www.apple.com/ipad/) or [Chromebook](http://www.dell.com/us/business/p/chromebook-11/pd?oc=cacb003&model_id=chromebook-11&l=en&s=bsd) for travel. They're easy to wipe & reset, don't store much data, designed to resist attack, and cheaper than a full laptop.
 
 ![Chromebook](https://storage.googleapis.com/hw-chromebooks/Samsung%20Chromebook%202/gallery-SamsungChromebook211-1-card-F101_SamsungChromebook211_SILVER.jpg)
@@ -130,7 +132,19 @@ That doesn't mean except for dinner. That doesn't mean unless you want to go for
 
 ### <i class="fa fa-globe"></i> International Travel Rule #5: Keep Things Turned Off & Logged Out
 
-Once you rule out physical access the only attack Wifi, Bluetooth, etc. It's inconvinet but it works wonders, otherwise you may find yourself randomly connecting to .
+Once you rule out physical access the only attack Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to random Bluetooth devices or wireless networks.
+
+## Extreme Hardening
+
+So lets say for some reason you really, actually, insistently must take a full on laptop to a foreign country. To make matters worse it's one that's passive aggressively hostile towards yours. Well in that case you'll want some serious system hardening in place. Your goal is to remove as much attack surface as possible and beef up the things you must have exposed. I mostly use OSX, so here are a couple of the better hardening guidelines for Macbooks:
+
+- <i class="fa fa-list-ol"></i> [Harden the World: Mac OSX 10.11 El Capitan](http://docs.hardentheworld.org/OS/OSX_10.11_El_Capitan/)
+- <i class="fa fa-list-ol"></i> [GitHub: drduh/OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
+
+There's also this lockdown tool by the always awesome [Scott Piper](https://twitter.com/0xdabbad00):
+- <i class="fa fa-wrench"></i> [GitHub: SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown)
+
+I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implimenation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
 
 ## Conclusion
 
