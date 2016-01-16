@@ -1,0 +1,35 @@
+---
+layout: post
+title: Your First 30 Mins with osquery
+---
+
+## Building Real Queries
+
+Just as an example we're going to use osquery to search for common methods of [OSX malware persistence based on this presentation ](https://s3.amazonaws.com/s3.synack.com/Synack_Shakacon_OSX_Malware_Persistence.pdf) by @patrickwardel:
+
+### LaunchDaemons/Agents
+
+### LoginWindow
+
+### Launchd
+
+### Kexts
+
+### XProtect
+
+```sqlite
+SELECT * FROM xprotect_reports;
+```
+
+### Cron Jobs
+
+### Login/Logout Hooks
+
+### Login Items
+
+### Deprecated Startup Items
+
+~/Library/Preferences/ByHost/
+	->	com.apple.loginwindow.<hardware	UUID>.plist
+
+## What comes next?
