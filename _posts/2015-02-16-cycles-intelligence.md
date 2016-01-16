@@ -91,6 +91,5 @@ The intelligence cycle isn't something that gets used day in and day out in DFIR
 ## More Reading
 - [Wikipedia: Intelligence Cycle](http://en.wikipedia.org/wiki/Intelligence_cycle)
 - [Wikipedia: Intelligence Cycle Management](http://en.wikipedia.org/wiki/Intelligence_cycle_management)
-- [Intelligence.gov: A Dynamic Process for Fueling Dynamic Solutions](http://www.intelligence.gov/mission/how-intelligence-works.html)
 - [PSU.edu: Intelligence Process](https://courseware.e-education.psu.edu/courses/bootcamp/lo07/09.html)
 - [CIA.gov: CIA Kent Center Occasional Papers](https://www.cia.gov/library/kent-center-occasional-papers)

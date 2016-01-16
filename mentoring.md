@@ -13,7 +13,7 @@ I don’t profess to be the world’s best example to follow in any respect, how
 * I’ve lived on both coasts, in Washington DC (twice), San Francisco, New York City (ok ok... New Jersey), and now in Columbus, Ohio.
 * People have been surprisingly willing to let me talk at them and as a result I've spoken at some great industry events like ShmooCon, BayThreat, SummerCon, and [others](http://sroberts.github.io/talks/).
 
-If you’d like to work together, you can [write me a letter](mailto:sroberts@github.com) responding to the questions below; I’ll write back to all letters I receive in this way within two weeks, no matter what. In response to the most exceptional letters, I’ll propose further correspondence—and in certain cases, an ongoing mentoring relationship.
+If you’d like to work together, you can write me a letter (<a href="http://www.google.com/recaptcha/mailhide/d?k=01ZLygg2Rp1J_40Q7hU7imBw==&amp;c=iGm-tkFOBm4udaP8_v1IOC4s-1cGK7XX6y5ma3M9v1Q=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZLygg2Rp1J_40Q7hU7imBw\75\75\46c\75iGm-tkFOBm4udaP8_v1IOC4s-1cGK7XX6y5ma3M9v1Q\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">s...</a>@gmail.com) responding to the questions below; I’ll write back to all letters I receive in this way within two weeks, no matter what. In response to the most exceptional letters, I’ll propose further correspondence—and in certain cases, an ongoing mentoring relationship.
 
 * Tell me about yourself. What do you do? What are your goals?
 * What do you hope to gain from our mentoring relationship?
@@ -23,4 +23,4 @@ If you’d like to work together, you can [write me a letter](mailto:sroberts@gi
 
 I look forward to learning together.
 
-Inspired by a distributed mentoring movement.<!--](http://mentoring.is).-->
+> _Inspired by a distributed mentoring movement.<!--](http://mentoring.is).-->_
