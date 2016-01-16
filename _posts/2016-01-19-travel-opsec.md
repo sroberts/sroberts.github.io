@@ -38,7 +38,7 @@ The basic formula of both of these attacks is _physical access + time = compromi
 Moving past physical attacks there are other ways to steal data in hotels. The [DarkHotel APT group](https://securelist.com/blog/research/66779/the-darkhotel-apt/
 ) __targets victims by compromising the networks of common traveler destinations__ such as international hotels and uses their acces to infect victims with trojans, pilfering data at their convenience.
 
-### <i class="fa fa-angle-double-right"></i> [Buckshot Yankee](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/24/AR2010082406495.html) & [Stuxtnet Style USB Attacks](http://www.vanityfair.com/news/2011/04/stuxnet-201104) + Accidental Syncing
+### <i class="fa fa-angle-double-right"></i> [Buckshot Yankee](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/24/AR2010082406495.html) & [Stuxtnet Style USB Attacks](http://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/) + Accidental Syncing
 
 Power seems at most partially related to security, but USB based charging is common for tablets and phones even laptops. For certain advanced attack groups __USB device attacks are a way to compromise offline devices__. Plugging a device into a USB charging dock in an airport or into a new friends laptop is an easy way to get an extra 10% power, but risks picking up malware or syncing your mobile device and handing over all the data on it.
 
