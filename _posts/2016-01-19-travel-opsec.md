@@ -3,9 +3,9 @@ layout: post
 title: Travel OpSec
 ---
 
-Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truely](http://sroberts.github.io/2015/07/08/ccir-presentation/)) and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
+Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truely](http://sroberts.github.io/2015/07/08/ccir-presentation/)), and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
 
-Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally.
+Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally (or travling generally).
 
 ## <i class="fa fa-angle-right"></i> The Challenges
 
@@ -15,15 +15,15 @@ Traveling internationally has some unique challenges compared to using IT resour
 Running around a new country one of the first things you might notice is powering your devices can be tricky. Plugs are different, voltages are different, and you may not have the right adapters. A good [travel battery can help](http://www.amazon.com/Anker-9600mAh-Portable-External-Technology/dp/B00DMWV3EU/ref=sr_1_4?ie=UTF8&qid=1436634357&sr=8-4&keywords=battery+anker), but at some point you'll be hunting for an outlet to grab a charge.
 
 ### <i class="fa fa-wifi"></i> Network
-Home is where the wifi is, but when you're traveling you have to take what you can get. You have to balance security with the need to connect. Random coffeeshop/airplane/hotel wifi all are viable pipes, but under who's control?
+Home is where the wifi is, but when you're traveling you have to take what you can get. You have to balance security with the need to connect. Random coffeeshop/airplane/hotel wifi are all viable pipes, but under who's control?
 
 ### <i class="fa fa-bicycle"></i> Movement
 
-You're in an [exotic](http://www.lonelyplanet.com/montenegro/bay-of-kotor) (or maybe not so exotic) place and you want to get out and see it. Go out to dinner, site seeing, etc. You'll want the freedom to do that, and you can limit yourself by how much you feel the need to carry.
+You're in an [exotic](http://www.lonelyplanet.com/montenegro/bay-of-kotor) (or maybe [not so exotic](http://toledo.oh.gov/)) place and you want to get out and see it. Go out to dinner, site seeing, etc. You'll want the freedom to do that, and you can limit yourself by how much you feel the need to carry.
 
 ## <i class="fa fa-angle-right"></i> The Threat
 
-The first question for security should always be "What is the threat?". If you're basing your security stance in any regard on anything but practical threats then it's just FUD. While we exhagerate threats often in this case their seems to be plenty of concerns.
+The first question for security should always be "What is the threat?". If you're basing your security stance on anything but practical threats then it's just FUD. While people exhagerate threats often in this case their seems to be plenty of concerns.
 
 ### <i class="fa fa-angle-double-right"></i> Seizure at Checkpoints & _Evil Maid_ Style Attacks
 
@@ -56,15 +56,15 @@ So now that we're clear on the challenges & threats, at least the big ones, lets
 
 ### <i class="fa fa-globe"></i> International Travel Rule #1: LEAVE IT AT HOME!!!
 
-I cannot emphasize this enough. If you don't have it with you it cannot be compromised, the data cannot be stolen, and you don't have to worry about it. Far and away leaving it at home is the safest approach. For alternatives where you need to take your laptop see step #2 but prepare yourself: These things are a pain. They're difficult. And they have to be.
+I cannot emphasize this enough. If you don't have it with you it cannot be compromised, the data cannot be stolen, and you don't have to worry about it. Far and away leaving it at home is the lowest risk approach. For alternatives where you need to take your laptop see step #2 but prepare yourself: These things are a pain. They're difficult. And they must be.
 
 ### <i class="fa fa-globe"></i> International Travel Rule #2: Prep It Before You Leave
 
-You actually have to take a laptop?? Are you sure? Well if I can't convince you otherwise at least be cautious. An ounce of prevention is worth a pound of cure, so take some time to get things ready.
+You actually have to take a laptop? Are you sure? Well if I can't convince you otherwise at least be cautious. An ounce of prevention is worth a pound of cure, so take some time to get things ready.
 
 #### <i class="fa fa-angle-double-right"></i> Loners & Alternatives
 
-Borrower laptops are a common approach, though I'm not crazy about them. While they may limit exposure they have three failings:
+Borrower laptops are a common approach and are certainly better than taking your usual laptop but I'm still not crazy about them. While they may limit exposure they have three failings:
 
 1. To make them useful they still get loaded up with some (if limited) data (the whole thing we want to avoid).
 2. They aren't inheriently harder to compromise than the users own laptop.
@@ -72,11 +72,11 @@ Borrower laptops are a common approach, though I'm not crazy about them. While t
 
 To this end the CrowdStrike team released some of their [scripts for setting up an ArchLinux laptop for travel](https://github.com/CrowdStrike/travel-laptop) which looks like an solid solution for setting up loaner laptops.
 
-I'm a far bigger fan of devices like my [iPad](http://www.apple.com/ipad/) or [Chromebook](http://www.dell.com/us/business/p/chromebook-11/pd?oc=cacb003&model_id=chromebook-11&l=en&s=bsd) for travel. They're easy to wipe & reset, don't store much data, designed to resist attack, and cheaper than a full laptop.
+I'm a far bigger fan of devices like an [iPad](http://www.apple.com/ipad/) or [Chromebook](http://www.dell.com/us/business/p/chromebook-11/pd?oc=cacb003&model_id=chromebook-11&l=en&s=bsd) for travel. They're easy to wipe & reset, don't store much data, designed to resist attack, and cheaper than a full laptop.
 
 ![Chromebook](https://storage.googleapis.com/hw-chromebooks/Samsung%20Chromebook%202/gallery-SamsungChromebook211-1-card-F101_SamsungChromebook211_SILVER.jpg)
 
-They're also both super light and get great battery life. All but the most dedicated road warriors don't need more than a browser for most travel use anyway. I'm a big fan of the Chromebook (perhaps that'll be another blog post).
+They're also both super light and get great battery life. All but the most dedicated road warriors don't need more than a browser for most travel use anyway.
 
 #### <i class="fa fa-angle-double-right"></i> Patch Everything
 Everything... and then double check:
@@ -87,6 +87,12 @@ Everything... and then double check:
 
 Don't forget your "other" devices like phones, Kindles, etc.
 
+#### <i class="fa fa-angle-double-right"></i> Prepare 2FA
+
+![Yubikey](http://immunityit.com/wp-content/uploads/2011/10/yubikeys.jpg)
+
+You already have two factor authentication turned on every where you can right? Well double check and make sure. [TOTP](https://tools.ietf.org/html/rfc6238) based is great, but [YubiKey](https://www.yubico.com/products/yubikey-hardware/) is becoming even more attractive as services are beginning to support the [FIDO/U2F standard](https://www.yubico.com/applications/fido/). I'm also a big [DuoSecurity](https://www.duosecurity.com/) fan for it's great interface, easy integration, and reasonable prices.
+
 #### <i class="fa fa-angle-double-right"></i> Setup a VPN
 
 [Setting up your own VPN isn't that hard](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-14-04) and provides a lot of trust and flexibility, even if it comes with some extra effort. While you're at it take the time to [enable DuoSecurity](https://www.duosecurity.com/docs/openvpn) as well.
@@ -95,19 +101,13 @@ Don't forget your "other" devices like phones, Kindles, etc.
 
 You could also use a paid VPN provider. The downside is placing your trust in another service but the upside is it's easy and often comes with more polish. I like [Cloak](https://www.getcloak.com/) for it's clean design and multi-device support.
 
-#### <i class="fa fa-angle-double-right"></i> Prepare 2FA
-
-![Yubikey](http://immunityit.com/wp-content/uploads/2011/10/yubikeys.jpg)
-
-You already have two factor authentication turned on every where you can right? Well double check and make sure. [TOTP](https://tools.ietf.org/html/rfc6238) based is great, but [YubiKey](https://www.yubico.com/products/yubikey-hardware/) is becoming even more attractive as services are beginning to support the [FIDO/U2F standard](https://www.yubico.com/applications/fido/). I'm also a big [DuoSecurity](https://www.duosecurity.com/) fan for it's great interface, easy integration, and reasonable prices.
-
 #### <i class="fa fa-angle-double-right"></i> Privacy Screen Cover
 
 [3M makes some nice privacy screen covers](http://solutions.3m.com/wps/portal/3M/en_EU/Protectors/Home/). I have one and it's great.
 
 ![IT GOOOOOOLD!!!!](/public/3mfilter.jpg)
 
-Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the person sitting next to you it also draws attention. People wonder what you're trying to hide. Avoiding the gold side helps.
+Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the person sitting next to you it also draws attention. People wonder what you're trying to hide which makes it a double edged sword. Avoiding the gold side helps.
 
 #### <i class="fa fa-angle-double-right"></i> USB "Condom"
 Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmited malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
@@ -116,27 +116,27 @@ Charging USB devices off of random USB charging stations or someone elses laptop
 
 A USB condom (sorry for the uncouth term Mom) protects you by breaking the data transfer connections of USB while leaving the power connections intact. That means you can charge your device without inadvertently syncing data or worse.
 
-My [SyncStop](http://syncstop.com/) is great.
+[SyncStop](http://syncstop.com/) makes a very nice device.
 
 ### <i class="fa fa-globe"></i> International Travel Rule #3: Be Aware of your Surroundings
 
-I don't know how to suggest how you do this, but you need to do it. That's not super helpful, so I'm doing what anyone does, Googling it. I recommend reading this [article from Psycology Today on Becoming Aware](https://www.psychologytoday.com/blog/pathological-relationships/201206/becoming-aware). If that isn't ninja enough for you I suppose you may want to read [the articles tagged "How To Become Aware of Your Surroundings" from the WayOfNinja](http://wayofninja.com/tag/how-to-become-aware-of-your-surroundings/) but I don't recommend it.
+I don't know how to suggest how you do this, but you need to do it. That's not super helpful, [so I'm doing what anyone does, Googling it](http://bfy.tw/3oW0). I recommend reading this [article from Psycology Today on Becoming Aware](https://www.psychologytoday.com/blog/pathological-relationships/201206/becoming-aware). If that isn't ninja enough for you I suppose you may want to read [the articles tagged "How To Become Aware of Your Surroundings" from the WayOfNinja](http://wayofninja.com/tag/how-to-become-aware-of-your-surroundings/) but I don't recommend it.
 
 ### <i class="fa fa-globe"></i> International Travel Rule #4: Carry Your Devices with you At All Times
 
 I told you this would be a pain. This basically goes directly against the _mobility_ concept we started out with, but it turns out it's highly important. Two of the threat types we discussed require physical access and the way to be sure is to have them with you at all times.
 
-That doesn't mean except for dinner. That doesn't mean unless you want to go for a walk. __Always.__ I recommend getting [a bag you find comfortable for long periods of time](http://www.dsptch.com/collections/packs/products/tech-messenger-navy), the lightest devices possible (or, you know, just leave it at home like I suggested in the first place). Which devices do you need to carry? My rule of thumb: if it has a USB port you can't leave it.
+That doesn't mean except for dinner. That doesn't mean unless you want to go for a walk. __Always.__ I recommend getting [a bag you find comfortable for long periods of time](http://www.dsptch.com/collections/packs/products/tech-messenger-navy), the lightest devices possible (or, you know, just leave it at home like I suggested in the first place). Which devices do you need to carry? My rule of thumb: if it has a USB port or network access you can't leave it.
 
 > <i class="fa fa-comment"></i> _Note:_ This doesn't make physical attacks impossible, it just makes it impossible for you to not be aware. You're not a [SERE school](https://en.wikipedia.org/wiki/Survival,_Evasion,_Resistance_and_Escape) grad (unless you are in which case good for you) and if someone wants to take your devices they will. At least you'll be aware and able to tell your security team what happened.
 
 ### <i class="fa fa-globe"></i> International Travel Rule #5: Keep Things Turned Off & Logged Out
 
-Once you rule out physical access the only attack vectors are Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to random Bluetooth devices or wireless networks.
+Once you rule out physical access the only attack vectors are Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to unknown Bluetooth devices or wireless networks. This goes double for borders. 
 
-## Extreme Hardening
+## <i class="fa fa-angle-right"></i> Extreme Hardening
 
-So lets say for some reason you really, actually, insistently must take a full on laptop to a foreign country. To make matters worse it's one that's passive aggressively hostile towards yours. Well in that case you'll want some serious system hardening in place. Your goal is to remove as much attack surface as possible and beef up the things you must have exposed. I mostly use OSX, so here are a couple of the better hardening guidelines for Macbooks:
+So lets say for some reason you really, actually, insistently must take a full on laptop to a foreign country. To make matters worse it's one that's passive aggressively hostile towards yours. Well in that case you'll want to do some serious system hardening. Your goal is to remove as much attack surface as possible and beef up the things you must have exposed. I mostly use OSX, so here are a couple of the better hardening guidelines for Macbooks:
 
 - <i class="fa fa-list-ol"></i> [Harden the World: Mac OSX 10.11 El Capitan](http://docs.hardentheworld.org/OS/OSX_10.11_El_Capitan/)
 - <i class="fa fa-list-ol"></i> [GitHub: drduh/OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
