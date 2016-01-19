@@ -132,7 +132,7 @@ That doesn't mean except for dinner. That doesn't mean unless you want to go for
 
 ### <i class="fa fa-globe"></i> International Travel Rule #5: Keep Things Turned Off & Logged Out
 
-Once you rule out physical access the only attack vectors are Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to unknown Bluetooth devices or wireless networks. This goes double for borders. 
+Once you rule out physical access the only attack vectors are Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to unknown Bluetooth devices or wireless networks. This goes double for borders.
 
 ## <i class="fa fa-angle-right"></i> Extreme Hardening
 
@@ -142,11 +142,12 @@ So lets say for some reason you really, actually, insistently must take a full o
 - <i class="fa fa-list-ol"></i> [GitHub: drduh/OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 
 There's also this lockdown tool by the always awesome [Scott Piper](https://twitter.com/0xdabbad00):
+
 - <i class="fa fa-wrench"></i> [GitHub: SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown)
 
 I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implimentation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
 
-## Conclusion
+## <i class="fa fa-angle-right"></i> Conclusion
 
 This is far from a comprehensive guide to safe traveling. The world is a dangerous place. Hopefully though this gives you some ideas on how to level up your IT security while traveling. The world is an amazing place, I've been lucky to see as much of it as I have and I can't way to see more, but a little consideration goes a long way.
 
