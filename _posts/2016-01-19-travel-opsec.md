@@ -5,7 +5,7 @@ title: Travel OpSec
 
 Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truely](http://sroberts.github.io/2015/07/08/ccir-presentation/)) and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
 
-Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even a little more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally, and is a worthwhile consideration.
+Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally.
 
 ## <i class="fa fa-angle-right"></i> The Challenges
 
@@ -23,13 +23,13 @@ You're in an [exotic](http://www.lonelyplanet.com/montenegro/bay-of-kotor) (or m
 
 ## <i class="fa fa-angle-right"></i> The Threat
 
-The first question for security should always be "What is the threat?". If you're basing your security stance in any regard on anything but practical threats. While we exhagerate threats often in this case their seems to be plenty of concerns.
+The first question for security should always be "What is the threat?". If you're basing your security stance in any regard on anything but practical threats then it's just FUD. While we exhagerate threats often in this case their seems to be plenty of concerns.
 
 ### <i class="fa fa-angle-double-right"></i> Seizure at Checkpoints & _Evil Maid_ Style Attacks
 
-Depending on the country customs __seizing devices at check points__, either for minutes or days, may happen a little or may happen a lot. [But it does happen.](http://www.wired.com/2010/11/hacker-border-search/) A close relative of checkpoint seizure is the __evil maid__ attack, where someone with access (like a cloned keycard) enters your hotel and accesses your devices while you're out of the room (Oh, and they might also have cameras + listening devices in your room too, just in case you fall into a honeypot).
+Depending on the country customs __seizing devices at check points__, either for minutes or days, may happen a little or may happen a lot. [But it does happen.](http://www.wired.com/2010/11/hacker-border-search/) A close relative of checkpoint seizure is the __evil maid__ attack, where someone with access (like a cloned keycard) enters your hotel and accesses your devices while you're out of the room (Oh, and they might also have cameras + listening devices in your room as well, just in case you fall into a honeypot).
 
-The basic formula of both of these attacks is _physical access + time = compromise_.  FDE helps, but it's [not bulletproof](https://nakedsecurity.sophos.com/2012/02/02/filevault-encryption-broken/) given near infinite computing resources and near infinite time. If your computer leaves your site at a checkpoint assume the data is staying.
+The basic formula of both of these attacks is _physical access + time = compromise_.  Full Disk Encryption helps, but it's [not bulletproof](https://nakedsecurity.sophos.com/2012/02/02/filevault-encryption-broken/) given near infinite computing resources and near infinite time. If your computer leaves your site at a checkpoint assume the data is staying.
 
 ### <i class="fa fa-angle-double-right"></i> _Dark Hotel_ Style Attacks
 
@@ -44,7 +44,7 @@ Power seems at most partially related to security, but USB based charging is com
 
 ### <i class="fa fa-angle-double-right"></i> Theft & Loss
 
-Simple and boring but no less real, IT resources get lost all the time. Cell phones left in cabs, laptops stolen in cafes, all happen, and all pose a risk. It's hard to stay backed up on the go and it can be extra difficult to recover these devices in a foreign country.
+Simple and boring but no less real, IT resources get lost all the time. Cell phones get left in cabs, laptops get stolen in cafes, all happen, and all pose a risk. It's hard to stay backed up on the go and it can be extra difficult to recover these devices on foreign soil.
 
 ### <i class="fa fa-angle-double-right"></i> Lastly... [The Honeypot](http://cdn.meme.am/instances/63396171.jpg)
 
@@ -67,10 +67,10 @@ You actually have to take a laptop?? Are you sure? Well if I can't convince you 
 Borrower laptops are a common approach, though I'm not crazy about them. While they may limit exposure they have three failings:
 
 1. To make them useful they still get loaded up with some (if limited) data (the whole thing we want to avoid).
-2. they aren't inheriently harder to compromise than the users own laptop.
+2. They aren't inheriently harder to compromise than the users own laptop.
 3. Since they aren't the users _own system_ the user is often less careful with it, resulting in risk.
 
-To this end the CrowdStrike team released some of their [scripts for setting up an ArchLinux laptop for travel](https://github.com/CrowdStrike/travel-laptop) which looks ideal for setting up loaner laptops.
+To this end the CrowdStrike team released some of their [scripts for setting up an ArchLinux laptop for travel](https://github.com/CrowdStrike/travel-laptop) which looks like an solid solution for setting up loaner laptops.
 
 I'm a far bigger fan of devices like my [iPad](http://www.apple.com/ipad/) or [Chromebook](http://www.dell.com/us/business/p/chromebook-11/pd?oc=cacb003&model_id=chromebook-11&l=en&s=bsd) for travel. They're easy to wipe & reset, don't store much data, designed to resist attack, and cheaper than a full laptop.
 
@@ -107,10 +107,10 @@ You already have two factor authentication turned on every where you can right? 
 
 ![IT GOOOOOOLD!!!!](/public/3mfilter.jpg)
 
-Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the peorson sitting next to you it also draws attention. People wonder what you're trying to hide. Avoiding the gold side helps.
+Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the person sitting next to you it also draws attention. People wonder what you're trying to hide. Avoiding the gold side helps.
 
 #### <i class="fa fa-angle-double-right"></i> USB "Condom"
-Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmited malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99).
+Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmited malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
 
 ![USB Condom](http://cdn.shopify.com/s/files/1/0616/6813/products/IMG_1204_grande.JPG?v=1432758676)
 
@@ -132,7 +132,7 @@ That doesn't mean except for dinner. That doesn't mean unless you want to go for
 
 ### <i class="fa fa-globe"></i> International Travel Rule #5: Keep Things Turned Off & Logged Out
 
-Once you rule out physical access the only attack Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to random Bluetooth devices or wireless networks.
+Once you rule out physical access the only attack vectors are Wifi, Bluetooth, etc. It's inconvenient but it works wonders, otherwise you may find yourself randomly connecting to random Bluetooth devices or wireless networks.
 
 ## Extreme Hardening
 
@@ -144,12 +144,12 @@ So lets say for some reason you really, actually, insistently must take a full o
 There's also this lockdown tool by the always awesome [Scott Piper](https://twitter.com/0xdabbad00):
 - <i class="fa fa-wrench"></i> [GitHub: SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown)
 
-I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implimenation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
+I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implimentation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
 
 ## Conclusion
 
-This is far from a comprehensive guide to safe traveling. The world is a dangerous place. Hopefully though this gives you some ideas on how to level up your IT security while traveling though. The world is an amazing place, I've been lucky to see as much of it as I have and I can't way to see more, but a little consideration goes a long way.
+This is far from a comprehensive guide to safe traveling. The world is a dangerous place. Hopefully though this gives you some ideas on how to level up your IT security while traveling. The world is an amazing place, I've been lucky to see as much of it as I have and I can't way to see more, but a little consideration goes a long way.
 
 And one last time: ___Just leave your laptop at home. You'll be fine.___ And you might experience something amazing.
 
-_If you want to go further reading I recommend [Jeffrey Carr's A Traveler's Guide to Cyber Security](http://www.amazon.com/A-Travelers-Guide-Cyber-Security-ebook/dp/B007GYLMQE))._
+_If you want to go further I recommend reading [Jeffrey Carr's A Traveler's Guide to Cyber Security](http://www.amazon.com/A-Travelers-Guide-Cyber-Security-ebook/dp/B007GYLMQE))._
