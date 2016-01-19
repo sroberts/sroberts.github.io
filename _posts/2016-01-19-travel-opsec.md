@@ -5,7 +5,7 @@ title: Travel OpSec
 
 Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truely](http://sroberts.github.io/2015/07/08/ccir-presentation/)), and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
 
-Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally (or travling generally).
+Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally (or traveling generally).
 
 ## <i class="fa fa-angle-right"></i> The Challenges
 
@@ -23,7 +23,7 @@ You're in an [exotic](http://www.lonelyplanet.com/montenegro/bay-of-kotor) (or m
 
 ## <i class="fa fa-angle-right"></i> The Threat
 
-The first question for security should always be "What is the threat?". If you're basing your security stance on anything but practical threats then it's just FUD. While people exhagerate threats often in this case their seems to be plenty of concerns.
+The first question for security should always be "What is the threat?". If you're basing your security stance on anything but practical threats then it's just FUD. While people exaggerate threats often in this case their seems to be plenty of concerns.
 
 ### <i class="fa fa-angle-double-right"></i> Seizure at Checkpoints & _Evil Maid_ Style Attacks
 
@@ -36,7 +36,7 @@ The basic formula of both of these attacks is _physical access + time = compromi
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HQpGzivvtqg" frameborder="0" allowfullscreen></iframe>
 
 Moving past physical attacks there are other ways to steal data in hotels. The [DarkHotel APT group](https://securelist.com/blog/research/66779/the-darkhotel-apt/
-) __targets victims by compromising the networks of common traveler destinations__ such as international hotels and uses their acces to infect victims with trojans, pilfering data at their convenience.
+) __targets victims by compromising the networks of common traveler destinations__ such as international hotels and uses their access to infect victims with trojans, pilfering data at their convenience.
 
 ### <i class="fa fa-angle-double-right"></i> [Buckshot Yankee](http://www.washingtonpost.com/wp-dyn/content/article/2010/08/24/AR2010082406495.html) & [Stuxtnet Style USB Attacks](http://www.wired.com/2014/11/countdown-to-zero-day-stuxnet/) + Accidental Syncing
 
@@ -67,7 +67,7 @@ You actually have to take a laptop? Are you sure? Well if I can't convince you o
 Borrower laptops are a common approach and are certainly better than taking your usual laptop but I'm still not crazy about them. While they may limit exposure they have three failings:
 
 1. To make them useful they still get loaded up with some (if limited) data (the whole thing we want to avoid).
-2. They aren't inheriently harder to compromise than the users own laptop.
+2. They aren't inherently harder to compromise than the users own laptop.
 3. Since they aren't the users _own system_ the user is often less careful with it, resulting in risk.
 
 To this end the CrowdStrike team released some of their [scripts for setting up an ArchLinux laptop for travel](https://github.com/CrowdStrike/travel-laptop) which looks like an solid solution for setting up loaner laptops.
@@ -105,12 +105,12 @@ You could also use a paid VPN provider. The downside is placing your trust in an
 
 [3M makes some nice privacy screen covers](http://solutions.3m.com/wps/portal/3M/en_EU/Protectors/Home/). I have one and it's great.
 
-![IT GOOOOOOLD!!!!](/public/3mfilter.jpg)
+![IT GOLD!!!!](/public/3mfilter.jpg)
 
 Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the person sitting next to you it also draws attention. People wonder what you're trying to hide which makes it a double edged sword. Avoiding the gold side helps.
 
 #### <i class="fa fa-angle-double-right"></i> USB "Condom"
-Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmited malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
+Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmitted malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
 
 ![USB Condom](http://cdn.shopify.com/s/files/1/0616/6813/products/IMG_1204_grande.JPG?v=1432758676)
 
@@ -120,7 +120,7 @@ A USB condom (sorry for the uncouth term Mom) protects you by breaking the data 
 
 ### <i class="fa fa-globe"></i> International Travel Rule #3: Be Aware of your Surroundings
 
-I don't know how to suggest how you do this, but you need to do it. That's not super helpful, [so I'm doing what anyone does, Googling it](http://bfy.tw/3oW0). I recommend reading this [article from Psycology Today on Becoming Aware](https://www.psychologytoday.com/blog/pathological-relationships/201206/becoming-aware). If that isn't ninja enough for you I suppose you may want to read [the articles tagged "How To Become Aware of Your Surroundings" from the WayOfNinja](http://wayofninja.com/tag/how-to-become-aware-of-your-surroundings/) but I don't recommend it.
+I don't know how to suggest how you do this, but you need to do it. That's not super helpful, [so I'm doing what anyone does, Googling it](http://bfy.tw/3oW0). I recommend reading this [article from Psychology Today on Becoming Aware](https://www.psychologytoday.com/blog/pathological-relationships/201206/becoming-aware). If that isn't ninja enough for you I suppose you may want to read [the articles tagged "How To Become Aware of Your Surroundings" from the WayOfNinja](http://wayofninja.com/tag/how-to-become-aware-of-your-surroundings/) but I don't recommend it.
 
 ### <i class="fa fa-globe"></i> International Travel Rule #4: Carry Your Devices with you At All Times
 
@@ -141,11 +141,11 @@ So lets say for some reason you really, actually, insistently must take a full o
 - <i class="fa fa-list-ol"></i> [Harden the World: Mac OSX 10.11 El Capitan](http://docs.hardentheworld.org/OS/OSX_10.11_El_Capitan/)
 - <i class="fa fa-list-ol"></i> [GitHub: drduh/OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 
-There's also this lockdown tool by the always awesome [Scott Piper](https://twitter.com/0xdabbad00):
+There's also this lock-down tool by the always awesome [Scott Piper](https://twitter.com/0xdabbad00):
 
 - <i class="fa fa-wrench"></i> [GitHub: SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown)
 
-I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implimentation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
+I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
 
 ## <i class="fa fa-angle-right"></i> Conclusion
 
