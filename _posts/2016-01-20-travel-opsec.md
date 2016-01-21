@@ -3,7 +3,7 @@ layout: post
 title: Travel OpSec
 ---
 
-Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truely](http://sroberts.github.io/2015/07/08/ccir-presentation/)), and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
+Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truly](http://sroberts.github.io/2015/07/08/ccir-presentation/)), and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
 
 Traveling to a new country as a security minded person is always a bit jarring. Even a country as friendly as Germany bares consideration when it comes to laptops, tablets, phones, etc. A conference like FIRST has people coming from all over the place, including people from countries at odds (US, China, Iran, Germany, etc). As a result those IT security concerns are even more heightened. As a result we ended up having some academic conversations about operational security while traveling internationally (or traveling generally).
 
@@ -62,7 +62,7 @@ I cannot emphasize this enough. If you don't have it with you it cannot be compr
 
 You actually have to take a laptop? Are you sure? Well if I can't convince you otherwise at least be cautious. An ounce of prevention is worth a pound of cure, so take some time to get things ready.
 
-#### <i class="fa fa-angle-double-right"></i> Loners & Alternatives
+#### <i class="fa fa-angle-double-right"></i> Loaners & Alternatives
 
 Borrower laptops are a common approach and are certainly better than taking your usual laptop but I'm still not crazy about them. While they may limit exposure they have three failings:
 
