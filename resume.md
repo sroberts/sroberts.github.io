@@ -6,6 +6,8 @@ layout: page
 ---
 
 > I am an Incident Responder with GitHub specializing in Incident Response, Intrusion Detection, and Cyber Threat Intelligence operations.
+>
+> Want to know more? Lets have a conversation: <a href="http://www.google.com/recaptcha/mailhide/d?k=01ZLygg2Rp1J_40Q7hU7imBw==&amp;c=iGm-tkFOBm4udaP8_v1IOC4s-1cGK7XX6y5ma3M9v1Q=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZLygg2Rp1J_40Q7hU7imBw\75\75\46c\75iGm-tkFOBm4udaP8_v1IOC4s-1cGK7XX6y5ma3M9v1Q\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">s...</a>@gmail.com
 
 
 | <i class="fa fa-2x fa-twitter"></i> | <i class="fa fa-2x fa-github"></i> | <i class="fa fa-2x fa-linkedin"></i> |
@@ -27,7 +29,7 @@ layout: page
 <i class="fa fa-calendar-o"></i> February 2012 to October 2012
 
 - Served as a Senior Intelligence Specialist, bridging the gap between threat intelligence research & boots on the ground incident response consulting.
-- "Helped guide research & development priorities for the Vigilant Intelligence team.
+- Helped guide research & development priorities for the Vigilant Intelligence team.
 - Developed passive network monitoring system for detecting APT & criminal threats inside a major telecommunications provider.
 - Developed & presented education & marketing collateral for client consumption.
 
@@ -40,7 +42,7 @@ layout: page
 - Developed IDS and SIEM content for Focused Operations team to identify, track, and remediate advanced targeted attacks against the enterprise.
 - Developed Tier 1 & 2: Intrusion Analyst course along side OJT and brown bag sessions.
 
-### [Mandiant (Acquired by FireEye)](https://www.mandiant.com",): Security Consultant
+### [Mandiant (Acquired by FireEye)](https://www.mandiant.com): Security Consultant
 
 <i class="fa fa-calendar-o"></i> June 2008 to April 2010
 
