@@ -145,7 +145,7 @@ There's also this lock-down tool by the always awesome [Scott Piper](https://twi
 
 - <i class="fa fa-wrench"></i> [GitHub: SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown)
 
-I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=43714) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
+I haven't used Windows for years, but I know [EMET](https://www.microsoft.com/en-us/download/details.aspx?id=50766) is pretty great (I'd love to see an EMET like kit for OSX) and Microsoft has invested a lot into making Windows 8 & 10 hard targets. For anything else I'd take a look at DISA's [Security Technical Implementation Guidelines](http://iase.disa.mil/stigs/Pages/index.aspx) or the NSA/CSS [Security Configuration Guides for Operating Systems](https://www.nsa.gov/ia/mitigation_guidance/security_configuration_guides/operating_systems.shtml).
 
 ## <i class="fa fa-angle-right"></i> Conclusion
 
