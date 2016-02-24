@@ -3,7 +3,10 @@ layout: page
 title: Talks
 ---
 
-Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
+Here is an overview of my past (and sometimes upcoming) speaking opportunities.
+
+## 2016
+- [SANS CTI Summit 2016](https://www.sans.org/event/cyber-threat-intelligence-summit-2016): Community Intelligence & Open Source Tools ([Slides](https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools))
 
 ## 2015
 - [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS ([Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx))
@@ -19,7 +22,7 @@ Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
 - [Facebook Security@Scale](http://facebook.com): Building Your Own DFIR Sidekick
 - [OpenDNS S4](http://labs.opendns.com/2014/09/03/s4-incident-responder-conference-september-18th-2014-san-francisco-ca/): Building Your Own DFIR Sidekick
 - [ArchC0N](http://www.archc0n.org/): A Basic Guide to Advanced Incident Response
-- [TechTalk Live](http://www.techtalklive.org/Pages/Home.aspx): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
+- TechTalk Live: A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
 - Closed Conference: How GitHub Uses GitHub to Defend GitHub ([Slides](https://speakerdeck.com/sroberts/how-github-uses-github-to-defend-github))
 
 ## 2013
