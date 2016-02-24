@@ -42,7 +42,7 @@ Here is an overview of my past (and sometimes upcoming) speaking opportunities.
 ## 2009
 - [Strange Loop](https://thestrangeloop.com): A Developers Guide to Hacking Tools For Fun and Profit
 - The Computer Forensics Show: Mandiant State of the Hack
-- [GFIRST](http://www.us-cert.gov/gfirst): Closed Session
+- [GFIRST](https://www.us-cert.gov/government-users/collaboration/gfirst): Closed Session
 
 ## 2007
 - [ShmooCon](http://www.shmoocon.org)3 Keynote: The Security Ramifications of the OLPC Project
