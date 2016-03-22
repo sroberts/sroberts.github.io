@@ -9,6 +9,7 @@ Here is an overview of my past (and sometimes upcoming) speaking opportunities.
 - [SANS CTI Summit 2016](https://www.sans.org/event/cyber-threat-intelligence-summit-2016): Community Intelligence & Open Source Tools ([Slides](https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools))
 
 ## 2015
+- [BSidesDFW 2015](http://www.securitybsides.com/w/page/96312090/BSidesDFW%202015): Responding @ Scale - osquery for Mass Incident Detection & Response ([Slides](http://sroberts.github.io/bsidesdfw2015-slides/slides.html#1))
 - [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS ([Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx))
 - [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!)
 - [FIRST](http://www.first.org/conference/2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communications-for-incident-response-first15))
