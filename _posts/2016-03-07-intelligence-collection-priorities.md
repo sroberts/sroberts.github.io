@@ -40,7 +40,7 @@ Why are free feeds my fourth choice? They're free and all that and everyone talk
 
 ## <i class="fa fa-money"></i> Paid IOC Feeds
 
-<img style="float: right;" src="/public/sundae.jpg">
+<img alt="Ice Cream Sundae" style="float: right;" src="/public/sundae.jpg">
 
 I know I made it last on my list but I'm not saying paid feeds are bad, in many cases they're great actually. I tend to think of it like a sundae. The ice cream is your first source, your base. The whip cream? That's when you started mining APTNotes. Rainbow sprinkles... sure I guess that's your new honeypot.
 
