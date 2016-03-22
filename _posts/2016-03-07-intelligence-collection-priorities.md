@@ -16,7 +16,7 @@ I love this quote and it couldn't fit this topic more perfectly. If you want to 
 
 __The hardest part of threat intelligence isn't collecting data. That's the easy part. The hard part is deciding which data is worth collecting.__ There's no better way to focus intelligence collection than by focusing on past attacks. This comes from mining internal sources, preferably your incident management system ([certsocietegenerale/fir](https://github.com/certsocietegenerale/FIR) is a good start). _Nothing is worse than an attacker using the same resource twice_, so when you know a domain is used as C2 then keep watching that domain (and preferably the [IP addresses that have pointed to it in the past as well](https://www.passivetotal.org/)).
 
-## <i class="fa fa-forumbee"></i> Honeypots & The Like
+## <i class="fa fa-forumbee"></i> Honeypots & The Like (Emphasis on The Like)
 
 I'll be honest... _I hate honeypots._ They're trendy right now (it's cyclical, like bell bottoms). The idea of letting a bad guy onto my network deliberately scares the heck out of me. My favorite honeypot I ever used in operation was our Active Directory server and while it was a great collection source it certainly wasn't our choice. There are some cool tools out there for it, from the classic [Honeynet Project](https://www.honeynet.org/) to [Secureworks new DCEPT project](https://github.com/secureworks/dcept) but I'm not sure I'd have the guts to run them.
 
