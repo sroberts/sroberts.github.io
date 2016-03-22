@@ -18,10 +18,10 @@ I've already gotten started with [Incident Response & Computer Forensics, Third 
 
 I'm also planning on reading:
 
-- [Understanding Computation: From Simple Machines to Impossible Programs](Understanding Computation: From Simple Machines to Impossible Programs) by Tom Stuart
+- [Understanding Computation: From Simple Machines to Impossible Programs](http://www.amazon.com/Understanding-Computation-Machines-Impossible-Programs/dp/1449329276/ref=sr_1_1) by Tom Stuart
 - [Thwarting Enemies at Home and Abroad: How to Be a Counterintelligence Officer](https://www.goodreads.com/book/show/5979810-thwarting-enemies-at-home-and-abroad) by William Hood
 - [The Art of Intelligence](https://www.goodreads.com/book/show/13590828-the-art-of-intelligence) by Henry A. Crumpton
-- [Practical Malware Analysis](Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software) by Michael Sikorski & Andrew Honig
+- [Practical Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901) by Michael Sikorski & Andrew Honig
 - [The Web Application Hacker's Handbook: Discovering and Exploiting Security Flaws](https://www.goodreads.com/book/show/1914619.The_Web_Application_Hacker_s_Handbook) by Dafydd Stuttard
 
 I'd love to continue having a discussion partner to work through each book with so feel free to reach out if any of these books peak your interest.
