@@ -1,6 +1,6 @@
 ---
 layout: post
-title: CTI SquadGoals\: Setting Requirements
+title: CTI SquadGoals - Setting Requirements
 ---
 
 ## Business Plan Requirements

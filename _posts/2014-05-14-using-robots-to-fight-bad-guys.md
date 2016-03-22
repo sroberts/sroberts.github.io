@@ -105,7 +105,7 @@ I currently run two separate Hubots with different adapters and environments:
 ## Things to Build
 Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15). There are endless possibilities, new modules, new integrations. My current goals revolve around [Yara](https://github.com/plusvic/yara), including automating signature generation. That said make this what will help you, and pull requests are always welcome.
 
-## Resources
+## ChatOps Resources
 
 ### Hubot & Hubot VTR
 * [Hubot](http://hubot.github.com) & [Hubot Source](https://github.com/github/hubot)

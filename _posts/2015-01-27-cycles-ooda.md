@@ -21,7 +21,7 @@ While the annotated version above is complex at it's core the OODA Loop is made 
 
 At this point the cycle restarts based on observing the results of the action.
 
-## In Incident Response
+## OODA in Incident Response
 
 > “Under OODA loop theory every combatant observes the situation, orients himself…decides what to do and then does it. If his opponent can do this faster, however, his own actions become outdated and disconnected to the true situation, and his opponent’s advantage increases geometrically.” _- John Boyd_
 
@@ -50,7 +50,7 @@ The great thing about OODA is it gives us a framework to talk about how we make 
 For incident response our goal needs to ultimately be to OODA faster than attackers. In most cases at it's core improving a DFIR capability is all about being able to OODA faster as a team. New sensors improve your ability to observe while threat intelligence data improves orientation. You can't really put OODA into practice, but it can be used to structure how you think about decision making, and what you can do to improve the speed with which you make decisions.  
 
 
-## More Reading
+## Further Reading
 - [<i class="fa fa-file-pdf-o"></i> John Boyd: Destruction & Creation](http://www.goalsys.com/books/documents/DESTRUCTION_AND_CREATION.pdf)
 - [The Art of Manliness: The Tao of Boyd](http://www.artofmanliness.com/2014/09/15/ooda-loop/)
 - [Fast Company: The Strategy of the Fighter Pilot](http://www.fastcompany.com/44983/strategy-fighter-pilot)
