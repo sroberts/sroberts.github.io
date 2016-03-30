@@ -3,7 +3,7 @@ layout: post
 title: CTI SquadGoals - Setting Requirements
 ---
 
-![Squad Goals](public/squadgoals.png)
+![Squad Goals](/public/squadgoals.png)
 
 Requirements. The first part of the intelligence cycle and the most neglected. According to the [appendix of Joint Publication 2-0: Joint Intelligence](http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf)
 
@@ -32,7 +32,7 @@ The first place to start thinking about collection is digging into your own busi
 
 [CrowdStrike](http://www.crowdstrike.com/) illustrated this in their _Uncover the Adversary_ map:
 
-![Crowdstrike Actor Map](public/crowdstrike-map.png)
+![Crowdstrike Actor Map](/public/crowdstrike-map.png)
 
 So using this as an example (and CrowdStrike vernacular):
 
@@ -48,7 +48,7 @@ These distinctions won't always be perfect but they provide a solid basis to dev
 
 Geography is a tricky thing. The Internet lets us access information across the world yet at the same time it's often an [extension of real life](http://www.pokemon.com/us/pokemon-video-games/pokemon-go/). Attackers take advantage of geographic distribution to remain semi-anonymous, but in others they use computer network attack to [project a different kind of power within a region](http://motherboard.vice.com/read/inside-the-unending-cyber-siege-of-hong-kong).
 
-![ZOMG MAP OF HACKER STUFF](public/uplink-server-map.jpg)
+![ZOMG MAP OF HACKER STUFF](/public/uplink-server-map.jpg)
 
 The [Naikon Group](https://www.threatconnect.com/camerashy/) is a good example. Public reports say they're focused on operations within South East Asia such as Nepal, the Philippines, Thailand, etc. Don't live in South East Asia? Naikon is probably not interested to you. Living in Singapore? You should probably be paying attention. This is true for a variety of organizations, including dissident groups. Even though an actor could strike across the world (and may do so) it would be sloppy to not consider location in defining intelligence requirements.
 
@@ -60,7 +60,7 @@ _**Aside:** Before you say it I agree, VPNs are easy and hotpoints can be anywhe
 
 It's a common mistake to think of attackers as omnipotent. They have limits, budgets, time, etc. As a result most attackers focus on attacking certain kinds of networks. A Windows network running Active Directory is often harder to attack than a Linux network on LDAP (don't knock MSFT, [they've invested a lot in security over the last 15 years](http://news.microsoft.com/stories/cybercrime/index.html)) but the fact is most attackers are probably more familiar and invested in attacking Windows & AD than Ubuntu and OpenLDAP.
 
-![Nmap... because?](public/nmap.jpg)
+![Nmap... because?](/public/nmap.jpg)
 
 When developing intelligence requirements take the time to look around your infrastructure, what makes you special? Do you run lots of Industrial Control Systems? You should probably be paying attention to different attackers than a law firm running all Macs. Part of this is vulnerability management as well, understanding the flaws that are out there for the systems you protect.
 
