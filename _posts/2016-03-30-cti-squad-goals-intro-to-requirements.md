@@ -76,7 +76,7 @@ One of the least appreciated approaches to forming intelligence requirements is 
 
 Then there are the odd bits. They may come in when a higher up is watching CNN in the airport or they may come from a spooky government source. No matter what they will show up at some point and become part of your intelligence requirements, maybe as a one time addition, maybe on an ongoing basis. Don't discount them.
 
-##<i class="fa fa-pencil-square-o"></i> Writing Strong Requirements
+## <i class="fa fa-pencil-square-o"></i> Writing Strong Requirements
 
 The best intelligence requirements are specific enough to direct answering the question. Here are some characteristics that lead to good intelligence requirements:
 
