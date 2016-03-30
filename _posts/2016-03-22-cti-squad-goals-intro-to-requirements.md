@@ -27,7 +27,7 @@ I've said it a thousands times, but place #1 to start is your own incident manag
 The first place to start thinking about collection is digging into your own business plan and what that entails. Certain actors target resources in a way that you can rule them in or out of scope:
 
 - Are you a bank or financial institution? Financially motivated attackers probably want to attack you.
-- Are you doing energy exploration? A few groups of attackers specialize in that.
+- Are you doing energy exploration? A handful of attackers specialize in that.
 - Do you invent pharmaceuticals? Look for actors that try to steal intellectual property.
 
 [CrowdStrike](http://www.crowdstrike.com/) illustrated this in their _Uncover the Adversary_ map:
@@ -86,12 +86,12 @@ The best intelligence requirements are specific enough to direct answering the q
 
 It takes time and practice to develop good requirements.
 
-| Weak Requirement | Strong Requirement |
+| <i class="fa fa-minus-square"></i> Weak Requirement | <i class="fa fa-plus-square"></i> Strong Requirement |
 | ---------------- | ------------------ |
-| What actors might attack our company? | Is X actor still active? |
+| What actors might attack our company? | Is X Actor active? |
 | What indicators should we be using in our IDS? | What are current file system indicators of Actor X? |
 | Are there actors targeting the location we're in? | Is an actor specifically targeting Region Y? |
-| What malware should we look for on our network? | Is Locky being used to attack companies in my vertical? |
+| What malware should we look for on our network? | Are attacker using [Locky](https://blogs.technet.microsoft.com/mmpc/2016/02/24/locky-malware-lucky-to-avoid-it/) my vertical? |
 
 Practice makes perfect, but working with others to sharpen your requirements writing is even better.
 
