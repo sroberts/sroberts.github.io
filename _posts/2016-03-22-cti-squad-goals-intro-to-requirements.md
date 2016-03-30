@@ -5,9 +5,7 @@ title: CTI SquadGoals - Setting Requirements
 
 ![Squad Goals](https://ccwebcontent.blob.core.windows.net/resources/blobs/images/870x489/artwork-squadgoaldesccover.png)
 
-I'll be honest... I didn't think to write this post until I'd been getting reviews about the next post. I started writing about planning intelligence collection and how organizations should approach it. A kind friend who's good enough to edit much of what I write asked where my requirements post was. He was right, I was putting the cart before the horse, the exact kind of thing I pontificate on not doing.
-
-Here we are. Requirements. The first part of the intelligence cycle and the most neglected. According to the [appendix of Joint Publication 2-0: Joint Intelligence](http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf)
+Requirements. The first part of the intelligence cycle and the most neglected. According to the [appendix of Joint Publication 2-0: Joint Intelligence](http://www.dtic.mil/doctrine/new_pubs/jp2_0.pdf)
 
 > <i class="fa fa-quote-left fa-3x pull-left"></i>__intelligence requirement.__ 1. Any subject, general or specific, upon which there is a need
 for the collection of information, or the production of intelligence. 2. A requirement for
@@ -22,7 +20,7 @@ Requirements set the entire priority of your intelligence cycle, what sources yo
 
 The first place I start thinking about collection is realizing your own business plan and what that entails. Certain actors target resources in a way that you can rule them in scope or out of scope:
 
-- Are you a bank or financial institution? Financially motivated attackers are interested in you and intellectual propriety focused attackers aren't. Same thing with _big institution attackers_ like Anonymous.
+- Are you a bank or financial institution? Financially motivated attackers want to attack you and intellectual propriety focused attackers don't. Same thing with _big institution attackers_ like Anonymous.
 - Are you doing energy exploration? The Black Energy Team might be targeting you.
 - Do you invent pharmaceuticals? Look for actors that try to steal information like that.
 
@@ -36,7 +34,7 @@ So using this as an example:
 - What about finance? Focus on Deep Panda, Impersonating Panda, & Singing Spider.
 - Governments may want to focus on Anchor Panda, Silent Chollima, & Viceroy Tiger.
 
-Will these always be perfect? Certainly not, but they provide a solid starting point. Your industry heavily defines your threat model and thus should define your intelligence requirements.
+Will these always be perfect? Certainly not, but they provide a solid starting point. Your industry heavily defines your threat model and thus is a rich starting point to begin defining your intelligence requirements.
 
 ## Geographic Requirements
 
@@ -54,7 +52,8 @@ _**Aside:** That said there are few greater lies than thinking you know where so
 
 > <i class="fa fa-quote-left fa-3x pull-left"></i> Windows 2000: Designed for the Internet. The Internet: Designed for UNIX. ~ _Unknown_
 
-![](http://media2.giphy.com/media/M3o3fL9nnxG4o/giphy.gif) It's common to think of most actors as omnipotent though they are not. They have limits, budgets, time, etc. As a result most attackers are familiar with attacking certain kinds of infrastructure and systems. A Windows network running Active Directory is in some ways harder to attack than a Linux network on LDAP (don't knock MSFT, they've invested a lot in security over the last 15 years) but the fact is most attackers are probably more familiar and invested in attacking Windows & AD than Ubuntu and OpenLDAP.
+
+It's common to think of most actors as omnipotent though they are not. They have limits, budgets, time, etc. As a result most attackers are familiar with attacking certain kinds of infrastructure and systems. A Windows network running Active Directory is in some ways harder to attack than a Linux network on LDAP (don't knock MSFT, [they've invested a lot in security over the last 15 years](http://news.microsoft.com/stories/cybercrime/index.html)) but the fact is most attackers are probably more familiar and invested in attacking Windows & AD than Ubuntu and OpenLDAP.
 
 When developing intelligence requirements take the time to look around your infrastructure, what makes you special? Do you run lots of Industrial Control Systems? You should probably be paying attention to different attackers than a law firm running all Macs. Part of this is vulnerability management as well, understanding the flaws that are out there for the systems you protect.
 
