@@ -83,6 +83,7 @@ The best intelligence requirements are specific enough to direct answering the q
 - __Singular:__ A strong requirement focuses on one question and only one question.
 - __Atomic:__ The requirement should be specific to a particular fact or event.
 - __Decision Centric:__ The requirement should lead to making a decision.
+- __Timeliness:__ A requirement should capture the timeframe for usable intelligence.
 
 It takes time and practice to develop good requirements.
 
@@ -92,6 +93,7 @@ It takes time and practice to develop good requirements.
 | What indicators should we be using in our IDS? | What are current file system indicators of Actor X? |
 | Are there actors targeting the location we're in? | Is an actor specifically targeting Region Y? |
 | What malware should we look for on our network? | Are attackers using [Locky](https://blogs.technet.microsoft.com/mmpc/2016/02/24/locky-malware-lucky-to-avoid-it/) against my vertical? |
+| Will our organization get DDoS'd? | Are there indicators of DDoS attack in the next 30 days? |
 
 Practice makes perfect, but working with others to sharpen your requirements writing is even better.
 
