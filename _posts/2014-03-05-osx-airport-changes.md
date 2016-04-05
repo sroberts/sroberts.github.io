@@ -48,7 +48,7 @@ The ```RememberedNetworks``` array contains a number of dictionaries in the foll
 | Passpoint | Boolean | Did this AP support [Passpoint](http://www.wi-fi.org/discover-wi-fi/wi-fi-certified-passpoint)?  | |
 | PossiblyHiddenNetwork | Boolean | Is this AP is broadcasting it's SSID? | |
 | SPRoaming | Boolean | Does the AP allow authentication to a [roaming SP consortium](http://www.wi-fi.org/system/files/20121010_Passpoint_r1_DP.pdf "see 3.1.3 Roaming Consortium List ANQP and Beacon Frame Elements")? | |
-| SSID | Data | [Service Set Identification](http://en.wikipedia.org/wiki/Service_set_(802.11_network) | |
+| SSID | Data | [Service Set Identification](http://en.wikipedia.org/wiki/Service_set_(802.11_network)) | |
 | SSIDString | String | The wireless network name, one of the most useful items. | |
 | SecurityType | String | WPA or WPA2? WEP or open? | |
 | SystemMode | Boolean | [Supplicant mode](http://training.apple.com/pdf/WP_8021X_Authentication.pdf "see p.7 and p.19 first note") is System Mode? | |
