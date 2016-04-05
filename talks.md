@@ -3,9 +3,13 @@ layout: page
 title: Talks
 ---
 
-Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
+Here is an overview of my past (and sometimes upcoming) speaking opportunities.
+
+## 2016
+- [SANS CTI Summit 2016](https://www.sans.org/event/cyber-threat-intelligence-summit-2016): Community Intelligence & Open Source Tools ([Slides](https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools))
 
 ## 2015
+- [BSidesDFW 2015](http://www.securitybsides.com/w/page/96312090/BSidesDFW%202015): Responding @ Scale - osquery for Mass Incident Detection & Response ([Slides](http://sroberts.github.io/bsidesdfw2015-slides/slides.html#1))
 - [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS ([Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx))
 - [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!)
 - [FIRST](http://www.first.org/conference/2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communications-for-incident-response-first15))
@@ -19,7 +23,7 @@ Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
 - [Facebook Security@Scale](http://facebook.com): Building Your Own DFIR Sidekick
 - [OpenDNS S4](http://labs.opendns.com/2014/09/03/s4-incident-responder-conference-september-18th-2014-san-francisco-ca/): Building Your Own DFIR Sidekick
 - [ArchC0N](http://www.archc0n.org/): A Basic Guide to Advanced Incident Response
-- [TechTalk Live](http://www.techtalklive.org/Pages/Home.aspx): A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
+- TechTalk Live: A Basic Guide to Advanced Incident Response ([Slides](https://speakerdeck.com/sroberts/a-basic-guide-to-advanced-incident-response))
 - Closed Conference: How GitHub Uses GitHub to Defend GitHub ([Slides](https://speakerdeck.com/sroberts/how-github-uses-github-to-defend-github))
 
 ## 2013
@@ -39,7 +43,7 @@ Here is an overview of my past (and sometimes upcoming) speaking oppertunities.
 ## 2009
 - [Strange Loop](https://thestrangeloop.com): A Developers Guide to Hacking Tools For Fun and Profit
 - The Computer Forensics Show: Mandiant State of the Hack
-- [GFIRST](http://www.us-cert.gov/gfirst): Closed Session
+- [GFIRST](https://www.us-cert.gov/government-users/collaboration/gfirst): Closed Session
 
 ## 2007
 - [ShmooCon](http://www.shmoocon.org)3 Keynote: The Security Ramifications of the OLPC Project

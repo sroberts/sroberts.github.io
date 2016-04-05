@@ -10,9 +10,10 @@ This is my attempt at a reasonable technical blog around security, programmign, 
 
 ## Technology
 * Blog Package: [Jekyll](http://jekyllrb.com)
-* Blog Theme: [Hyde](http://andhyde.com)
+* Blog Theme: [Lanyon](https://github.com/poole/lanyon)
 * Hosting: [GitHub Pages](http://pages.github.com)
 * Todos: [GitHub Issues](https://github.com/sroberts/sroberts.github.io/issues)
+* Testing: [HTMLProofer](https://github.com/gjtorikian/html-proofer) & [CircleCI](https://circleci.com/)
 
 ## License
 
