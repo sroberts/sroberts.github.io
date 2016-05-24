@@ -6,6 +6,7 @@ title: Talks
 Here is an overview of my past (and sometimes upcoming) speaking opportunities.
 
 ## 2016
+- [BSidesCincy](http://bsidescincy.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX ([Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx-bsidescincy) & [Video](https://www.youtube.com/watch?v=gNJ10Kt4I9E))
 - [SANS CTI Summit 2016](https://www.sans.org/event/cyber-threat-intelligence-summit-2016): Community Intelligence & Open Source Tools ([Slides](https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools))
 
 ## 2015
