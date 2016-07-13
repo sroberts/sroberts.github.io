@@ -36,8 +36,8 @@ The next place to gather requirement is by digging into your organizations busin
 
 So using this as an example (and CrowdStrike vernacular):
 
-- What about that bank? They'll want to focus on Deep Panda, Impersonating Panda, & Singing Spider.
-- If you're an oil company you should be on the look out for Cutting Kitten, Energetic Bear, & Ghost Jackal.
+- What about that bank? They'll want to focus on Deep Panda, Impersonating Panda, and Singing Spider.
+- If you're an oil company you should be on the look out for Cutting Kitten, Energetic Bear, and Ghost Jackal.
 - The firm with the new heart attack treatment? I'd be on the look out for Deep Panda, Union Spider, and Corsair Jackal.
 
 These distinctions won't always be perfect but they provide a solid basis to develop requirements. Your industry heavily defines your threat model and thus is a rich starting point to begin defining your intelligence requirements.
@@ -58,7 +58,7 @@ _**Aside:** Before you say it I agree, VPNs are easy and hotpoints can be anywhe
 
 > <i class="fa fa-quote-left fa-3x pull-left"></i> Windows 2000: Designed for the Internet. The Internet: Designed for UNIX. ~ _Unknown_
 
-It's a common mistake to think of attackers as omnipotent. They have limits, budgets, time, etc. As a result most attackers focus on attacking certain kinds of networks. A Windows network running Active Directory is often harder to attack than a Linux network on LDAP (don't knock MSFT, [they've invested a lot in security over the last 15 years](http://news.microsoft.com/stories/cybercrime/index.html)) but the fact is most attackers are probably more familiar and invested in attacking Windows & AD.
+It's a common mistake to think of attackers as omnipotent. They have limits, budgets, time, etc. As a result most attackers focus on attacking certain kinds of networks. A Windows network running Active Directory is often harder to attack than a Linux network on LDAP (don't knock MSFT, [they've invested a lot in security over the last 15 years](http://news.microsoft.com/stories/cybercrime/index.html)) but the fact is most attackers are probably more familiar and invested in attacking Windows and AD.
 
 ![Nmap... because?](/public/nmap.jpg)
 
