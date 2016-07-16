@@ -80,6 +80,7 @@ The web is full of resources to help you get started with Golang (almost as much
 There are tons of interesting Golang projects out there on GitHub, especially around security:
 
 - [blackfist/deez_factors](https://github.com/blackfist/deez_factors): Identify GitHu GitHub org users without 2FA
+- [Phillipmartin/gopassivedns](https://github.com/Phillipmartin/gopassivedns) - A passive DNS daemon & logging tool
 - [SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown): A tool for securing OSX system preferences
 - [mephux/kolide](https://github.com/mephux/kolide): An osquery distributed endpoint management framework
 - [demisto/alfred](https://github.com/demisto/alfred): A chat bot for integrating security info into your Slack
