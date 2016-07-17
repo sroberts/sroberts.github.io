@@ -34,15 +34,15 @@ It's not all upside. Golang is strict. It has right ways and wrong ways to do th
 
 ## Why use Golang for security?
 
-I continue to think Python is the best language to start with for Security, but there are situations where it's invaluable. Big data crunching, high concurrency network activities like web scanning. For me though the first serious benefit was the compiled nature. 
+I continue to think Python is the best language to start with for Security, but there are situations where you need a little bit more. For me though the first serious benefit was the compiled nature. 
 
-I was building a tool that pulled in data from various sources to use on the commandline and with Maltego. Initial these started as Python scripts specifically built for Maltego but they had a couple problems:
+I was building a tool that pulled in data from various sources to use on the commandline and with Maltego. Initially these started as Python scripts specifically built for Maltego but they had a couple problems:
 
 - While they worked well enough for me they were buggy, no tests, inconsistent, and often needed me to jump in and fix mid-use. 
 - The configuration was highly specific to my machine. That's ok for me, but getting the same transforms setup on someone else's machine would have been hard. (Yes, we could get a TDS, but for only a handful of people that seemed like overkill.)
 - Lastly as useful as it was for Maltego there were times I wanted the output on the commandline instead, to use with other scripts or tools similar to [ivanlei/threatbutt](https://github.com/ivanlei/threatbutt). Quite a change to my codebase.
 
-The solution? Well if you haven't guessed by now I can't help you, but yes, I began rewriting the scripts in Golang. The result? A single binary that anyone can run whether on the commandline or with Maltego, feels far more consistent and, and runs on the commandline. It also has the upside of being a bit faster and easier to understand.
+The solution? Well if you haven't guessed by now I can't help you, but yes, I began rewriting the scripts in Golang. The result? A single binary that anyone can run whether on the commandline or with Maltego, feels far more consistent and runs on the commandline. It also has the upside of being a bit faster and easier to understand.
 
 ## Resources for Learning
 
@@ -79,7 +79,7 @@ The web is full of resources to help you get started with Golang (almost as much
 
 There are tons of interesting Golang projects out there on GitHub, especially around security:
 
-- [blackfist/deez_factors](https://github.com/blackfist/deez_factors): Identify GitHu GitHub org users without 2FA
+- [blackfist/deez_factors](https://github.com/blackfist/deez_factors): Identify GitHub org users without 2FA
 - [Phillipmartin/gopassivedns](https://github.com/Phillipmartin/gopassivedns) - A passive DNS daemon & logging tool
 - [SummitRoute/osxlockdown](https://github.com/SummitRoute/osxlockdown): A tool for securing OSX system preferences
 - [mephux/kolide](https://github.com/mephux/kolide): An osquery distributed endpoint management framework
