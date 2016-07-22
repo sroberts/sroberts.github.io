@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Installing Yara 2 on Ubuntu 14.04
+description: 'The trick is just always use sudo.'
 ---
 
 One of my projects last weekend was getting [Cuckoo Sandbox](http://cuckoosandbox.org/) stood up again. I hadn't done much more than beginning to install libraries and dependencies than it called for one of my favorite security tools: [Yara](http://plusvic.github.io/yara/).

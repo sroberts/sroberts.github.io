@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Minimal Packing for Maximum Travel
+description: 'Pack less, do more.'
 ---
 
 > _I started writing this at the end of March right after two trips in a row. I've since done another type of packing, moved, and now I'm finally catching up, so forgive some out of date thougths._

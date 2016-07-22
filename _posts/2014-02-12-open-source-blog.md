@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Open Source Blogging
+description: 'You are looking at it.'
 ---
 
 So it's been more days than I'd like since my last blog, sadly since I've been dealing with some discomfort in my arms along the lines of an RSI, something I plan on discussing more. That said I'm on the mend, and wanted at least a small post so I don't feel like such a slacker.

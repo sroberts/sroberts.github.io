@@ -1,6 +1,7 @@
 ---
 layout: post
 title: OSX Airport Preferences Forensics
+description: 'How do PLists even work anyway?'
 ---
 
 I've been a huge fan of [@jipe_](https://twitter.com/Jipe_)'s [OSXAuditor](https://github.com/jipegit/OSXAuditor). In the limited  field of [OS X](http://www.apple.com/osx/) incident response tools OSXAudtior is the best quick triage tool out there. Unfortunately recently when I started working with I hit a quick snag.

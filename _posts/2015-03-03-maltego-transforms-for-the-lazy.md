@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maltego Transforms for the Lazy
+description: 'Defenders think in lists. Awesome defenders automate graph creation.'
 ---
 
 ![Maltego](/public/maltego.png)
