@@ -20,7 +20,7 @@ While everyone experiences imposter syndrome, it manifests itself in unique and 
 
 Early in my career I read an article the then-upcoming Windows XP SP2 release and its focus on security (built-in firewall, [DEP/NX](http://en.wikipedia.org/wiki/Data_Execution_Prevention), Security Center, etc). This was a formative time in my career and this was a major advancement that I misunderstood entirely.
 
-![A Blink Light Box](http://www.plinkusa.net/products/G2220S-16.gif)
+![A Blink Light Box](/public/blinkypanel.gif)
 
 My first thought was simple: _"I may as well give up on security, they're just going to make hacking impossible with this release."_
 
@@ -37,7 +37,7 @@ There's a [joke](https://uproxx.files.wordpress.com/2015/01/archer-burn.gif?w=65
 
 Hang out with offensive types (pentesters, exploit developers, etc) and you'll hear stories that can basically get boiled down to "Defense is garbage, defenders are useless, we always win, I'm super awesome." It's never said that way (otherwise get new friends) but as a DFIR, this feels like being called an idiot all night.
 
-![Hacker Bragging Origins](http://38.media.tumblr.com/25381459d5898e2daf10b16c59d66955/tumblr_nl4nqvsTUK1s49n8po1_500.gif)
+![Hacker Bragging Origins](/public/candb.gif)
 
 To be clear: This is my hang up. This is not my offensive friends' fault. We all tell stories focused on our successes, not our failures. It's tough when you never hear a pentester talk about the time they failed for a week straight to compromise a target. Instead you hear about the epic success when they [got their shell](/public/equation.jpg). You never hear a vulnerability researcher describe the weeks in [IDA](https://www.hex-rays.com/products/ida/) (or [Vivisect](https://github.com/vivisect/vivisect)) getting frustrated. But you do hear about when they [launched their exploit and saw calc.exe pop up](http://2.bp.blogspot.com/-6DX89aYwS7Y/UJBl7YXEL1I/AAAAAAAAABo/mm0VnPGZELY/s1600/timeout.gif).
 

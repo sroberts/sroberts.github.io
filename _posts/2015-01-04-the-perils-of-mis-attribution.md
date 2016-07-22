@@ -5,7 +5,7 @@ title: The Perils of (Mis)Attribution
 
 It's impossible to be involved in the information security community right now and to avoid [the incident going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). All of the details of the attack by "The Guardians of Peace" may never be publicly known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, somewhat tertiary but none the less key issue, the "attribution" debate.
 
-![Super Creepy Computer Spy Eye](http://cdn4.spiegel.de/images/image-576643-breitwandaufmacher-wwyh.jpg)
+![Super Creepy Computer Spy Eye](/public/spookydigitaleye.jpg)
 
 >_Obligatory "Darky Computery Hacker" Image_
 
@@ -52,7 +52,7 @@ In most cases collecting data on security events is difficult. Very few organiza
 ### Circumstantial Information
 At it's core one of the most attractive things about offensive network operations is [how easy it is to be someone you're not](http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you're_a_dog).
 
-![On the Internet no one knows you're a dog](http://upload.wikimedia.org/wikipedia/en/f/f8/Internet_dog.jpg)
+![On the Internet no one knows you're a dog](/public/internet_dog.jpg)
 
 - IP Addresses are easy to fake with VPN software or a cheap VPS, thus seeming to come from any country you like.
 - Many network protocols have limited or zero security built in, making it [possible to intercept, spoof, or manipulate many types of communication with proper technology or network position](https://en.wikipedia.org/wiki/Tailored_Access_Operations#QUANTUM_attacks).
@@ -138,7 +138,7 @@ Being able to tie a series of TTPs to a name, even just a made up code name, is 
 
 ## Conclusion
 
-![OMG KJU](http://media.gizmodo.co.uk/wp-content/uploads/2015/01/s--xWrGDiOk--.jpg)
+![OMG KJU](/public/kimjong1337.jpg)
 
 > _Ok... this was some amazing Photoshopping by Gizmodo!_
 
