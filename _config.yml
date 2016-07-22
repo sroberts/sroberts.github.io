@@ -13,7 +13,7 @@ name:             '@sroberts'
 title:            '@sroberts'
 tagline:          'advanced persistent incident responder'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
-url:              http://sroberts.github.io
+url:              https://sroberts.github.io
 baseurl:          /
 
 author:
@@ -35,13 +35,13 @@ twitter:
   main:           https://www.twitter.com/sroberts
 
 linkedin:
-  main:           http://www.linkedin.com/in/scottroberts
+  main:           https://www.linkedin.com/in/scottroberts
 
 pgp:
   main:           https://keybase.io/sroberts
 
 rss:
-  main:          http://sroberts.github.io/feed.xml
+  main:           https://sroberts.github.io/feed.xml
 
 gems:
 - jemoji
