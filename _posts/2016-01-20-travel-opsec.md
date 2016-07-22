@@ -33,8 +33,6 @@ The basic formula of both of these attacks is _physical access + time = compromi
 
 ### <i class="fa fa-angle-double-right"></i> _Dark Hotel_ Style Attacks
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQpGzivvtqg" frameborder="0" allowfullscreen></iframe>
-
 Moving past physical attacks there are other ways to steal data in hotels. The [DarkHotel APT group](https://securelist.com/blog/research/66779/the-darkhotel-apt/
 ) __targets victims by compromising the networks of common traveler destinations__ such as international hotels and uses their access to infect victims with trojans, pilfering data at their convenience.
 
