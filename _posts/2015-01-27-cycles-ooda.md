@@ -10,7 +10,7 @@ So how do you balance these needs? The paradox of disciplined steps mixed with r
 ## [The OODA Loop](http://en.wikipedia.org/wiki/OODA_loop)
 OODA is easily the most misunderstood cycle on this list. It is simple but powerful, so powerful it causes people to want to over think it. At it's core OODA is an abstraction of the typical human thought process. Developed by American fighter pilot and tactician [Col. John Boyd](http://en.wikipedia.org/wiki/John_Boyd_(military_strategist)) to understand fighter engagements the OODA loop is applicable to most decision cycles, including incident response decisions.
 
-[![Boyd's OODA Loop](http://upload.wikimedia.org/wikipedia/commons/3/3a/OODA.Boyd.svg)](http://en.wikipedia.org/wiki/OODA_loop)
+[![Boyd's OODA Loop](/public/OODA.svg)](http://en.wikipedia.org/wiki/OODA_loop)
 
 While the annotated version above is complex at it's core the OODA Loop is made up of four simple steps.
 

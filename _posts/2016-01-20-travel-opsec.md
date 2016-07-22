@@ -87,7 +87,7 @@ Don't forget your "other" devices like phones, Kindles, etc.
 
 #### <i class="fa fa-angle-double-right"></i> Prepare 2FA
 
-![Yubikey](http://immunityit.com/wp-content/uploads/2011/10/yubikeys.jpg)
+![Yubikey](/public/yubikeys.jpg)
 
 You already have two factor authentication turned on every where you can right? Well double check and make sure. [TOTP](https://tools.ietf.org/html/rfc6238) based is great, but [YubiKey](https://www.yubico.com/products/yubikey-hardware/) is becoming even more attractive as services are beginning to support the [FIDO/U2F standard](https://www.yubico.com/applications/fido/). I'm also a big [DuoSecurity](https://www.duosecurity.com/) fan for it's great interface, easy integration, and reasonable prices.
 
@@ -95,7 +95,7 @@ You already have two factor authentication turned on every where you can right? 
 
 [Setting up your own VPN isn't that hard](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-14-04) and provides a lot of trust and flexibility, even if it comes with some extra effort. While you're at it take the time to [enable DuoSecurity](https://www.duosecurity.com/docs/openvpn) as well.
 
-[![Cloak](http://i.kinja-img.com/gawker-media/image/upload/s--37hH2odE--/c_fit,fl_progressive,q_80,w_636/17wjodu7rofbhjpg.jpg)](https://www.getcloak.com/)
+[![Cloak](/public/cloak.jpg)](https://www.getcloak.com/)
 
 You could also use a paid VPN provider. The downside is placing your trust in another service but the upside is it's easy and often comes with more polish. I like [Cloak](https://www.getcloak.com/) for it's clean design and multi-device support.
 
@@ -110,7 +110,7 @@ Pretty huh? That said I'm still mixed on them. While it does a great job of keep
 #### <i class="fa fa-angle-double-right"></i> USB "Condom"
 Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmitted malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
 
-![USB Condom](http://cdn.shopify.com/s/files/1/0616/6813/products/IMG_1204_grande.JPG?v=1432758676)
+![USB Condom](/public/syncstop.jpg)
 
 A USB condom (sorry for the uncouth term Mom) protects you by breaking the data transfer connections of USB while leaving the power connections intact. That means you can charge your device without inadvertently syncing data or worse.
 
