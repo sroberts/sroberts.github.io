@@ -7,7 +7,7 @@ Great, you've [decided to move beyond reactive incident response and start hunti
 
 ### Endpoint Alerting Tools: [Facebook osquery](https://osquery.io/)
 
-![Facebook osquery Screenshot](http://ycom.cat/wp-content/uploads/2014/10/portada_osquery.jpg)
+![Facebook osquery Screenshot](/public/osquery-screenshot.jpg)
 
 osquery is a tool from Facebook that describes itself as:
 
@@ -17,7 +17,7 @@ If I'm honest I wasn't crazy about osquery at first (Sorry Mike). The SQL syntax
 
 ### Endpoint Interrogation Tools: [Google GRR](https://github.com/google/grr)
 
-![Google GRR Screenshot](http://wiki.grr.googlecode.com/git/Screenshot%20from%202013-11-18%2018:36:46.png)
+![Google GRR Screenshot](/public/grr.png)
 
 Google Rapid Response (GRR) was built by Google in the wake of their [Aurora Incident](http://www.wired.com/2010/01/operation-aurora/) to do incident response at scale across a wide variety of operating systems and geographies. Billed as:
 
