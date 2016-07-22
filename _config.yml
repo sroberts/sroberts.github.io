@@ -14,7 +14,6 @@ title:            '@sroberts'
 tagline:          'advanced persistent incident responder'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
 url:              https://sroberts.github.io
-baseurl:          /
 
 author:
   name:           'Scott J Roberts'
