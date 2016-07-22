@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intelligence Concepts - The Intelligence Cycle
+description: 'And I do not mean intelligence as in smart.'
 ---
 
 I can't talk about important intelligence concepts for security without talking about the grand daddy, the original: the Intelligence Cycle. This should be great discussion fodder for anyone who has to talk to someone who claims they're selling some form of _Threat Intelligence_ product, given in most cases they seem to be using the phrase in place of the word _smart_. __Intelligence vs smart couldn't be farther from the truth.__

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Basic Guide to Advanced Incident Response
+description: 'More basic and less advanced which is just what we all need.'
 ---
 
 On 5/5 was lucky enough to be invited to speak at an education technical conference [Tech Talk Live](http://www.techtalklive.org/) Cyber Security Symposium. I wanted to do something new, something different. I've long been an advocate of intelligence driven incident response, but had never seen a sufficiently useful presentation to introduce this complex but powerful work flow to others. So I tried to make one.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crisis Communication for Incident Response
+description: 'Because sticking your head in the sand is not an option.'
 ---
 
 One part of intrusion response that rarely gets enough attention in DFIR circles is the communications victim companies make to their own customers. This is almost always the only real information the public (and even security community) see about an intrusion and communicating what happened effectively is crucial to minimizing damage, both to customers and to your organizations reputation.

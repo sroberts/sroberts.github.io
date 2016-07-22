@@ -1,6 +1,7 @@
 ---
 layout: post
 title: APT is a Who not a What... And Why it doesn't Matter
+description: 'Would an APT by any other name be more advanced... or presistant?'
 ---
 
 A small number of topics get intelligence driven incident responders incredibly frustrated:

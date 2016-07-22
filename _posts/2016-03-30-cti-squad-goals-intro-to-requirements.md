@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CTI SquadGoals - Setting Requirements
+description: 'CTI starts with requirements, we need to focus more on making our requirements awesome.'
 ---
 
 ![Squad Goals](/public/squadgoals.png)

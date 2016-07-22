@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Travel OpSec
+description: 'A few small changes can make traveling safer with your computer resources.'
 ---
 
 Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truly](http://sroberts.github.io/2015/07/08/ccir-presentation/)), and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.

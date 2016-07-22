@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Imposter Syndrome in DFIR
+description: 'Everyone is faking it, and you can too! I know I am.'
 ---
 
 > Impostor syndrome can be defined as a collection of feelings of inadequacy that persist even in face of information that indicates that the opposite is true. It is experienced internally as chronic self-doubt, and feelings of intellectual fraudulence.
