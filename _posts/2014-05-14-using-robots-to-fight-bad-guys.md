@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Using Robots to Fight Bad Guys
+description: 'Setup Hubot and save the world.'
 ---
 
 At the end of last year I was invited few places (CentralPA Open Source, [BSidesDFW](http://www.securitybsides.com/w/page/60987881/BSidesDFW), & [BayThreat](http://www.baythreat.org/)) and gave a talk about some of the work I've done to adapt Hubot, GitHub's friendly-ish chatbot, and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR. So this is my extended breakdown of [ChatOps](http://www.reddit.com/r/chatops/), [Hubot](https://hubot.github.com/), [Hubot-VTR](https://github.com/sroberts/hubot-vtr-scripts), and building modules in [CoffeeScript](http://coffeescript.org/).

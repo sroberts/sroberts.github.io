@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Intelligence Concepts - OODA
+description: 'And next up we will start talking EM Theory.'
 ---
 
 The information security community loves lists, cycles, and other guides for actions. We have important steps that need to be followed, but no investigation is exactly the same, and every one requires a bit of improvisation.

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pretty JSON is Pretty (Useful)
+description: 'Because structured data is not just for computers.'
 ---
 
 So as initially suggested I haven't been good about blogging yet. I've been quite busy with work. But I did want to pass along one small tip I've picked up.

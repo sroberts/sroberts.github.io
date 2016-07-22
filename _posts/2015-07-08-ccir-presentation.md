@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Crisis Communications for IR (The Preso!)
+description: 'A talk about a talk about talking about getting hacked.'
 ---
 
 In September I wrote about [Crisis Communications in Incident Response](http://sroberts.github.io/2014/09/22/crisis-comms-for-ir/) and after some great feedback I expanded it and built a presentation. I gave this presentation in June at [FIRST](http://www.first.org/conference/2015) and today (July 8th) at [SANS DFIR Summit](https://www.sans.org/event/digital-forensics-summit-2015). Both were great events and I highly recommend them.  

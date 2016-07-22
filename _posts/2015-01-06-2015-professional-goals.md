@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2015 Professional Goals
+description: 'So I do not waste it like I did 2014.'
 ---
 
 The start of the year is a time for goals and plans. I've given it some thought and want to put mine out there for two reasons:

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Perils of (Mis)Attribution
+description: 'Attribution is hard, lets go shopping!'
 ---
 
 It's impossible to be involved in the information security community right now and to avoid [the incident going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). All of the details of the attack by "The Guardians of Peace" may never be publicly known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, somewhat tertiary but none the less key issue, the "attribution" debate.

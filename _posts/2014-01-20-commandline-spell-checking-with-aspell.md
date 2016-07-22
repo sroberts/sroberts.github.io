@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Command-line Spell Checking with Aspell
+description: 'Wun dae eye wll spll gud.'
 ---
 
 In an effort to improve my "Unix" skills I'm trying to do more and more on the command line, such as writing this blog. This has worked out for me in a lot of ways, making much of my work faster, less environment dependent, and easier to reproduce/script. I've learned lots of tricks to help with this, but recently came across one of the best ones: Aspell.

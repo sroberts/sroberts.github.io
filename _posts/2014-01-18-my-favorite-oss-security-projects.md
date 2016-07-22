@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Favorite Open Source Security Tools
+description: 'Because why pay for stuff when you can get better tools for free?'
 ---
 So working at [GitHub](http://github.com) it is no surprise I believe in and use a lot of open source software. I think especially for security this makes sense, for a number of reasons:
 

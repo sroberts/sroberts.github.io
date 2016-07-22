@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Online CTFs
+description: 'Like a gameshow but for nerds.'
 ---
 I've been lucky enough to play in a number of computer attack & defend (sometimes only one or the other) [Capture The Flags](http://en.wikipedia.org/wiki/Capture_the_flag#Computer_security). They've been some of the best learning experiences I've ever had and a ton of fun. It really compresses all of cyber security, minus that boring policy stuff, into a smaller time frame.
 
