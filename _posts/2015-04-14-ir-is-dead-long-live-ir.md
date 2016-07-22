@@ -2,6 +2,7 @@
 layout: post
 title: "Incident Response is Dead...<br/>
 Long Live Incident Response"
+description: 'Everything old is new again!'
 ---
 
 Talk to anyone in the _DFIR Illuminati_ and one of the topics that always comes up is _Hunting_. Much like threat intelligence & string theory, people talk a lot about this, but nearly no one knows what it actually means.

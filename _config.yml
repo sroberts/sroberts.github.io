@@ -21,6 +21,7 @@ author:
   url:            'https://twitter.com/sroberts'
   email:          'scott.roberts@gmail.com'
   twitter:        'sroberts'
+  picture:        '/public/sjr.jpg'
 
 paginate:         5
 

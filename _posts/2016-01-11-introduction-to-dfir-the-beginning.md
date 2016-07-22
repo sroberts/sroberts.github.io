@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Introduction to DFIR
+description: 'DFIR is a big field with lots of specalities. Lets break it down.'
 ---
 
 One of my favorite things is talking to students and people new to the security field. It feels like yesterday I was wandering around the first [Shmoocon](http://shmoocon.org/) as a student in awe of the people I met and the work they were doing. Now I'm 10 years into my career and have a whole different perspective (though still in awe with those folks). Starting a career in infosec isn't easy and while [there are better general introductions](http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/) I wanted to add my perspective on getting started in Digital Forensics and Incident Response (DFIR).

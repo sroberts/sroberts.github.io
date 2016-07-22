@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Incident Response Hunting Tools
+description: 'Something something hunting something not a bow and arrow.'
 ---
 
 Great, you've [decided to move beyond reactive incident response and start hunting](/2015/04/14/ir-is-dead-long-live-ir/). While hunting is primarily a way of thinking about incident response it does rely on your technical capabilities, so what tools should you use? The focus for me is always on open source tools with tools with wide ranging applications. Here are my favorites:

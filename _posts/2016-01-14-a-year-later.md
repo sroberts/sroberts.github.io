@@ -1,6 +1,7 @@
 ---
 layout: post
 title: A Year Later - 2016 Goals
+description: '2015 is over, lets see what I did and did not accomplish.'
 ---
 
 <img alt="fireworks!!!" src="/public/fireworks.gif" width="1200">
