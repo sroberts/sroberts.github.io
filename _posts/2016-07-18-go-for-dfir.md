@@ -73,6 +73,7 @@ The web is full of resources to help you get started with Golang (almost as much
 - [The Little Book of Go](http://openmymind.net/The-Little-Go-Book/): As far as open source books go (yep, it's 100% free as in beer) I think LBoG is as good as it gets. I keep it on my desktop and reference it often. If I were a student and the $30 price tag of GoPL scared me off this is a very close second.
 
 ### Other Resources
+
 - The major __conference__ for Golang [GopherCon](https://www.gophercon.com/) held in Denver most summers.
 - __Videos__ for many conferences  are put online by [Gopher Academy](https://www.youtube.com/channel/UCx9QVEApa5BKLw9r8cnOFEA) (Speaking of videos [GopherVids](http://gophervids.appspot.com/) is another gem.)
 - __Slides__ for various conferences usually show up on [Golang talks](https://talks.golang.org/) or [github.com/golang/go GoTalks](https://github.com/golang/go/wiki/GoTalks).
@@ -91,6 +92,7 @@ There are tons of interesting Golang projects out there on GitHub, especially ar
 I also know there's something awesome coming out soon from [Ryan Huber](https://github.com/rawdigits) in Go. I don't want to spoil the surprise, but I'd keep an eye out.
 
 ## Companies Using Golang
+
 Lots of security companies are making Golang part of their stack (and thus a good language to learn if you want to work for those companies):
 
 - [CrowdStrike](https://www.crowdstrike.com/)

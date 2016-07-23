@@ -13,9 +13,11 @@ Traveling to a new country as a security minded person is always a bit jarring. 
 Traveling internationally has some unique challenges compared to using IT resources at home.
 
 ### <i class="fa fa-plug"></i> Power
+
 Running around a new country one of the first things you might notice is powering your devices can be tricky. Plugs are different, voltages are different, and you may not have the right adapters. A good [travel battery can help](http://www.amazon.com/Anker-9600mAh-Portable-External-Technology/dp/B00DMWV3EU/ref=sr_1_4?ie=UTF8&qid=1436634357&sr=8-4&keywords=battery+anker), but at some point you'll be hunting for an outlet to grab a charge.
 
 ### <i class="fa fa-wifi"></i> Network
+
 Home is where the wifi is, but when you're traveling you have to take what you can get. You have to balance security with the need to connect. Random coffeeshop/airplane/hotel wifi are all viable pipes, but under who's control?
 
 ### <i class="fa fa-bicycle"></i> Movement
@@ -78,6 +80,7 @@ I'm a far bigger fan of devices like an [iPad](http://www.apple.com/ipad/) or [C
 They're also both super light and get great battery life. All but the most dedicated road warriors don't need more than a browser for most travel use anyway.
 
 #### <i class="fa fa-angle-double-right"></i> Patch Everything
+
 Everything... and then double check:
 
 - Operating System
@@ -109,6 +112,7 @@ You could also use a paid VPN provider. The downside is placing your trust in an
 Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the person sitting next to you it also draws attention. People wonder what you're trying to hide which makes it a double edged sword. Avoiding the gold side helps.
 
 #### <i class="fa fa-angle-double-right"></i> USB "Condom"
+
 Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmitted malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
 
 ![USB Condom](/public/syncstop.jpg)
