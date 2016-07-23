@@ -5,3 +5,4 @@ bundle install
 
 bundle exec jekyll build
 bundle exec htmlproofer ./_site --check-html --check-favicon --disable-external
+bundle exec mdl -c ./.mdlrc _posts
