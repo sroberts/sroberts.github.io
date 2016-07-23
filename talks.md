@@ -10,11 +10,12 @@ Here is an overview of my past (and sometimes upcoming) speaking opportunities.
 - [SANS CTI Summit 2016](https://www.sans.org/event/cyber-threat-intelligence-summit-2016): Community Intelligence & Open Source Tools ([Slides](https://speakerdeck.com/sroberts/community-intelligence-and-open-source-tools))
 
 ## 2015
+- [Forensic Lunch](https://www.youtube.com/channel/UCZ7mQV3j4GNX-LU1IKPVQZg): Forensic Lunch 12/11/15 - [Introduction to Git](https://www.youtube.com/watch?v=6SnpBo0XtaQ)
 - [BSidesDFW 2015](http://www.securitybsides.com/w/page/96312090/BSidesDFW%202015): Responding @ Scale - osquery for Mass Incident Detection & Response ([Slides](http://sroberts.github.io/bsidesdfw2015-slides/slides.html#1))
 - [Archc0n](http://www.archc0n.org/): Incident Response Tools So Cool You've Never Heard of Them: Hipster DFIR on OSX & iOS ([Slides](https://speakerdeck.com/sroberts/hipster-dfir-on-osx))
-- [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!)
+- [SANS DFIR Summit](http://www.sans.org/event/digital-forensics-summit-2015): Crisis Communications for Incident Response ([Video](https://www.youtube.com/watch?v=YSdsmOHc_gk&feature=youtu.be&a) & [Slides](https://speakerdeck.com/sroberts/crisis-communication-for-incident-response) - Updated from FIRST!)
 - [FIRST](http://www.first.org/conference/2015): Crisis Communications for Incident Response ([Slides](https://speakerdeck.com/sroberts/crisis-communications-for-incident-response-first15))
-- [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet ([Slides](https://speakerdeck.com/sroberts/the-most-dangerous-game))
+- [SANS Cyber Threat Intelligence Summit](https://www.sans.org/event/sans-cyber-threat-intelligence-summit): The Most Dangerous Game: Hunting Adversaries across the Internet ([Slides](https://speakerdeck.com/sroberts/the-most-dangerous-game) & [Video](https://www.youtube.com/watch?v=0Xhu73fKNBI&feature=youtu.be&a))
 - [BSides Columbus 2015](http://www.securitybsides.com/w/page/81789821/BSidesCMH2015): A Basic Guide to Advanced Incident Response
 
 ## 2014
