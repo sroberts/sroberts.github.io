@@ -19,8 +19,9 @@ bundle exec mdl -c ./.mdlrc _posts
 title "Validating HTML"
 bundle exec htmlproofer ./_site --check-html --check-favicon --disable-external
 
-title "Checking GitHub Pages is Healthy"
-bundle exec github-pages health-check
+# DISABLED: Due to not using custom URL
+# title "Checking GitHub Pages is Healthy"
+# bundle exec github-pages health-check
 
 title "Cleaning Up"
 rm -Rf _site
