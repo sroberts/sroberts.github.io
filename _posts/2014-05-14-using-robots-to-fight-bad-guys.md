@@ -7,9 +7,11 @@ description: 'Setup Hubot and save the world.'
 At the end of last year I was invited few places (CentralPA Open Source, [BSidesDFW](http://www.securitybsides.com/w/page/60987881/BSidesDFW), & [BayThreat](http://www.baythreat.org/)) and gave a talk about some of the work I've done to adapt Hubot, GitHub's friendly-ish chatbot, and GitHub's Chat Ops workflow for DFIR. While it was great to get the ideas out there's a lot to deploying, using, and customizing VTR. So this is my extended breakdown of [ChatOps](http://www.reddit.com/r/chatops/), [Hubot](https://hubot.github.com/), [Hubot-VTR](https://github.com/sroberts/hubot-vtr-scripts), and building modules in [CoffeeScript](http://coffeescript.org/).
 
 ## My Presentation
+
 <script async class="speakerdeck-embed" data-id="d8d4ee4026280131bf6a16acd67ce186" data-ratio="1.33333333333333" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## How GitHub Uses Hubot: ChatOps
+
 So [DevOps](http://en.wikipedia.org/wiki/DevOps) in general and ChatOps specifically are massive topics unto themselves and I'm not sure I'm the right person to fully address them, so here's my short version of each:
 
 * **DevOps:** An integration of software development & systems operations to increase efficiency, consistency, repeatability, and security.
@@ -21,12 +23,14 @@ Both of these techniques take advantage of modern development tools for rapid to
 <img src="/public/dangerroom-full.png" alt="aspell" style="width: 700px;"/>
 
 ### Benefits of Chat
+
 * **asynchronous:** searchable, read back, push notifications
 * **multi device:** laptop, tablet, & phone
 * **collaborative**
 * **flexbile interface:** an extensible and easy to use interface to build tools around
 
 ## Making Hubot a DFIR Sidekick
+
 The idea is to make Hubot support security ops:
 
 - open source intelligence
@@ -36,6 +40,7 @@ The idea is to make Hubot support security ops:
 - penetration testing & vulnerability management
 
 ## Setting Up Hubot VTR
+
 Setting up Hubot is a simple task that's best started by looking at the [Hubot documentation](https://github.com/github/hubot/blob/master/docs/index.md) itself. Go ahead, we'll wait here.
 
 Once you've got a basic Hubot setup you'll want to [install the VTR scripts with these directions](https://github.com/sroberts/hubot-vtr-scripts/blob/master/README.md#setup). It should be pretty painless.
@@ -58,6 +63,7 @@ Once you've got a basic Hubot setup you'll want to [install the VTR scripts with
 These all require addressing Hubot directly, either by using the bots given name or an alias. So for me that would be ```hubot shodan openssh``` or ```! yara-template```. Both your Hubots name and alias can be configured during setup.
 
 ## Writing Hubot Scripts
+
 Hubot scripts are written in CoffeeScript. CoffeeScript is basically a higher level language that compiles to JavaScript and is then interpreted by Node.js.
 
 ```coffeescript
@@ -92,23 +98,26 @@ module.exports = (robot) ->
 There are a few major parts of any Hubot script:
 
 * **Documentation:** This is actually quite important given that this documentation is passed along into chat when people ask for help.  It's important that this be descriptive and complete.
-* **The Respond or Hear Method:** Hubot can listen for anyone mentioning a specific phrase (```robot.hear```) addressed to anyone, or wait to be addressed directly (```robot.respond```). In either case this is followed with a regular expression detailing what statement to listen for. Anything in ```()``` is saved and can be used in the method body.  
+* **The Respond or Hear Method:** Hubot can listen for anyone mentioning a specific phrase (```robot.hear```) addressed to anyone, or wait to be addressed directly (```robot.respond```). In either case this is followed with a regular expression detailing what statement to listen for. Anything in ```()``` is saved and can be used in the method body.
 * **The Method Body:** This is where the bulk of the work happens. Call a 3rd party API, manipulate text, anything you can think of that you can do in CoffeeScript. In nearly every case the method body has one or more ```msg.send "Foo"``` statement, which has Hubot respond back to the chat.
 
 These are the simplest requirements, but of course there are many optional patterns as well. CoffeeScript tends to be fairly simple, so the best way to pick things up is usually just browsing through open source scripts.
 
 ## My Setup
+
 I currently run two separate Hubots with different adapters and environments:
 
 * **Development:** On my laptop I have a Hubot running with the terminal adapter. Basically it just spawns a shell that acts as chat directly with Hubot. It's not easy to use, but it's fast for testing without having to redeploy, just restart the server. This system has no memory (Redis database), just a brain ([Node.js](http://nodejs.org/) server).
 * **Production:** I have a shared chat room with some other DFIR types and we have a shared Hubot. This Hubot is deployed onto [Heroku](https://www.heroku.com), a single dyno system, and has a RedisToGo memory. We use [Slack](https://slack.com/) as our chat server, we <i class="fa fa-heart"></i> it, and their [Hubot integration](https://github.com/tinyspeck/hubot-slack) is excellent. This is actually a pretty ideal setup, and definitely what I'd recommend for a first deploy.
 
 ## Things to Build
+
 Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f15). There are endless possibilities, new modules, new integrations. My current goals revolve around [Yara](https://github.com/plusvic/yara), including automating signature generation. That said make this what will help you, and pull requests are always welcome.
 
 ## ChatOps Resources
 
 ### Hubot & Hubot VTR
+
 * [Hubot](http://hubot.github.com) & [Hubot Source](https://github.com/github/hubot)
 * [Hubot VTR Scripts](https://github.com/sroberts/hubot-vtr-scripts) & [Hubot VTR Rhodey](https://github.com/sroberts/hubot-vtr-rhodey)
 * [Chatops @ GitHub](http://www.youtube.com/watch?v=NST3u-GjjFw) - [Jesse Newland](https://twitter.com/jnewland)
@@ -116,6 +125,7 @@ Take a look at ["The List"](https://gist.github.com/sroberts/f9ea3a774c585c094f1
 * [Code School: Learn Coffeescript](https://www.codeschool.com/courses/coffeescript)
 
 ### ChatOps & DevOps
+
 * [MountainWest RubyConf 2013 ChatOps at GitHub by Jesse Newland](http://www.youtube.com/watch?v=-LxavzqLHj8)
 * [toptable Tech Blog: Beginning a journey to chatops with Hubot](http://tech.toptable.co.uk/blog/2013/11/22/beginning-a-journey-to-chatops-with-hubot/)
 * [FoodFightShow: ChatOps at Github With Jesse Newland](http://foodfightshow.org/2012/08/chatops-at-github-with-jesse-newland.html)

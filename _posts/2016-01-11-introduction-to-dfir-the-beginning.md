@@ -72,6 +72,7 @@ Disk forensics is a mature capability and many organizations have gotten quite g
 | Person | [@attrc](https://www.twitter.com/attrc) - Andrew Case | I hear he's taken a course on Memory Forensics. And was a core Volatility dev. And wrote the Art of Memory Forensics. |
 
 ### Network Forensics
+
 Between malware analysis and , memory & disk forensics we've got analyzing hosts covered, but almost all incidents involve considerable network activity as well. Infections start as email or web browsing, malware beacons home, then exfiltratates data, all of which require understanding how to analyze network captures.
 
 | Type | Resource | Notes |
@@ -197,9 +198,11 @@ Why is this important? Two key reasons:
 - DFIR teams must focus on complimentary skills. If you have a team strong in memory forensics perhaps you want your next hire to be a strong malware analyst. No one person can be an expert in everything, but your team should have strength across the board.
 
 ## Conclusion
+
 Is that all? Not in the least. There are plenty of other aspects and skills a good DFIR analyst will need. The entire field is all about learning and constantly growing. Last years nation-state technique is in every exploit kit out there. The forensics tool that used to be the best way to do things is replaced by a brand new open source tool.
 
 ## Honorable Mentions
+
 - [Incident Response: Taking CSIRT Modeling to the Next Level](http://frodehommedal.no/presentations/first-tc-oslo-2015/#/slide-start)
 - [meirwah/awesome-incident-response](https://github.com/meirwah/awesome-incident-response)
 - [Starting an InfoSec Career – The Megamix – Chapters 1-3](http://tisiphone.net/2015/10/12/starting-an-infosec-career-the-megamix-chapters-1-3/)

@@ -33,6 +33,7 @@ For my last two trips those amounted to:
 ## Trips
 
 ### May 13-16: [FOSE Conference](http://www.fose.com/Events/Government-Technology/Home.aspx)
+
 This was a 4 day trip to Washington DC to man GitHub's booth at the FOSE Government IT conference. Most of our time was spent manning the booth, meaning GitHub tshirts (we wear them almost always). We also had [one nice "team dinner" out](http://graffiatodc.com/) and general chilling.
 
 #### My Bag for FOSE
@@ -48,6 +49,7 @@ This was a 4 day trip to Washington DC to man GitHub's booth at the FOSE Governm
 For a four day trip this was entirely too much. I never made it to the gym, only wore one collared shirt (on the trip back no less), and had extra tshirts, socks, jeans, etc.
 
 ### May 19-25: [BreizhCamp](http://www.breizhcamp.org/)
+
 This was  a bit more extensive, as it was a longer trip, involved 2 cities (Rennes & Paris France) and a few more events. Hanging out at the conference was the same as booth duty, GitHub tshirts and jeans. My "buddy" coworker and I also went out for a very nice (Michelin <i class="fa fa-star"></i><i class="fa fa-star"></i>) lunch, so I had to have something appropriate for that. General hanging out needs also apply.
 
 #### My Bag for BreizhCamp
@@ -62,11 +64,13 @@ This was  a bit more extensive, as it was a longer trip, involved 2 cities (Renn
 I took considerably less for this trip and was considerably happier for it. While I try to make it to the gym it's so tough while travelling it rarely happens, and ditching that space and weight made everything much more comfortable travelling wise. I even had some spare room in my bag. Same thing with minimizing on shoes. Two pairs covered basically all my needs.
 
 ### Luggage
+
 For both of these two weeks I packed a single bag; a 2010 [North Face Surge I backpack](http://www.thenorthface.com/catalog/sc-gear/surge-ii-transit-backpack.html) (the model before this one). This was my primary travel bag.
 
 In both cases I also included a small, fraying, soft sided tweed shoulder bag from the Old Navy to use walking around. This is great because I can roll it up and either lash it to my backpack or put it in with my clothes.
 
 ### Toiletries
+
 Honestly this is a tough one. In 95% of hotels a certain set of things (like soap and shampoo) are always included, yet things like toothbrushes never are. Not sure where the line is. I tend to pack a small plastic bag with:
 - Toothbrush and toothpaste
 - Deodorant
@@ -76,9 +80,11 @@ Honestly this is a tough one. In 95% of hotels a certain set of things (like soa
 - Mouth wash
 
 ### Hardware
+
 Not clothing related but certainly relevant to packing for technical folks. For the FOSE trip I took a [15" MacBook Pro](https://www.apple.com/macbook-pro/) & [iPad Mini](https://www.apple.com/ipad-mini/). This is ideal for getting things done but is a decent amount of weight and basically never left the hotel room. For BreizhCamp I took my [11" MacBook Air](https://www.apple.com/macbook-air/) & iPad Mini and it was great; the Air is light enough to carry all over without ever noticing and perfect for the kind of work I typically do on the road. The iPad is great for the <i class="fa fa-plane"></i> and some reading but not much use otherwise.
 
 ## Changes
+
 - Always carry MacBook Air vs Macbook Pro
     - Every trip I debate taking my work 15" MacBook Pro or my personal 11" MacBook Air. This needs to stop being a debate: the MBA is the ideal traveling machine. I usually get lots of things done on trips, especially writing, catching up on emails, etc; things that the MBA does just as well as the MBP.
 - Stop carrying my iPad
@@ -89,6 +95,7 @@ Not clothing related but certainly relevant to packing for technical folks. For 
     - Charging is one of the biggest annoyances, especially when travelling abroad. Especially if you avoid using random untrusted USB ports (which you should). The 12South PlugBug makes it easier to charge multiple devices off one outlet, especially if you only have one adapter.
 
 ## Lessons
+
 - Less is undoubtably more. Less weight & volume is more comfort, more freedom, and just a more enjoyable trip. I'm learning to take a really critical eye.
 - Get things at the destination, it's easier than you think. Many hotel chains even have "rental" workout gear and many things are cheap enough it's not worth the cost to pack them.
 - Having a second "walk around" bag that's only enough to carry my MBA makes a huge difference. You don't want a full backpack just to go to a conference with a small laptop.

@@ -20,7 +20,7 @@ At its core, _Hunting_ is about taking a proactive vs a reactive approach to ide
 
 What does it take to build a hunting team? A change in technology, mindset, and procedures.
 
-###  Incident Response
+### Incident Response
 
 The Hunting vs Non-Hunting process is singularly relevant to the Preparation & Detection phases (See the [SANS Incident Response Process](http://sroberts.github.io/2015/03/18/sans-ir/)) of an incident. Good hunting is useless unless your team can execute on the mitigation, remediation, and recovery phases effectively. Without that, all you have is a larger incident load you'll be unable to respond to effectively. Before focusing on hunting, make sure you have the processes in place to respond efficiently. Once your team has effective responses prepared, you'll be ready to start hunting.
 

@@ -48,9 +48,11 @@ Reading these definitions attribution seems wildly reasonable to want to attribu
 Accurate attribution of attacks is difficult under the best of circumstances and there are a few key, common issues.
 
 ### Incomplete Information
+
 In most cases collecting data on security events is difficult. Very few organizations really have sufficient, comprehensive monitoring (full network content monitoring, endpoint monitoring, centralize logging, etc) necessary to recreate any and every event after the fact. Even if they do have the monitoring in place few companies can retain those logs long enough to pull up attacks going back 6+ months. Recreating incident are difficult even if you can acquire the malware and exploit vector (phishing email or watering hole). So at best most security teams are working with incomplete information.
 
 ### Circumstantial Information
+
 At it's core one of the most attractive things about offensive network operations is [how easy it is to be someone you're not](http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you're_a_dog).
 
 ![On the Internet no one knows you're a dog](/public/internet_dog.jpg)
@@ -80,17 +82,17 @@ As a result it's key that information that could lead to those outcomes is caref
 
 I cannot say for certain, having had nothing to do with the investigation, but I would speculate that in this case all 3 (incomplete information, circumstantial information, and operational security) have played a role.
 
-### Incomplete Information
+### Sony's Incomplete Information
 
 I don't want to kick someone when they're down, but [there's been plenty of information to suggest Sony's security team wasn't operating at 100%](http://time.com/3620288/sony-hack-unprepared/). It seems reasonable to believe they may not have been in a position to identify and gather information about the attack when it happened. This would lead to gaps of information that would be difficult to reconstruct.
 
-### Circumstantial Information
+### Sony's Circumstantial Information
 
 This part is the same in every investigation. It is easy to bite and attempt to use information like IP geolocation or certificate data or language pack information, treat it as fact, and make assumptions about an attacker. That isn't to say this information is useless, contrary it's highly valuable data, but it does have to be used carefully. Data itself needs to be [developed before it can be considered intelligence](http://www.fbi.gov/about-us/intelligence/intelligence-cycle).
 
 "Carefully" in events like this is tough. It's hard for security teams, it's all but impossible for the press or firms trying to feed off the marketing potential of a new and exciting boogie man. Circumstantial evidence like this, coupled with confirmation bias, can often lead to jumping to obvious, even _convenient_, conclusions.
 
-### Operational Security
+### Sony's Operational Security
 
 Plenty of people have questioned the FBI's attribution to North Korea. One of the things most commonly cited is how little information they provide, much of which was circumstantial. This concern neglects, or at least naively ignores, what information they're [withholding deliberately](http://www.thedailybeast.com/articles/2015/01/02/u-s-spies-say-they-tracked-sony-hackers-for-years.html) to protect their sources & methods.
 

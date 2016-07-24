@@ -40,6 +40,7 @@ I write [Python](https://www.python.org) multiple times a week. Working at GitHu
 While Python is a great Swiss Army Knife of a language there are times you need something more. Google's [Go](https://golang.org) certainly has gotten a lot of attention and apparently for good reason. It's highly performant, portable, and has a clean (dare I say Pythonic) syntax. It looks like a great language. I've also heard some great things about [Rust](http://www.rust-lang.org) as well ([this article](https://medium.com/@adamhjk/rust-and-go-e18d511fbd95) may sway me). Taking the time to learn and develop a project in a system language would round out a gap I have.
 
 ## Personal Goals
+
 I'm not really keen on making this blog a LiveJournal but while I'm at it I may as well mention a couple personal goals as well:
 
 - Read 12 cooking books this year. Currently I'm reading [Twelve Recipes](https://www.goodreads.com/book/show/20721957-twelve-recipes) by Cal Peternell. Cooking more goes along with this of course.

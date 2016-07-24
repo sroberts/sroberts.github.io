@@ -11,6 +11,7 @@ So working at [GitHub](http://www.github.com) I get asked [git](http://git-scm.c
 There are all kinds of features I know exist but hardly ever use. That said I know about 90% of what I need to use Git effectively, and I've gotten pretty good at GitHub (the product) itself. So here's where I learned and what I think will help you get the most out of Git and GitHub.
 
 ## Learning Git
+
 Just in case you don't know what [Git](http://git-scm.com) is here is a formal intro:
 
 >Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
@@ -22,6 +23,7 @@ To learn Git I recommend starting out with [TryGit](http://try.github.io/levels/
 TryGit is certainly enough to get yourself started, but eventually you'll want to move on to some of the more advanced command line options. To learn those I recommend [Git Immersion](http://gitimmersion.com/). Git Immersion is actually done on your own system's command line and teaches things like rebasing vs merging, tagging, and even resolving merge conflicts.
 
 ## Learning GitHub
+
 Between those resources you'll have a pretty solid base in using Git. Those concepts will get you most of the way towards using GitHub effectively, but GitHub does add a few concepts on top of Git such as Comments, Issues & Pull Requests, and Releases.
 
 At it's core the most important part is what we call "The GitHub Flow":
