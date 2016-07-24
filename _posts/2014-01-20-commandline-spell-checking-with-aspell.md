@@ -15,7 +15,7 @@ So while Vim is great and all one of the things I struggled with is being able t
 I've been really impressed with Aspell and after using it a few days it's gotten a place on my "must have software" list. It's pretty simple:
 
 ```
-$ aspell -c _posts/2014-01-20-commandline-spellchecking-with-aspell
+\$ aspell -c _posts/2014-01-20-commandline-spellchecking-with-aspell
 ```
 
 Brings up a straight forward text interface:

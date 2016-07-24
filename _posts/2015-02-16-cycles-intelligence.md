@@ -25,6 +25,7 @@ Vendors are selling data feeds, management platforms, actor reports, vulnerabili
 I track groups for my own interest and work through this cycle often. In this case we're going to walk through this cycle the way I would for one of the more infamous groups out there; the infamous [Comment Crew](http://en.wikipedia.org/wiki/PLA_Unit_61398) aka APT1.
 
 #### Direction
+
 __First we have to set the parameters of what questions we're trying to answer.__ When I'm doing my personal research I generally have two goals:
 
 - A general understanding of a group such as their  goals.
@@ -49,7 +50,7 @@ The collection process continues until exhausted, either based on content or on 
 
 #### Processing
 
-At this point you have a mountain of data. __Processing is taking all this data and putting it into useful formats for further analysis.__ This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing solutions ([CRITs](http://crits.github.io/), [MISP](http://www.misp-project.org/), [ThreatConnect](http://threatconnect.com/), [ThreatQuotient](https://www.threatq.com/), and dozens of home grown systems).  
+At this point you have a mountain of data. __Processing is taking all this data and putting it into useful formats for further analysis.__ This is all about consistency and ease of analysis. This is one of the toughest problems in the security space right now and has resulted in a lot of competing solutions ([CRITs](http://crits.github.io/), [MISP](http://www.misp-project.org/), [ThreatConnect](http://threatconnect.com/), [ThreatQuotient](https://www.threatq.com/), and dozens of home grown systems).
 
 I end up processing my data into a lot of formats. For things like reports and articles I initially process them into JSON files per article. From there I push my data (___Note: I'm saying data, not intelligence yet___) into two primary places; my personal instance of [CRITs](http://crits.github.io/) intelligence management system and a git repository where I keep my processed JSON, CSV, and Markdown files. [Maltego](https://www.paterva.com/web6/products/maltego.php) for graphical analysis. I also keep all my raw, but processed files around in case I need to manipulate them differently later.
 
@@ -90,6 +91,7 @@ The other key piece of feedback is how application of the new intelligence you'v
 The intelligence cycle isn't something that gets used day in and day out in DFIR work, but is becoming more and more critical to always have running in the back of your head. Whether evaluating new tools or vendors its important to understand that intelligence isn't just data, it's data processed in a rigorous way to ensure a balanced, well contextualized product. This is to make sure you're making good decisions, not following whatever data is in front of you.
 
 ## More Reading
+
 - [Wikipedia: Intelligence Cycle](http://en.wikipedia.org/wiki/Intelligence_cycle)
 - [Wikipedia: Intelligence Cycle Management](http://en.wikipedia.org/wiki/Intelligence_cycle_management)
 - [PSU.edu: Intelligence Process](https://courseware.e-education.psu.edu/courses/bootcamp/lo07/09.html)

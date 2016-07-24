@@ -17,6 +17,7 @@ Imposter Syndrome is like the boogie man: open the closet, turn on the lights, l
 While everyone experiences imposter syndrome, it manifests itself in unique and individualized ways. So with that in mind, and knowing that openness and honesty are the these keys (both to help myself and others), this is my take on the symptoms of imposter syndrome I have experienced as a Digital Forensics & Incident Response professional:
 
 ## The "Blinky Lights" Inferiority
+
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "What if they make a box that does what I do? Like the Terminator but for SOC work."
 
 Early in my career I read an article the then-upcoming Windows XP SP2 release and its focus on security (built-in firewall, [DEP/NX](http://en.wikipedia.org/wiki/Data_Execution_Prevention), Security Center, etc). This was a formative time in my career and this was a major advancement that I misunderstood entirely.
@@ -30,6 +31,7 @@ I was naive and mistaken but this fear has never gone away completely. I thought
 Reality is much different. __I sometimes feel like an imposter because someday someone will build a box that does what I do better than I can.__ Someday won't be today and tomorrow isn't looking promising either. This is the easiest inferiority to look at and dismiss as silly, but that doesn't make it less potent from time to time.
 
 ## The Offensive Inferiority
+
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "Red team bros just constantly say how easy it is to get around what I spent months building."
 
 There's a [joke](https://uproxx.files.wordpress.com/2015/01/archer-burn.gif?w=650) I love that goes like this (with my own small modification):
@@ -45,6 +47,7 @@ To be clear: This is my hang up. This is not my offensive friends' fault. We all
 A defensive team can succeed 999 out of 1000 times and the thing everyone cares about is the 1 in 1000 where they failed. In the same way, offensive teams never discuss the 999 times they failed, only the final time when they succeed. __This leads to the feeling among DFIR folks that thinking they can stop APT:EquationShark (or even the local red team bros) is in vain &mdash; that they're imposters. I would argue defense succeeds often; we just rarely acknowledge it.__
 
 ## The Jack of All Trades Inferiority
+
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "I'm a worse RE than our RE and a worse 4n6 than our 4n6icator and a worse developer then our developer and a worse ops than our ops."
 
 Shifting to an individual perspective, incident handlers are not [_T-Shaped People_](http://web.archive.org/web/20110329003842/http://www.chiefexecutive.net/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications::Article&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=F42A23CB49174C5E9426C43CB0A0BC46). While most people have one skill they're a 8 of 10 on, and lots of skills they're a 3 of 10 in, most DFIR types are a 5 out of 10 in four or five skills and 3s on the rest.
@@ -54,6 +57,7 @@ Because of this we [_Fake the Funk_](http://www.urbandictionary.com/define.php?t
 __It's easy to feel like an imposter when the rest of your team seems deeply skilled, even if it's their area of expertise.__ I'm not as good at working with malware as a RE, but I'm much better at reversing than most forensics engineers, and I know more about intelligence too. It's a unique set of skills to see the big picture that has a unique and important place on a team.
 
 ## The "80/20" Inferiority
+
 > <i class="fa fa-comments-o fa-3x pull-left"></i> "About 80% of the time I just sit around being a mediocre software developer or systems engineer."
 
 I structured this in the order of my imposter syndrome issues. I'm less concerned that RSA is going to release a _@SRoberts Replacement Box_ than the _Pentester Bros_ frustrate me by bragging about their conquests (and ignoring their defeats). The toughest? DFIR types live for emergencies in the way ER doctors live for injuries. What do you do when everything is healthy?

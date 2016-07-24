@@ -23,17 +23,21 @@ I downloaded the most recent release:
 At this point I followed through with the given instructions:
 
 ```
+
 tar -zxf yara-2.1.0.tar.gz
 cd yara-2.1.0
 ./build.sh
 sudo make install
+
 ```
 
 Things seemed fine, I tried running ```yara -h```.
 
 ```
+
 cuckoo@cuckoo-box:~/yara-2.1.0$ yara
 yara: error while loading shared libraries: libyara.so.2: cannot open shared object file: No such file or directory
+
 ```
 
 Well that's frustrating:
@@ -43,6 +47,7 @@ Well that's frustrating:
 Not a normal error, but a quick Google for ```error loading shared libraries``` led to a [Stack Overflow article named "Error loading shared libraries"](http://stackoverflow.com/questions/4514997/error-loading-shared-libraries). Well isn't that lucky? Turns out just running ```sudo ldconfig``` tracked down my missing shared object, and next thing I know:
 
 ```
+
 cuckoo@cuckoo-box:~$ yara
 usage:  yara [OPTION]... RULES_FILE FILE | PID
 options:
@@ -62,6 +67,7 @@ options:
   -v                       show version information.
 
 Report bugs to: <vmalvarez@virustotal.com>
+
 ```
 
 ## For the Mac Users

@@ -54,6 +54,7 @@ Beyond just having a better taxonomy we need to work alongside marketing departm
 -The security community has difficult problems on its hands. Seemingly the harder we work to stop threats the more come up. We're already dramatically understaffed as an industry ([<i class="fa fa-file-pdf-o"></i> Leviathan Security Group: Analysis of Cloud vs. Local Storage: Capabilities, Opportunities, Challenges](http://www.leviathansecurity.com/cloudsecurity)). The last thing we need, the last thing we can afford, is to make our own lives more difficult by abusing overloaded terms to generate fear, uncertainty, and doubt.
 
 ## A Little Extra
+
 I've been working on tool I think could be useful in situations like this. While it's not ready for prime time yet here is a little preview:
 
 <script src="https://gist.github.com/sroberts/4a6677e66989d74a42ae.js"></script>
