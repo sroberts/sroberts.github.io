@@ -1,11 +1,12 @@
 ---
 layout: post
 title: The Perils of (Mis)Attribution
+description: 'Attribution is hard, lets go shopping!'
 ---
 
 It's impossible to be involved in the information security community right now and to avoid [the incident going on at Sony](http://www.wired.com/2014/12/sony-hack-what-we-know/). All of the details of the attack by "The Guardians of Peace" may never be publicly known, but it is safe to say that this has become one of _the_ defining computer security events from a public perspective. Plenty of people are addressing this from a variety of angles so I just want to speak to one, somewhat tertiary but none the less key issue, the "attribution" debate.
 
-![Super Creepy Computer Spy Eye](http://cdn4.spiegel.de/images/image-576643-breitwandaufmacher-wwyh.jpg)
+![Super Creepy Computer Spy Eye](/public/spookydigitaleye.jpg)
 
 >_Obligatory "Darky Computery Hacker" Image_
 
@@ -47,12 +48,14 @@ Reading these definitions attribution seems wildly reasonable to want to attribu
 Accurate attribution of attacks is difficult under the best of circumstances and there are a few key, common issues.
 
 ### Incomplete Information
+
 In most cases collecting data on security events is difficult. Very few organizations really have sufficient, comprehensive monitoring (full network content monitoring, endpoint monitoring, centralize logging, etc) necessary to recreate any and every event after the fact. Even if they do have the monitoring in place few companies can retain those logs long enough to pull up attacks going back 6+ months. Recreating incident are difficult even if you can acquire the malware and exploit vector (phishing email or watering hole). So at best most security teams are working with incomplete information.
 
 ### Circumstantial Information
+
 At it's core one of the most attractive things about offensive network operations is [how easy it is to be someone you're not](http://en.wikipedia.org/wiki/On_the_Internet,_nobody_knows_you're_a_dog).
 
-![On the Internet no one knows you're a dog](http://upload.wikimedia.org/wikipedia/en/f/f8/Internet_dog.jpg)
+![On the Internet no one knows you're a dog](/public/internet_dog.jpg)
 
 - IP Addresses are easy to fake with VPN software or a cheap VPS, thus seeming to come from any country you like.
 - Many network protocols have limited or zero security built in, making it [possible to intercept, spoof, or manipulate many types of communication with proper technology or network position](https://en.wikipedia.org/wiki/Tailored_Access_Operations#QUANTUM_attacks).
@@ -79,23 +82,22 @@ As a result it's key that information that could lead to those outcomes is caref
 
 I cannot say for certain, having had nothing to do with the investigation, but I would speculate that in this case all 3 (incomplete information, circumstantial information, and operational security) have played a role.
 
-### Incomplete Information
+### Sony's Incomplete Information
 
 I don't want to kick someone when they're down, but [there's been plenty of information to suggest Sony's security team wasn't operating at 100%](http://time.com/3620288/sony-hack-unprepared/). It seems reasonable to believe they may not have been in a position to identify and gather information about the attack when it happened. This would lead to gaps of information that would be difficult to reconstruct.
 
-### Circumstantial Information
+### Sony's Circumstantial Information
 
 This part is the same in every investigation. It is easy to bite and attempt to use information like IP geolocation or certificate data or language pack information, treat it as fact, and make assumptions about an attacker. That isn't to say this information is useless, contrary it's highly valuable data, but it does have to be used carefully. Data itself needs to be [developed before it can be considered intelligence](http://www.fbi.gov/about-us/intelligence/intelligence-cycle).
 
 "Carefully" in events like this is tough. It's hard for security teams, it's all but impossible for the press or firms trying to feed off the marketing potential of a new and exciting boogie man. Circumstantial evidence like this, coupled with confirmation bias, can often lead to jumping to obvious, even _convenient_, conclusions.
 
-### Operational Security
+### Sony's Operational Security
 
 Plenty of people have questioned the FBI's attribution to North Korea. One of the things most commonly cited is how little information they provide, much of which was circumstantial. This concern neglects, or at least naively ignores, what information they're [withholding deliberately](http://www.thedailybeast.com/articles/2015/01/02/u-s-spies-say-they-tracked-sony-hackers-for-years.html) to protect their sources & methods.
 
-<p>
-  <blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/iiamit">@iiamit</a> <a href="https://twitter.com/nselby">@nselby</a> Tl;dr : intelligence agencies don&#39;t share everything they know and it is annoying supersadface!</p>&mdash; daveaitel (\@daveaitel) <a href="https://twitter.com/daveaitel/status/546670555643252736">December 21, 2014</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr"><a href="https://twitter.com/iiamit">@iiamit</a> <a href="https://twitter.com/nselby">@nselby</a> Tl;dr : intelligence agencies don&#39;t share everything they know and it is annoying supersadface!</p>&mdash; daveaitel (@daveaitel) <a href="https://twitter.com/daveaitel/status/546670555643252736">December 21, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 Does the FBI/US Gov have better intelligence than they're letting on? I would guess they do, especially since the intelligence community can access all the different diciplines of intelligence (SIGINT, HUMINT, etc), but burning good sources just to make naysayers feel better isn't good intelligence management.
 
@@ -139,7 +141,7 @@ Being able to tie a series of TTPs to a name, even just a made up code name, is 
 
 ## Conclusion
 
-![OMG KJU](http://media.gizmodo.co.uk/wp-content/uploads/2015/01/s--xWrGDiOk--.jpg)
+![OMG KJU](/public/kimjong1337.jpg)
 
 > _Ok... this was some amazing Photoshopping by Gizmodo!_
 

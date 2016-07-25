@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The Importance of Mentoring
+description: 'I mentor because I had awesome mentors.'
 ---
 I'm a big believer in mentoring. Classes are great, self learning is hugely important, but there are few things that help someone grow as much as having someone a little bit farther down the road to give a little bit of guidance. I've been lucky enough throughout my life to have had many mentors in a number of aspects of my career and life. These people have been invaluable.
 

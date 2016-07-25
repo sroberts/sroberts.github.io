@@ -1,9 +1,10 @@
 ---
 layout: post
 title: A Year Later - 2016 Goals
+description: '2015 is over, lets see what I did and did not accomplish.'
 ---
 
-<img alt="fireworks!!!" src="http://media2.giphy.com/media/PEf5lEBpviP72/giphy.gif" width="1200">
+<img alt="fireworks!!!" src="/public/fireworks.gif" width="1200">
 
 While not being much for New Years Resolutions (though I do love fireworks) last year I shared [some professional goals](http://sroberts.github.io/2015/01/06/2015-professional-goals/). I even advocated accountability. I figure I should share how I did.
 

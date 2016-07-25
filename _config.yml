@@ -13,13 +13,15 @@ name:             '@sroberts'
 title:            '@sroberts'
 tagline:          'advanced persistent incident responder'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
-url:              http://sroberts.github.io
-baseurl:          /
+url:              https://sroberts.github.io
+google_site_verification: 'Cch3e4XH8E96IXldEhAntGgobwd-oG7bDPnAHEdf0HM'
 
 author:
   name:           'Scott J Roberts'
   url:            'https://twitter.com/sroberts'
   email:          'scott.roberts@gmail.com'
+  twitter:        'sroberts'
+  picture:        '/public/sjr.jpg'
 
 paginate:         5
 
@@ -34,16 +36,17 @@ twitter:
   main:           https://www.twitter.com/sroberts
 
 linkedin:
-  main:           http://www.linkedin.com/in/scottroberts
+  main:           https://www.linkedin.com/in/scottroberts
 
 pgp:
   main:           https://keybase.io/sroberts
 
 rss:
-  main:          http://sroberts.github.io/feed.xml
+  main:           https://sroberts.github.io/feed.xml
 
 gems:
 - jemoji
 - jekyll-sitemap
 - jekyll-feed
 - jekyll-paginate
+- jekyll-seo-tag

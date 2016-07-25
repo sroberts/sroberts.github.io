@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Travel OpSec
+description: 'A few small changes can make traveling safer with your computer resources.'
 ---
 
 Last year I was lucky enough to go to the [FIRST2015](https://www.first.org/conference/2015) conference in Berlin. It was a great conference, good talks (including [yours truly](http://sroberts.github.io/2015/07/08/ccir-presentation/)), and an even better hallway track. I'd never been to Berlin, or Germany in general, and I enjoyed seeing this amazing city a little bit as well.
@@ -12,9 +13,11 @@ Traveling to a new country as a security minded person is always a bit jarring. 
 Traveling internationally has some unique challenges compared to using IT resources at home.
 
 ### <i class="fa fa-plug"></i> Power
+
 Running around a new country one of the first things you might notice is powering your devices can be tricky. Plugs are different, voltages are different, and you may not have the right adapters. A good [travel battery can help](http://www.amazon.com/Anker-9600mAh-Portable-External-Technology/dp/B00DMWV3EU/ref=sr_1_4?ie=UTF8&qid=1436634357&sr=8-4&keywords=battery+anker), but at some point you'll be hunting for an outlet to grab a charge.
 
 ### <i class="fa fa-wifi"></i> Network
+
 Home is where the wifi is, but when you're traveling you have to take what you can get. You have to balance security with the need to connect. Random coffeeshop/airplane/hotel wifi are all viable pipes, but under who's control?
 
 ### <i class="fa fa-bicycle"></i> Movement
@@ -32,8 +35,6 @@ Depending on the country customs __seizing devices at check points__, either for
 The basic formula of both of these attacks is _physical access + time = compromise_.  Full Disk Encryption helps, but it's [not bulletproof](https://nakedsecurity.sophos.com/2012/02/02/filevault-encryption-broken/) given near infinite computing resources and near infinite time. If your computer leaves your site at a checkpoint assume the data is staying.
 
 ### <i class="fa fa-angle-double-right"></i> _Dark Hotel_ Style Attacks
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HQpGzivvtqg" frameborder="0" allowfullscreen></iframe>
 
 Moving past physical attacks there are other ways to steal data in hotels. The [DarkHotel APT group](https://securelist.com/blog/research/66779/the-darkhotel-apt/
 ) __targets victims by compromising the networks of common traveler destinations__ such as international hotels and uses their access to infect victims with trojans, pilfering data at their convenience.
@@ -79,6 +80,7 @@ I'm a far bigger fan of devices like an [iPad](http://www.apple.com/ipad/) or [C
 They're also both super light and get great battery life. All but the most dedicated road warriors don't need more than a browser for most travel use anyway.
 
 #### <i class="fa fa-angle-double-right"></i> Patch Everything
+
 Everything... and then double check:
 
 - Operating System
@@ -89,7 +91,7 @@ Don't forget your "other" devices like phones, Kindles, etc.
 
 #### <i class="fa fa-angle-double-right"></i> Prepare 2FA
 
-![Yubikey](http://immunityit.com/wp-content/uploads/2011/10/yubikeys.jpg)
+![Yubikey](/public/yubikeys.jpg)
 
 You already have two factor authentication turned on every where you can right? Well double check and make sure. [TOTP](https://tools.ietf.org/html/rfc6238) based is great, but [YubiKey](https://www.yubico.com/products/yubikey-hardware/) is becoming even more attractive as services are beginning to support the [FIDO/U2F standard](https://www.yubico.com/applications/fido/). I'm also a big [DuoSecurity](https://www.duosecurity.com/) fan for it's great interface, easy integration, and reasonable prices.
 
@@ -97,7 +99,7 @@ You already have two factor authentication turned on every where you can right? 
 
 [Setting up your own VPN isn't that hard](https://www.digitalocean.com/community/tutorials/how-to-set-up-an-openvpn-server-on-ubuntu-14-04) and provides a lot of trust and flexibility, even if it comes with some extra effort. While you're at it take the time to [enable DuoSecurity](https://www.duosecurity.com/docs/openvpn) as well.
 
-[![Cloak](http://i.kinja-img.com/gawker-media/image/upload/s--37hH2odE--/c_fit,fl_progressive,q_80,w_636/17wjodu7rofbhjpg.jpg)](https://www.getcloak.com/)
+[![Cloak](/public/cloak.jpg)](https://www.getcloak.com/)
 
 You could also use a paid VPN provider. The downside is placing your trust in another service but the upside is it's easy and often comes with more polish. I like [Cloak](https://www.getcloak.com/) for it's clean design and multi-device support.
 
@@ -110,9 +112,10 @@ You could also use a paid VPN provider. The downside is placing your trust in an
 Pretty huh? That said I'm still mixed on them. While it does a great job of keeping your words from the person sitting next to you it also draws attention. People wonder what you're trying to hide which makes it a double edged sword. Avoiding the gold side helps.
 
 #### <i class="fa fa-angle-double-right"></i> USB "Condom"
+
 Charging USB devices off of random USB charging stations or someone elses laptop is convenient but runs the risk of exposing you to [USB transmitted malware](http://www.symantec.com/security_response/writeup.jsp?docid=2010-071400-3123-99) or accidental syncing.
 
-![USB Condom](http://cdn.shopify.com/s/files/1/0616/6813/products/IMG_1204_grande.JPG?v=1432758676)
+![USB Condom](/public/syncstop.jpg)
 
 A USB condom (sorry for the uncouth term Mom) protects you by breaking the data transfer connections of USB while leaving the power connections intact. That means you can charge your device without inadvertently syncing data or worse.
 

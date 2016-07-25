@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Command-line Spell Checking with Aspell
+description: 'Wun dae eye wll spll gud.'
 ---
 
 In an effort to improve my "Unix" skills I'm trying to do more and more on the command line, such as writing this blog. This has worked out for me in a lot of ways, making much of my work faster, less environment dependent, and easier to reproduce/script. I've learned lots of tricks to help with this, but recently came across one of the best ones: Aspell.
@@ -14,7 +15,7 @@ So while Vim is great and all one of the things I struggled with is being able t
 I've been really impressed with Aspell and after using it a few days it's gotten a place on my "must have software" list. It's pretty simple:
 
 ```
-$ aspell -c _posts/2014-01-20-commandline-spellchecking-with-aspell
+\$ aspell -c _posts/2014-01-20-commandline-spellchecking-with-aspell
 ```
 
 Brings up a straight forward text interface:
