@@ -5,7 +5,7 @@ title: Intelligence Collection Priorities
 
 ![Meaningless globe picture of stuff and things..](/public/global-intel2.jpg)
 
-One of the hardest things when starting a threat intelligence program is deciding where to start. [This begins with an initial set of requirements and evolves from there.](https://sroberts.github.io/2016/03/30/cti-squad-goals-intro-to-requirements/) Everyone will give you a different opinion and insist on a different approach. As for me I think the best approach is to start with the small things, the easy things, and build up from there. What's easy depends a lot on your organization but this is my general list of useful collection sources for most organizations.
+One of the hardest things when starting a threat intelligence program is deciding where to start collection. [This begins with an initial set of requirements and evolves from there.](https://sroberts.github.io/2016/03/30/cti-squad-goals-intro-to-requirements/) Everyone will give you a different opinion and insist on a different approach probably biased by their favorite collection sources. As for me I think the best approach is to start with the small things, the easy things, and build up from there. What's easy depends a lot on your organization but this is my general list of useful collection sources for most organizations.
 
 ## <i class="fa fa-building-o"></i> Internal Incident Data
 
