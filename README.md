@@ -20,6 +20,12 @@ This is my attempt at a reasonable technical blog around security, programming, 
 * To get started run `bundle install` to get the necessary depenencies.
 * Want to run it and see the blog locally? Just run `bundle exec jekyll serve`.
 * Testing never hurts either, use `script/cibuild` to run tests locally.
+* There are even fun utilities for creating posts thanks to [jekyll-compose](https://github.com/jekyll/jekyll-compose):
+    * `jekyll draft`: Creates a new draft post with the given NAME
+    * `jekyll post`: Creates a new post with the given NAME
+    * `jekyll publish`: Moves a draft into the _posts directory and sets the date
+    * `jekyll unpublish`: Moves a post back into the _drafts directory
+    * `jekyll page`: Creates a new page with the given NAME
 
 ## License
 
