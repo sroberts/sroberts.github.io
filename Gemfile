@@ -5,4 +5,7 @@ gem 'html-proofer'
 gem 'github-pages'
 gem 'jekyll-feed'
 gem 'mdl'
-gem 'jekyll-compose', group: [:jekyll_plugins]
+group :jekyll_plugins do
+  gem "jekyll-admin"
+  gem "jekyll-compose"
+end
