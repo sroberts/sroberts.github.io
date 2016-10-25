@@ -16,10 +16,11 @@ layout: page
 
 ## <i class="fa fa-building-o"></i> Work Experience
 
-### [GitHub](http://www.github.com): Bad Guy Catcher
+### [GitHub](http://www.github.com): Manager of Security Incident Response Team
 
 <i class="fa fa-calendar-o"></i> November 2012 to Current
 
+- Hired & led Security Incident Response Team conducting all Incident Response & Handling, Malware Analysis, & Threat Intelligence.
 - Principle DFIR investigator for GitHub, the worlds repository for open & closed source software.
 - Developed comprehensive incident response, intrusion detection, & threat intelligence capabilities.
 - Spoke at technical conferences on topics including combining devops concepts with dfir tasks and tools.
