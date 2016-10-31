@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Maltego Transforms for the Lazy
+description: 'Defenders think in lists. Awesome defenders automate graph creation.'
 ---
 
 ![Maltego](/public/maltego.png)
@@ -51,9 +52,9 @@ Maltego translates the new XML data into new entities on the graph. That's a tra
 
 Every so often, things go wrong and it's important to be able to let the user know. MTP supports transform exceptions, _addException_ & _returnOutput_, which work just like _addEntity_ & _returnOutput_.
 
-## [FreeGeoIP Geolocation](http://freegeoip.net) Transform
+## FreeGeoIP Geolocation Transform
 
-All these pieces are great, but a full example helps. This transform takes an IPv4Address entity, requests the geolocation data from [FreeGeoIp.net](http://freegeoip.net), and returns a Location entity.
+All these pieces are great, but a full example helps. This transform takes an IPv4Address entity, requests the geolocation data from FreeGeoIp.net, and returns a Location entity.
 
 <script src="https://gist.github.com/sroberts/0f51855447189bb9e010.js"></script>
 
@@ -85,13 +86,13 @@ Creating packages of complex transforms has a lot going on, and that makes it di
 
 ### [TDS & Remote Transforms](http://www.paterva.com/web6/products/servers.php)
 
-I have no idea? I don't have a TDS aside from the public one. If I was working with a bigger team, all using Maltego, I'd invest in one but for now my experience is too limited to speak to them. They make it easy for everyone to work off a unified set of transforms & packages, ease the need to manually setup lots of Maltego instances, and centralize credentials and API keys. Paterva provided [a great site to help developers make the most of remote transforms](http://www.paterva.com/web6/documentation/developer-tds.php). I can say I do use the Malformity TDS hosted transforms for [PassiveTotal](http://www.passivetotal.com/) and they were easy to setup, wickedly fast, and highly useful.
+I have no idea? I don't have a TDS aside from the public one. If I was working with a bigger team, all using Maltego, I'd invest in one but for now my experience is too limited to speak to them. They make it easy for everyone to work off a unified set of transforms & packages, ease the need to manually setup lots of Maltego instances, and centralize credentials and API keys. Paterva provided [a great site to help developers make the most of remote transforms](http://www.paterva.com/web6/documentation/developer-tds.php). I can say I do use the Malformity TDS hosted transforms for [PassiveTotal](http://www.passivetotal.org/) and they were easy to setup, wickedly fast, and highly useful.
 
 ### [Transform Hub](http://dev.paterva.com/developer/advanced/transform_hub.php)
 
 The Transform Hub is one of banner features of the Chlorine release and will be game changing for a lot of users. Local transforms can be cumbersome and Canari improves that, but Transform Hub seeks to this even easier by including everything in Maltego itself. This makes it easy to install and configure transforms.
 
-## Conclusion
+## In Conclusion
 
 Is this the absolute best way to build transforms? Probably not, but I did name this _Maltego Transforms for the Lazy_. This is a great way to prototype new transforms and go from 0 to demo as efficiently as possible. I've just started writing transforms and I'm already having success pulling data into Maltego I'd have never imagined. Go for it, and share what you build, there's a lot to build on.
 

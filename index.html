@@ -19,7 +19,7 @@ title: Home
     {% unless words contains "-" %}
       {{ words | plus: 250 | divided_by: 180 | append: " min to read" }}
     {% else %}
-      < 1 min to read
+      Under 1 min to read
     {% endunless %}
     </span>
 
@@ -30,16 +30,12 @@ title: Home
 
 <div class="pagination">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
+    <a class="pagination-item older" href="{{ paginator.next_page_path | prepend: site.github.url }}">Older</a>
   {% else %}
     <span class="pagination-item older">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
+    <a class="pagination-item newer" href="{{ paginator.previous_page_path | prepend: site.github.url }}">Newer</a>
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}

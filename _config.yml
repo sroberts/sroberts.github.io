@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         kramdown
-highlighter:      pygments
+highlighter:      rouge
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "strikethrough"]
 exclude: [vendor]
@@ -9,34 +9,44 @@ exclude: [vendor]
 permalink:        pretty
 
 # Setup
+name:             '@sroberts'
 title:            '@sroberts'
 tagline:          'advanced persistent incident responder'
 description:      'intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @ github'
-url:              http://sroberts.github.io/
-baseurl:          /
+url:              https://sroberts.github.io
+google_site_verification: 'Cch3e4XH8E96IXldEhAntGgobwd-oG7bDPnAHEdf0HM'
 
 author:
   name:           'Scott J Roberts'
   url:            'https://twitter.com/sroberts'
   email:          'scott.roberts@gmail.com'
+  twitter:        'sroberts'
+  picture:        '/public/sjr.jpg'
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          2.1.0
 
 github:
-  main:           https://github.com/sroberts/
-  repo_url:       https://github.com/sroberts/sroberts.github.io/
+  main:           https://github.com/sroberts
+  repo_url:       https://github.com/sroberts/sroberts.github.io
 
 twitter:
   main:           https://www.twitter.com/sroberts
 
 linkedin:
-  main:           http://www.linkedin.com/in/scottroberts
+  main:           https://www.linkedin.com/in/scottroberts
 
 pgp:
   main:           https://keybase.io/sroberts
 
 rss:
-  main:          http://sroberts.github.io/atom.xml
+  main:           https://sroberts.github.io/feed.xml
+
+gems:
+- jemoji
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-paginate
+- jekyll-seo-tag

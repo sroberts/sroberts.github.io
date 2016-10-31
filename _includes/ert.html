@@ -4,5 +4,5 @@
 {% unless words contains "-" %}
   <span><i class="fa fa-clock-o"></i> {{ words | plus: 250 | divided_by: 180 | append: " min to read" }}</span>
 {% else %}
-  <span><i class="fa fa-clock-o"></i> < 1 min to read</span>
+  <span><i class="fa fa-clock-o"></i> Under 1 min to read</span>
 {% endunless %}
