@@ -33,9 +33,9 @@ Learning any language is never just about learning to write code, though that's 
 
 Start with [CodeAcademy: Python](https://www.codecademy.com/learn/python) to learn the basic syntax. It's free, there's no setup, and you'll learn enough to be dangerous in an afternoon. Ready to go deeper? You want [Learn Python the Hard Way](https://learnpythonthehardway.org/) for a pretty deep dive into Python, using your own machine. If you need a few littler reminders check out the [Learn X in Y minutes: Python3](https://learnxinyminutes.com/docs/python3/) cheatsheet.
 
-> __Aside: Python 2.7 vs Python 3__ If you want to get Python folks at each other just bring up Python3. Released a few years Python3 was meant to be a significant upgrade, fixing lots of old structural issues that couldn't be fixed earlier because they would break old code. Many people have been resistant, and even though it's been out for years Python3 still isn't the default. I focus on writing Python3, but your milage may vary and your organization may do things very differently.
+> __Aside: Python 2.7 vs Python 3__ If you want to get Python folks at each other just bring up Python3. Released a few years Python3 was meant to be a significant upgrade, fixing lots of old structural issues that couldn't be fixed earlier because they would break old code. Many people have been resistant, and even though it's been out for years Python3 still isn't the default. I focus on writing Python3, but your mileage may vary and your organization may do things very differently.
 
-One of the nicest things about learning an interpreted language like Python (or Ruby, Perl, etc) is being able to learn using a Read Evaluate Print Loop (Usually refered to as a REPL)
+One of the nicest things about learning an interpreted language like Python (or Ruby, Perl, etc) is being able to learn using a Read Evaluate Print Loop (Usually referred to as a REPL)
 
 ### Python Books
 
@@ -49,7 +49,7 @@ Python is so common in security that there are a number of great security centri
 
 One of the best things about Python is the multitude of libraries that already exist before you write your first line of code. These range from basic data manipulation libraries all the way up to complex web frameworks and data mining toolsets.
 
-In Python all packages are managed using `pip` (yeah yeah easy_install &amp; eggs and a bunch of other ways, but lets keep it basic). Searching for a new tool is as easy as `pip search virustotal`, which will return all the Python packages related to everyones favorite malware service. Decide you want to use one? A quick `pip install virustotal-api` and you're off to the races (Once you get a bit further down the road [you'll want to learn about using `pip`
+In Python all packages are managed using `pip` (yeah yeah easy_install &amp; eggs and a bunch of other ways, but lets keep it basic). Searching for a new tool is as easy as `pip search virustotal`, which will return all the Python packages related to everyone's favorite malware service. Decide you want to use one? A quick `pip install virustotal-api` and you're off to the races (Once you get a bit further down the road [you'll want to learn about using `pip`
  &amp; `virtualenv` together.](http://docs.python-guide.org/en/latest/dev/virtualenvs/))
 
 What libraries you want to use depends a lot on the work you're doing, but here are a few core ones most security minded Python developers will want to use:
