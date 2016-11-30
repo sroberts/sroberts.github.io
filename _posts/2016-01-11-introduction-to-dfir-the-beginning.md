@@ -93,11 +93,11 @@ This is one where people will disagree with me. I don't think every DFIR needs t
 
 | Type | Resource | Notes |
 | ---- | -------- | ----- |
-| Video | [Lenny Zeltzer's Introduction to Malware Analysis](https://vimeo.com/9474345) | There are only a handful speakers I will always take the chance to hear. Lenny is one of them. I learn something every single time. |
+| Video | [Lenny Zeltser's Introduction to Malware Analysis](https://vimeo.com/9474345) | There are only a handful speakers I will always take the chance to hear. Lenny is one of them. I learn something every single time. |
 | Link | [Malwr](https://malwr.com/) | So this is actually a tool which analyzes malware by running it but it's also a great place to experiment and learn. |
 | Tool | [Yara](https://plusvic.github.io/yara/) | It's basically AV you control. Also check out [this intro video](https://www.youtube.com/watch?v=TTLuy0gx5vE). |
 | Book | [Practical Malware Analysis](http://www.amazon.com/Practical-Malware-Analysis-Dissecting-Malicious/dp/1593272901/ref=pd_sim_14_21) | Easily the best book I've read for getting stronger in RE, this takes a very real world approach. |
-| Person | [@zeltzer](https://www.twitter.com/zeltzer) - Lenny Zeltzer | There are tons of amazing malware analysts. Lenny is the best _teacher_ of them all. |
+| Person | [@lennyzeltser](https://www.twitter.com/lennyzeltser) - Lenny Zeltser | There are tons of amazing malware analysts. Lenny is the best _teacher_ of them all. |
 
 ### Log Analysis
 
