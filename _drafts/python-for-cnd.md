@@ -37,7 +37,9 @@ Start with [CodeAcademy: Python](https://www.codecademy.com/learn/python) to lea
 
 One of the nicest things about learning an interpreted language like Python (or Ruby, Perl, etc) is being able to learn using a Read Evaluate Print Loop (Usually refered to as a REPL)
 
-### Books
+### Python Books
+
+Python is so common in security that there are a number of great security centric Python books. These are great ways to learn Python in a security specific context.
 
 - [Gray Hat Python](https://www.nostarch.com/ghpython.htm) - Especially strong on Python for Reverse Engineering.
 - [Black Hat Python](https://www.nostarch.com/blackhatpython) - A slightly more offensively focused take.
