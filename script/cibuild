@@ -11,7 +11,7 @@ title () {
 
 title "Building Site"
 bundle install
-bundle exec jekyll build
+bundle exec jekyll build --drafts
 
 title "Validating Markdown"
 bundle exec mdl -c ./.mdlrc _posts
