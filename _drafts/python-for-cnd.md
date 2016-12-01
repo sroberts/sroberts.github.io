@@ -3,7 +3,7 @@ layout: post
 title: Python for CND
 ---
 
-One thing I constantly harp on while talking to people beginning in the security community is the importance of learning to code. In my mind is a crime that we have so many "security professionals" who can barely write a lick of code. It's useful for automating common tasks, gather &amp; munging data, almost anything you can imagine. I think everyone should learn some coding and Python is the best place to start.
+One thing I constantly harp on while talking to people beginning in the security community is the importance of learning to code. I think it is awful that we have so many _security professionals_ cannot write a line of code. It's useful for automating common tasks, gathering &amp; manipulating data, almost anything you can imagine. I think everyone should learn some coding and Python is the best place to start.
 
 ## What is Python
 
@@ -21,6 +21,16 @@ is Open.
 
 Python is an interpreted language, meaning the `python` application takes the same `.py` file you write code in and runs that for you, without a compilation step in between (if you want a compiled language [I recommend looking at Golang](https://sroberts.github.io/2016/07/18/go-for-dfir/)). Python runs about anywhere and if you have a MacOS or Linux computer you probably already have Python installed.
 
+Python is beautifully simple. Here is Hello World:
+
+<script src="https://gist.github.com/sroberts/6586099cd3321d74a7d64d017b8c132c.js"></script>
+
+It rarely gets much simpler than that. Lets demonstrate something a bit more complicated:
+
+<script src="https://gist.github.com/sroberts/e86581cd38d4324569bb59da57da68c9.js"></script>
+
+Here we're using a library called [Requests](http://docs.python-requests.org/en/master/) to grab the [SANS Infocon status](https://isc.sans.edu/infocon.html) from their web service. Then we check to make sure the response had an [HTTP status code 200](https://en.wikipedia.org/wiki/List_of_HTTP_status_codes#2xx_Success) and return the value to print, otherwise if we can't get the Infocon successfully we'll return an error. _Contrived?_ Yes. _Simple?_ Of course. _Useful as a jumping off point?_ Absolutely.
+
 ## Why Use Python for Security?
 
 Because all the cool kids are doing it? Python is the default programming language for most network security types, having largely taken the mantle from Perl. It's easy to write, whether its a [basic script for rearranging data](https://github.com/sroberts/code-phrase-generator) or [elaborate large scale distributed security tools](https://github.com/google/grr), has lots of great libraries for common security tasks (we'll look at some of them later), and quick to learn.
@@ -31,13 +41,13 @@ Learning any language is never just about learning to write code, though that's 
 
 ### Core Language Syntax
 
-Start with [CodeAcademy: Python](https://www.codecademy.com/learn/python) to learn the basic syntax. It's free, there's no setup, and you'll learn enough to be dangerous in an afternoon. Ready to go deeper? You want [Learn Python the Hard Way](https://learnpythonthehardway.org/) for a pretty deep dive into Python, using your own machine. If you need a few littler reminders check out the [Learn X in Y minutes: Python3](https://learnxinyminutes.com/docs/python3/) cheatsheet.
+Start with [CodeAcademy: Python](https://www.codecademy.com/learn/python) to learn the basic syntax. It's free, there's no setup, and you'll learn enough to be dangerous in an afternoon. Ready to go deeper? You want [Learn Python the Hard Way](https://learnpythonthehardway.org/) for a deep dive into Python, using your own machine. If you need a few syntax reminders check out the [Learn X in Y minutes: Python3](https://learnxinyminutes.com/docs/python3/) cheatsheet.
 
 > __Aside: Python 2.7 vs Python 3__ If you want to get Python folks at each other just bring up Python3. Released a few years Python3 was meant to be a significant upgrade, fixing lots of old structural issues that couldn't be fixed earlier because they would break old code. Many people have been resistant, and even though it's been out for years Python3 still isn't the default. I focus on writing Python3, but your mileage may vary and your organization may do things very differently.
 
-One of the nicest things about learning an interpreted language like Python (or Ruby, Perl, etc) is being able to learn using a Read Evaluate Print Loop (Usually referred to as a REPL)
+One of the nicest things about learning an interpreted language like Python (or Ruby, Perl, etc) is being able to learn using a Read Evaluate Print Loop (Usually referred to as a REPL). You can start a REPL for Python by just typing `python` at a command prompt without any arguments. This lets you write Python line by line, getting the output immediately. It's a great way to do things quickly or just experiment.
 
-### Python Books
+### Python Security Books
 
 Python is so common in security that there are a number of great security centric Python books. These are great ways to learn Python in a security specific context.
 
@@ -62,7 +72,7 @@ What libraries you want to use depends a lot on the work you're doing, but here 
 
 There are literally thousands more, but these are three I reach to often.
 
-### Awesome Projects
+### Awesome Python Projects
 
 There are plenty of examples of great security tools using Python, many of which I've already talked about. Here's a new set I'd recommend looking into:
 
