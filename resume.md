@@ -114,6 +114,7 @@ I've been lucky enough to speak at industry conferences and company events. A li
 
 ### <i class="fa fa-newspaper-o"></i> Articles
 
+- Komand: [Defender Spotlight: Scott J. Roberts, Security Operations Manager at GitHub](https://blog.komand.com/defender-spotlight-scott-j-roberts-security-operations-manager)
 - Business Insider: [A computer engineer describes five ways learning his job made him incredibly insecure](http://www.businessinsider.com/github-engineer-solves-imposter-syndrome-2015-5) - May 2015
 - Help Net Security: [How GitHub is Redefining Software Development in ](http://www.net-security.org/secworld.php?id=17868) - January 2015
 
