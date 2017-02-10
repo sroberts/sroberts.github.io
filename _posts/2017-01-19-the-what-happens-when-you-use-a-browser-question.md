@@ -17,7 +17,7 @@ Like many good things in life the answer to this question is a recipe in two par
 
 ![Cooking!](https://media.giphy.com/media/26AHKESympDDgNG24/giphy.gif)
 
-Well… it’s sorta cooking… Source: [Giphy](https://giphy.com/gifs/budweiser-summer-beer-burger-26AHKESympDDgNG24)
+_Well… it’s sorta cooking… Source: [Giphy](https://giphy.com/gifs/budweiser-summer-beer-burger-26AHKESympDDgNG24)_
 
 ### The Ingredients
 
