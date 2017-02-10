@@ -5,7 +5,7 @@ excerpt: I am an Incident Responder with GitHub specializing in Incident Respons
 layout: page
 ---
 
-> I am an Incident Responder with GitHub specializing in Incident Response, Intrusion Detection, and Cyber Threat Intelligence operations.
+> I am an Incident Responder with GitHub specializing in Incident Response, Intrusion Detection, and Cyber Threat Intelligence operations. I'm also one of the authors of [O'Reilly's Intelligence Driven Incident Response](http://shop.oreilly.com/product/0636920043614.do).
 >
 > Want to know more? Lets have a conversation: <a href="http://www.google.com/recaptcha/mailhide/d?k=01ZLygg2Rp1J_40Q7hU7imBw==&amp;c=iGm-tkFOBm4udaP8_v1IOC4s-1cGK7XX6y5ma3M9v1Q=" onclick="window.open('http://www.google.com/recaptcha/mailhide/d?k\07501ZLygg2Rp1J_40Q7hU7imBw\75\75\46c\75iGm-tkFOBm4udaP8_v1IOC4s-1cGK7XX6y5ma3M9v1Q\075', '', 'toolbar=0,scrollbars=0,location=0,statusbar=0,menubar=0,resizable=0,width=500,height=300'); return false;" title="Reveal this e-mail address">s...</a>@gmail.com
 
@@ -24,12 +24,6 @@ layout: page
 - Hired & led Security Incident Response Team conducting all Incident Response & Handling, Malware Analysis, & Threat Intelligence.
 - Developed comprehensive incident response, intrusion detection, & threat intelligence capabilities.
 - Spoke at technical conferences on topics including combining devops concepts with dfir tasks and tools.
-
-### [SANS](https://www.sans.org/): Instructor for Forensics 578
-
-<i class="fa fa-calendar-o"></i> January 2017 to Current
-
-- Teaching [SANS Forensics 578: Cyber Threat Intelligence](https://www.sans.org/course/cyber-threat-intelligence), a course of techniques integrated with Digital Forensics & Incident Response Workflows.
 
 ### [Vigilant (Acquired by Deloitte)](http://www2.deloitte.com/us/en/pages/risk/solutions/cyber-risk-services.html):  Senior Intelligence Specialist
 
@@ -105,6 +99,10 @@ After leaving school my senior year of college to pursue my first professional p
 ## <i class="fa fa-users"></i> Publications
 
 ### [Writing](http://sroberts.github.io)
+
+Author of [O'Reilly's Intelligence Driven Incident Response](http://shop.oreilly.com/product/0636920043614.do) with Rebekah Brown
+
+> Threat intelligence—understanding the who, why, and how of attacks—is most valuable when applied directly to an organization’s incident response capability for hunting and investigation. Threat intelligence has become more common and important in recent years. However, many professionals want a better understanding of how to apply this intelligence within their operations and organizations. This book explains the fundamentals of intelligence analysis and the best ways to apply it to your incident response function.
 
 I write extensively on the topics of information security and development. Specifically I focus on Incident Response, Threat Intelligence, and Security Operations as well as Python & Go.
 
