@@ -90,15 +90,15 @@ layout: page
 
 ## <i class="fa fa-users"></i> Publications
 
-### [Writing](http://sroberts.github.io)
+### <i class="fa fa-book" aria-hidden="true"></i> Writing
 
-Author of [O'Reilly's Intelligence Driven Incident Response](http://shop.oreilly.com/product/0636920043614.do) with Rebekah Brown
+<i class="fa fa-angle-right" aria-hidden="true"></i> Author of [O'Reilly's Intelligence Driven Incident Response](http://shop.oreilly.com/product/0636920043614.do) with Rebekah Brown. Here's a summary:
 
 > Threat intelligence—understanding the who, why, and how of attacks—is most valuable when applied directly to an organization’s incident response capability for hunting and investigation. Threat intelligence has become more common and important in recent years. However, many professionals want a better understanding of how to apply this intelligence within their operations and organizations. This book explains the fundamentals of intelligence analysis and the best ways to apply it to your incident response function.
 
-I write extensively on the topics of information security and development. Specifically I focus on Incident Response, Threat Intelligence, and Security Operations as well as Python & Go.
+<i class="fa fa-angle-right" aria-hidden="true"></i> I also [write on my site](http://sroberts.github.io) extensively on the topics of information security and development. Specifically I focus on Incident Response, Threat Intelligence, and Security Operations as well as Python & Go.
 
-### [Presentations](https://speakerdeck.com/sroberts)
+### <i class="fa fa-file-powerpoint-o" aria-hidden="true"></i> [Presentations](https://speakerdeck.com/sroberts)
 
 I've been lucky enough to speak at industry conferences and company events. A list of my speaking engagements, including slides and some videos, is in the [Talks](http://sroberts.github.io/talks/) section of my site.
 
