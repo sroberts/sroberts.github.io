@@ -27,7 +27,7 @@ There are concepts/acronyms you must know, name drop, and discuss:
 - [DNS: Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System)
 - [BGP: Border Gateway Protocol](https://en.wikipedia.org/wiki/Border_Gateway_Protocol)
 - [HTTP: Hypertext Transfer Protocol](https://www.w3.org/Protocols/)
-- [TLS & HTTPS: Encrypted HTTP](TLS & HTTPS: Encrypted HTTP)
+- [TLS & HTTPS: Encrypted HTTP](https://tools.ietf.org/html/rfc5246)
 
 ### The Recipe
 
