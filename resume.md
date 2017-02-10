@@ -88,14 +88,6 @@ layout: page
 - Participated in 2013 & 2014 events on behalf of GitHub taking part in research paper competition, CTF, & THREADS technical conference.
 - Helped improve conference structure to increase value for both students and involved corporations.
 
-## <i class="fa fa-university"></i> Education
-
-### [Penn State University](http://www.psu.edu/): BS [Information Science & Technology](http://ist.psu.edu/)
-
-<i class="fa fa-calendar-o"></i> January 2004 to May 2006 & Resuming Summer 2015
-
-After leaving school my senior year of college to pursue my first professional position I have re-enrolled in [PennState's World Campus](http://www.worldcampus.psu.edu/) to complete my degree online. Anticipated completion Spring of 2016.
-
 ## <i class="fa fa-users"></i> Publications
 
 ### [Writing](http://sroberts.github.io)
@@ -115,6 +107,14 @@ I've been lucky enough to speak at industry conferences and company events. A li
 - Komand: [Defender Spotlight: Scott J. Roberts, Security Operations Manager at GitHub](https://blog.komand.com/defender-spotlight-scott-j-roberts-security-operations-manager)
 - Business Insider: [A computer engineer describes five ways learning his job made him incredibly insecure](http://www.businessinsider.com/github-engineer-solves-imposter-syndrome-2015-5) - May 2015
 - Help Net Security: [How GitHub is Redefining Software Development in ](http://www.net-security.org/secworld.php?id=17868) - January 2015
+
+## <i class="fa fa-university"></i> Education
+
+### [Penn State University](http://www.psu.edu/): BS [Information Science & Technology](http://ist.psu.edu/)
+
+<i class="fa fa-calendar-o"></i> January 2004 to May 2006
+
+IST with a Design and Development focus. Conducted research & development for the Penn State NSA Center for Information Assurance Excellence developing course material for teaching information security.
 
 ### <i class="fa fa-file-pdf-o"></i> Academic Publications
 
