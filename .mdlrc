@@ -1,4 +1,4 @@
-rules "~MD001,~MD002,~MD003,~MD004,~MD007,~MD010,~MD011,~MD013,~MD025,~MD026,~MD029,~MD030,~MD032,~MD033,~MD036,~MD037,~MD039"
+rules "~MD001,~MD002,~MD003,~MD004,~MD007,~MD010,~MD011,~MD013,~MD025,~MD026,~MD029,~MD030,~MD032,~MD033,~MD034,~MD036,~MD037,~MD039"
 
 # MD001 Header levels should only increment by one level at a time
 # MD002 First header should be a h1 header
