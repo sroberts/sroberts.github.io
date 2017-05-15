@@ -8,7 +8,7 @@ One of my favorite things is talking to students and people new to the security 
 
 ## What is DFIR anyway?
 
-Digital Forensics & Incident Response is a multidisciplinary profession that focuses on identifying, investigating, and remeidating computer network exploitation. This can take varied forms and involves a wide variety of skills, kinds of attackers, an kinds of targets. We'll discuss those more below.
+Digital Forensics & Incident Response is a multidisciplinary profession that focuses on identifying, investigating, and remediating computer network exploitation. This can take varied forms and involves a wide variety of skills, kinds of attackers, an kinds of targets. We'll discuss those more below.
 
 First though lets start with a core question: Do you want to do DFIR? You'll need the following traits (not all, but at least a majority of them):
 
