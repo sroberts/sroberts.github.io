@@ -41,7 +41,7 @@ DFIR is a mix technical and soft (people & process) skills. DFIR is a skill unto
 | Link | [Journey into Incident Response](http://journeyintoir.blogspot.com/) | Corey is a veteran incident responder who shares tons of resources big and small on his blog. |
 | Tool | [Redline](https://www.fireeye.com/services/freeware/redline.html) & [OSXCollector](http://yelp.github.io/osxcollector/) | Live response tools. Windows and OSX respectively. Try them out on your own systems. |
 | Book | [Digital Forensics and Incident Response 3rd Edition](http://www.amazon.com/Incident-Response-Computer-Forensics-Edition/dp/0071798684) | The name is a give away, but it's a legitimately great book that covers the breath of IR. |
-| Person | [@jackcr](https://www.twitter.com/jackcr) - Jack Crook | Jack's Twitter feed is a letter to new analysts. Easy things to learn and hard truths in the same breath. Every DIFR should read it. Honorable Mention to [@hacks4pancakes](https://twitter.com/hacks4pancakes). |
+| Person | [@jackcr](https://www.twitter.com/jackcr) - Jack Crook | Jack's Twitter feed is a letter to new analysts. Easy things to learn and hard truths in the same breath. Every DFIR should read it. Honorable Mention to [@hacks4pancakes](https://twitter.com/hacks4pancakes). |
 
 ## Technical Skills
 
@@ -186,7 +186,7 @@ One of the most important pieces to being a great DFIR is experience. Learning i
 
 ## T Shaped People
 
-The last thing we'll talk about is one way to think about understanding skills as a DIFR. The lists above cover the broad range of skills DFIRs have. Is everyone a master of all these skills? Not at all (Ok, I know one person who might be but that's a total anomaly). Most DFIRs specialize in a few aspects and have less knowledge in others.
+The last thing we'll talk about is one way to think about understanding skills as a DFIR. The lists above cover the broad range of skills DFIRs have. Is everyone a master of all these skills? Not at all (Ok, I know one person who might be but that's a total anomaly). Most DFIRs specialize in a few aspects and have less knowledge in others.
 
 ![T-Shaped People](https://docs.google.com/drawings/d/1c6xxt6JktO08HT6fIxEaCW50fVjHRvGnzbpECPMUmqk/pub?w=960&h=720)
 
