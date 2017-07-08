@@ -29,7 +29,7 @@ Plenty of key concepts don't merit a full book but are more in the 10-30 page ra
     *   **China:** [APT1 Report](https://www.fireeye.com/content/dam/fireeye-www/services/pdfs/mandiant-apt1-report.pdf) & [Op SMN/Axiom Report](http://www.novetta.com/wp-content/uploads/2014/11/Executive_Summary-Final_1.pdf) - One sorta basic, one more advanced. A good cross section.
 	*   **Russia:** [Peering Into the Aquarium](https://www.documentcloud.org/documents/3461560-Google-Aquarium-Clean.html)  - A leaked Google report (everyone has leaks) but the best survey of Russian threat actors I know of.
 	*   **United States:** [Equation Group](https://securelist.com/files/2015/02/Equation_group_questions_and_answers.pdf) - No one says US but its very clear. A great idea of what everyone wants to have.
-	*   **Everyone Else:** [Careto](https://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/unveilingthemask_v1.0.pdf), [Ocean Lotus](]https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html), & [Dark Seoul](https://www.mcafee.com/us/resources/white-papers/wp-dissecting-operation-troy.pdf) - A wide variety in three groups. Varied tactics & goals.
+	*   **Everyone Else:** [Careto](https://kasperskycontenthub.com/wp-content/uploads/sites/43/vlpdfs/unveilingthemask_v1.0.pdf), [Ocean Lotus](https://www.fireeye.com/blog/threat-research/2017/05/cyber-espionage-apt32.html), & [Dark Seoul](https://www.mcafee.com/us/resources/white-papers/wp-dissecting-operation-troy.pdf) - A wide variety in three groups. Varied tactics & goals.
 
 ## <i class="fa fa-sticky-note" aria-hidden="true"></i> Non-Computer Network Defense Specific Reading
 
@@ -47,8 +47,12 @@ While the books above are very technically focused on computer network defense (
 
 Our book is meant to cover both the network defense process and the intelligence process but more importantly how they can be integrated. Ultimately computer networks defense takes intrusion detection, incident response, & intelligence.
 
-## <i class="fa fa-film" aria-hidden="true"></i> Bonus! Jiro Dreams of Sushi & Sour Grapes
+## <i class="fa fa-film" aria-hidden="true"></i> Bonus! [Jiro Dreams of Sushi](http://www.imdb.com/title/tt1772925/) & [Sour Grapes](http://www.imdb.com/title/tt5728684/)
 
-So I was originally thinking about this post thought about
+As I was originally thinking about this post I thought it would be nothing but Intelligence & Incident Response books, but as I kept considering the topic it kept expanding and I wanted to be encompassing.
 
-Jiro Dreams of Sushi is a beautiful documentary about food, but more than that about the depth of
+Jiro Dreams of Sushi is a beautiful documentary about food, but more than that about the depth of effort and dedication it takes to really be the best at a craft. This is all the more important in an adversarial vocation like CTI, where in many cases it matters who's better, you or the adversary. For me I would like to be known as having the kind of tenacity as Jiro and those who work with him.
+
+Sour Grapes touches on a different but no less important, borderline unteachable, aspect of CTI/IR. I won't spoil the surprise, but Sour Grapes is a wonderful lesson in the investigative desire, that need to track down the adversary and figure out their techniques and goals.
+
+I recommend both highly and they're both excellent to watch even with non-CND people. They also pair with tuna nigiri and an off-dry Riesling.
