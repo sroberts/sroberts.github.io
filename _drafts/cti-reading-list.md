@@ -51,7 +51,15 @@ Our book is meant to cover both the network defense process and the intelligence
 
 As I was originally thinking about this post I thought it would be nothing but Intelligence & Incident Response books, but as I kept considering the topic it kept expanding and I wanted to be encompassing.
 
+![Jiro Dreams of Sushi Title](https://static-2.gumroad.com/res/gumroad/9845270552677/asset_previews/004b808d7ee222cd1fd45ee50e4594a7/retina/jiro.jpg)
+
+> Photo from [The Gumroad](https://gumroad.com/l/jiro)
+
 Jiro Dreams of Sushi is a beautiful documentary about food, but more than that about the depth of effort and dedication it takes to really be the best at a craft. This is all the more important in an adversarial vocation like CTI, where in many cases it matters who's better, you or the adversary. For me I would like to be known as having the kind of tenacity as Jiro and those who work with him.
+
+![Sour Grapes](https://media.newyorker.com/photos/59097adf1c7a8e33fb3900ba/16:9/w_1200,h_630,c_limit/Bosker-Sour-Grapes-4.jpg)
+
+> Photo from [The New Yorker: A True-Crime Documentary About the Con That Shook the World of Wine](http://www.newyorker.com/culture/culture-desk/a-true-crime-documentary-about-the-con-that-shook-the-world-of-wine)
 
 Sour Grapes touches on a different but no less important, borderline unteachable, aspect of CTI/IR. I won't spoil the surprise, but Sour Grapes is a wonderful lesson in the investigative desire, that need to track down the adversary and figure out their techniques and goals.
 
