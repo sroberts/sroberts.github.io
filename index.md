@@ -14,6 +14,10 @@ I am an Incident Responder with GitHub specializing in Incident Response, Intrus
 |:-----------------------------------------------:|:------------------------------------------------:|:-----------------------------------------------:|:---------------------------------------------------------:|
 |     [sroberts](https://github.com/sroberts)     |    [@sroberts](https://twitter.com/sroberts)     |    [@sroberts](https://medium.com/@sroberts)    | [scottroberts](https://www.linkedin.com/in/scottroberts/) |
 
+## Speaking
+
+I've been lucky enough to speak at a wide variety of technical & security events. You can find my slides on [Speakerdeck](https://speakerdeck.com/sroberts) and more info on [my speaking events list](https://gist.github.com/sroberts/46bc29dbc25d5e6310aa7ff6e36a4d19).
+
 ## Resume
 
 Want more information about where I've been or what I've done? Take a look at my [resume](https://docs.google.com/document/d/1jyLdXNefvK39pUkuRlIQ8dwJskQZOYEVB-IuHbetNIE/edit?usp=sharing).
@@ -24,4 +28,4 @@ Want to know more? Reach out to me on [Twitter](https://twitter.com/sroberts) or
 
 <hr>
 
-**_Created by @sroberts under the [MIT License](https://choosealicense.com/licenses/mit/) on [GitHub](https://github.com/sroberts/sroberts.github.io)_**
+**_By @sroberts based on [solo](https://github.com/chibicode/solo) under the [MIT License](https://choosealicense.com/licenses/mit/).
