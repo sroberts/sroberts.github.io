@@ -28,4 +28,4 @@ Want to know more? Reach out to me on [Twitter](https://twitter.com/sroberts) or
 
 <hr>
 
-**_By @sroberts based on [solo](https://github.com/chibicode/solo) under the [MIT License](https://choosealicense.com/licenses/mit/).
+**_By @sroberts based on [solo](https://github.com/chibicode/solo) under the [MIT License](https://choosealicense.com/licenses/mit/)._**
