@@ -1,7 +1,7 @@
 # Site settings
 title: sroberts
 tag_text: <i class="fa fa-at" aria-hidden="true"></i>sroberts
-description: It's a website... ya dig\?
+description: The personal website of Scott Robrerts. Security analyst, developer, writer, and instructor.
 
 # Build settings
 markdown: kramdown
