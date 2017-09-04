@@ -2,7 +2,7 @@
 layout: default
 ---
 
-> intelligentsia in training, network security ninja, pancake visionary, former mixtape master, wannabe coffee specialist, bad guy catcher @github
+> Network Defender, developer, speaker, writer, author of O'Reilly's Intelligence Driven Incident Response, & SANS instructor. Bad guy catcher @github.
 
 ## About
 
