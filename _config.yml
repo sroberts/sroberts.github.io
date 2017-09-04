@@ -8,3 +8,29 @@ markdown: kramdown
 exclude: ["README.md", "old/"]
 sass:
   style: compressed
+
+jekyll_plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+
+# contact_links:
+#   - name: Twitter
+#     url: https://twitter.com/sroberts
+#     icon: twitter
+#   - name: LinkedIn
+#     url: https://www.linkedin.com/in/scottjroberts
+#     icon: linkedin
+#   - name: Google
+#     url: https://plus.google.com/107848665104278257250?rel=author
+#     icon: google-plus
+#   - name: GitHub
+#     url: https://github.com/sroberts
+#     icon: github
+#   - name: Keybase
+#     url: https://keybase.io/sroberts
+#     icon: key
+#    - name: Medium
+#     url: https://medium.com/@sroberts
+#     icon: medium
