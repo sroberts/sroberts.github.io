@@ -8,3 +8,6 @@ markdown: kramdown
 exclude: ["README.md", "old/"]
 sass:
   style: compressed
+
+plugins_dir:
+  - jekyll-sitemap
