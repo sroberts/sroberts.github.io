@@ -9,6 +9,7 @@ layout: default
 |     [code](https://github.com/sroberts)     |    [tweets](https://twitter.com/sroberts)     |    [blog](https://medium.com/@sroberts)    | [professional](https://www.linkedin.com/in/scottroberts/) |
 
 ## Other
+
 - [Speaking](/speaking)
 - [Resume](https://docs.google.com/document/d/1jyLdXNefvK39pUkuRlIQ8dwJskQZOYEVB-IuHbetNIE/edit?usp=sharing)
 - [Contact Me](/contact)
