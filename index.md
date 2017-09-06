@@ -10,9 +10,9 @@ layout: default
 
 ## Other
 
-- [Speaking](/speaking)
+- [Speaking]({{site.url}}/speaking)
 - [Resume](https://docs.google.com/document/d/1jyLdXNefvK39pUkuRlIQ8dwJskQZOYEVB-IuHbetNIE/edit?usp=sharing)
-- [Contact Me](/contact)
+- [Contact Me]({{site.url}}/contact)
 
 <hr>
 *Made with <3 by @sroberts based on [Solo](http://chibicode.github.io/solo)*
