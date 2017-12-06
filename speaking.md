@@ -4,6 +4,7 @@ layout: default
 
 ## 2017
 
+- [GitHub Webcast](https://resources.github.com/webcasts/): Introduction to open source security tools ([Slides](https://speakerdeck.com/sroberts/introduction-to-open-source-security-tools) & [Video](https://resources.github.com/webcasts/Introduction-to-open-source-security-tools/))
 - [Mind The Sec](http://mindthesec.com.br/): Homemade Ramen & Threat Intelligence: A Recipe for Both
 - [O'Reilly Secuirty Podcast](https://www.oreilly.com/ideas/scott-roberts-on-intelligence-driven-incident-response) Scott Roberts on intelligence-driven incident response
 - [SANS DFIR Summit](https://www.sans.org/event/digital-forensics-summit-2017): Japanese Manufacturing, Killer Robots, & Effective Incident Handling
