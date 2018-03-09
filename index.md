@@ -10,6 +10,7 @@ layout: default
 
 ## Other
 
+- [Book]({{ site.url }}/book)
 - [Speaking]({{ site.url }}/speaking)
 - [Resume](https://docs.google.com/document/d/1jyLdXNefvK39pUkuRlIQ8dwJskQZOYEVB-IuHbetNIE/edit?usp=sharing)
 - [Contact Me]({{ site.url }}/contact)
