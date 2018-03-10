@@ -10,7 +10,7 @@ exclude: ["README.md", "old/"]
 sass:
   style: compressed
 
-plugins:
+plugins_dir:
   - jekyll-sitemap
   - jekyll-seo-tag
   # - jekyll-github-metadata
