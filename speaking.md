@@ -2,6 +2,10 @@
 layout: default
 ---
 
+## 2018
+
+- SANS Cyber Threat Intelligence Summit: Homemade Ramen & Threat Intelligence ([Slides](https://speakerdeck.com/sroberts/homemade-ramen-and-threat-intelligence))
+
 ## 2017
 
 - [GitHub Webcast](https://resources.github.com/webcasts/): Introduction to open source security tools ([Slides](https://speakerdeck.com/sroberts/introduction-to-open-source-security-tools) & [Video](https://resources.github.com/webcasts/Introduction-to-open-source-security-tools/))
