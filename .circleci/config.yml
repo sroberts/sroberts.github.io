@@ -1,11 +1,8 @@
 version: 2
 jobs:
   build:
-    parallelism: 3
-    working_directory: ~/sroberts.github.io
     docker:
-      - image: circleci/ruby:2.4-node
+      - image: circleci/ruby:2.4.1
     steps:
-      - run:
-        - name: Build for CI
-        - command: script/cibuild
+      - checkout
+      - run: script/cibuild
