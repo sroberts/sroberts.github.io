@@ -1,23 +1,27 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="description" content="{{ site.description }}">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>{{ site.title }}</title>
-  <link rel="stylesheet" href="css/main.css">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
-{% include head.html %}
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"> {% include head.html %}
 </head>
+
 <body>
-  <div class="container">
-    <h1><a href="{{ site.url }}">{{ site.tag_text }}</a></h1>
-    {{ content }}
-  </div>
-  <div id="umiwebchat-container"></div>
-  <script>var LandbotLiveConfig = { index: 'https://landbot.io/u/H-32354-H9WOTIIOESYRXAKD/index.html', accent: '#213446' };</script>
-  <script src="https://static.helloumi.com/umiwebchat/umiwebchat.js" defer></script>
-{% include scripts.html %}
+    <div class="container">
+        <h1>
+            <a href="{{ site.url }}">{{ site.tag_text }}</a>
+        </h1>
+        {{ content }}
+    </div>
+    <!-- Landbot - https://app.landbot.io -->
+    <div id="umiwebchat-container"></div>
+    <script>var LandbotLiveConfig = { index: 'https://landbot.io/u/H-32354-H9WOTIIOESYRXAKD/index.html', accent: '#213446' };</script>
+    <script src="https://static.helloumi.com/umiwebchat/umiwebchat.js" defer></script> {% include scripts.html %}
 </body>
+
 </html>
