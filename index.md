@@ -2,11 +2,12 @@
 layout: default
 ---
 
-> Network Defender, developer, speaker, writer, author of [O’Reilly’s Intelligence Driven Incident Response](http://shop.oreilly.com/product/0636920043614.do), & [SANS instructor](https://www.sans.org/instructors/scott-roberts).
+> Network Defender, developer, speaker, writer, author of [O’Reilly’s Intelligence Driven Incident Response (2nd Edition)](https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781098120672/), & [SANS instructor](https://www.sans.org/instructors/scott-roberts).
 
-| <i class="fa fa-github" aria-hidden="true"></i> | <i class="fa fa-twitter" aria-hidden="true"></i> | <i class="fa fa-medium" aria-hidden="true"></i> |     <i class="fa fa-linkedin" aria-hidden="true"></i>     |
+| <i class="fa fa-github" aria-hidden="true"></i> | <i class="fa fa-bluesky" aria-hidden="true"></i> | <i class="fa fa-medium" aria-hidden="true"></i> |     <i class="fa fa-linkedin" aria-hidden="true"></i>     |
 |:-----------------------------------------------:|:------------------------------------------------:|:-----------------------------------------------:|:---------------------------------------------------------:|
-|     [code](https://github.com/sroberts)     |    [tweets](https://twitter.com/sroberts)     |    [blog](https://medium.com/@sroberts)    | [professional](https://www.linkedin.com/in/scottroberts/) |
+|     [code](https://github.com/sroberts)     |    [bsky](https://sroberts.bsky.social)     |    [blog](https://medium.com/@sroberts)    | [professional](https://www.linkedin.com/in/scottroberts/) |
+
 
 ## Other
 
